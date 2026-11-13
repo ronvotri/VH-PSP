@@ -2,7 +2,7 @@
 
 Dữ liệu gốc do người dùng cung cấp: `strings_to_translate.csv`, tổng 5.599 mục.
 
-## Checkpoint 05 — 14/11/2026
+## Checkpoint 06 — 14/11/2026
 
 | Đợt | Số mục | Trạng thái |
 | --- | ---: | --- |
@@ -11,11 +11,12 @@ Dữ liệu gốc do người dùng cung cấp: `strings_to_translate.csv`, tổ
 | 03 | 121 | `patch_03_598-750.psv` |
 | 04 | 120 | `patch_04_1468-1653.psv` |
 | 05 | 180 | `patch_05_2784-2977.psv` |
-| **Tổng cộng từng đợt** | **911** | 911 ID duy nhất qua 5 đợt |
+| 06 | 121 | `patch_06_3980-4100.psv` |
+| **Tổng cộng từng đợt** | **1.032** | 1.032 ID duy nhất qua 6 đợt |
 
-**Đã xác minh trong repository: 704 ID khác nhau từ đợt 02–05, không xung đột ID.** Kiểm tra CSV đợt 01: đúng 207 dòng tiếng Việt, ID trong khoảng 5–267, không trùng các ID đợt 02–05. **Tổng 911 ID dịch khác nhau (16,3% của 5.599).**
+**Đã xác minh trong repository: 825 ID khác nhau từ đợt 02–06, không xung đột ID.** Kiểm tra CSV đợt 01: đúng 207 dòng tiếng Việt, ID trong khoảng 5–267, không trùng các ID đợt 02–05. **Tổng 1.032 ID dịch khác nhau (18,4% của 5.599).**
 
-Bản hợp nhất mới: `translations_merged_02-05.psv` — 704 bản dịch.
+Bản hợp nhất mới: `translations_merged_02-06.psv` — 825 bản dịch.
 Bản này **không phải** CSV gốc 5.599 hàng. Các tên nhân vật / model vũ khí chỉ có tính chất mã định danh không được tính là hoàn thành nếu chưa có dữ liệu dịch.
 
 ## Nguyên tắc
