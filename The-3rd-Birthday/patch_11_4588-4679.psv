@@ -1,0 +1,91 @@
+ID|Tiếng Việt
+4588|Di chuyển: Cần analog {194}\nLộn tới: {fd31}\nCamera: Các nút hướng{fe5a}
+4589|Nhấn {193} trong menu START\nđể mở Nhật ký nhiệm vụ,\nxem nút điều khiển ở Cài đặt.{fe5a}
+4590|Bản đồ chỉ hướng nằm\nở góc trên bên phải.{fe28}
+4591|Bình thường bản đồ màu xanh,\nkhi có Twisted gần sẽ chuyển cam.\nMũi tên chỉ vị trí hiện tại.{fe5a}
+4592|Khóa mục tiêu: {fd34}\nBắn: {fd30}\nNạp đạn: Nhấn {fd32}{fe78}
+4593|Đổi mục tiêu: {fd34} + {198}{199}\nKhóa địch gần nhất: {fd34} + {197}{fe78}
+4594|Nhấn {fd34} + {fd3d} để ném lựu đạn\nvề phía mục tiêu.{fe78}
+4595|Đổi súng: {fd46} + {fd47} hoặc {fd48} hoặc\n{fd49} hoặc {fd4a}{fe78}
+4596|Overdive: Giữ {fd3e}, dùng nút hướng\nchọn mục tiêu rồi thả {fd3e}\nHủy Overdive: {197} khi chọn{fe78}
+4597|Khi Overdive, bạn có thể dùng\nvũ khí của người mình nhập vào:\nOverdive, rồi {fd46} + {fd48}{fe8c}
+4598|Đến gần công sự, nhân vật sẽ\ntự động chuyển sang\nthế phòng thủ.{fe5a}
+4599|Công sự sẽ bị phá hủy\nsau vài đợt địch tấn công.{fe3c}
+4600|Khi núp sau công sự:\nBắn: {fd34} + {fd30} lúc đang núp\nNém lựu đạn: {fd3d} lúc núp{fe8c}
+4601|Khi bạn khóa cùng mục tiêu\nvới lính đang nấp,\nmột thanh đo sẽ hiện ra.{fe3c}
+4602|Crossfire: Nhấn {fd30} khi thanh đầy{fe64}
+4603|Khi Twisted lộ điểm yếu,\nbiểu tượng {191} sẽ xuất hiện.\nCrossfire giúp lộ điểm yếu nhanh hơn.{fe6e}
+4604|Overdive Kill: Khóa địch\nđang hiện {191}, rồi nhấn {fd42}{fe78}
+4605|Sát thương Overdive Kill\ntăng theo cấp độ của Aya.{fe3c}
+4606|Liberation:\nKhi thanh Liberation đầy,\nnhấn {fd3f} + {fd40}{fe8c}
+4607|Energy Shot: Nhấn {fd30} khi đang Liberation{fe8c}
+4608|Overdive Kill: Khóa địch\nđang hiện {191}, rồi nhấn {fd42}{fe8c}
+4609|Tiêu diệt Twisted khổng lồ\nrồi sang khu tiếp theo.{fe1e}\n
+4610|Diệt hết địch rồi\nsang khu tiếp theo.{fe1e}\n
+4611|Phá các khối cầu rồi\nsang khu tiếp theo.{fe1e}\n
+4612|Dùng Overdive diệt sạch địch\ntrong khu vực,\nkể cả các khối cầu.{fe1e}\n
+4613|Tìm và phá\ncác khối cầu còn lại.{fe1e}\n
+4614|Quay về điểm tập kết.{fe1e}\n
+4615|Thoát khỏi Reaper!{fe1e}\n
+4616|Mau đi hết lối này.{fe1e}\n
+4617|Phá khối cầu dưới chân\ncầu thang rồi sang\nkhu tiếp theo.{fe1e}\n
+4618|Tránh Reaper truy lùng,\nphá khối cầu rồi\nsang khu tiếp theo.{fe1e}\n
+4619|Hạ Twisted khổng lồ\nrồi sang khu tiếp theo.{fe1e}\n
+4620|Đến khu tiếp theo\nvà hội quân cùng SWAT.{fe1e}\n
+4621|Dọn sạch địch trong khu vực,\nrồi phá khối cầu.{fe1e}\n
+4622|Cầm cự đến khi\ntrực thăng tiếp viện tới!{fe1e}\n
+4623|Trang bị súng tỉa: {fd46} + {fd48}{fe1e}\n
+4624|Chế độ ngắm: {fd34}\nkhi đã trang bị súng tỉa{fe1e}\n
+4625|Đổi độ phóng đại: {fd34} + {fd43}\ntrong chế độ ngắm{fe1e}\n
+4626|Dùng súng tỉa bắn hạ\nStinker đang bay!{fe1e}\n
+4627|Phá hết khối cầu rồi\nđến khu tập kết.{fe1e}\n
+4628|Phá hết khối cầu rồi\nOverdive vào Babel.{fe1e}\n
+4629|Tiêu diệt kẻ địch!{fe1e}\n
+4630|Bạn chỉ được dùng Overdive,\nkhông thể dùng năng lực khác.\n
+4631|Xua tan sương độc\nvà mở lối đi.{fe1e}\n
+4632|Diệt địch rồi tiến lên.\n{fe1e}\n
+4633|Diệt địch rồi vào tòa nhà.\n{fe1e}\n
+4634|Dùng súng tỉa, bật chế độ ngắm\nđể tìm điểm yếu của địch.{fe1e}\n
+4635|Bắn trúng điểm yếu\nđể gây sát thương cực lớn.{fe1e}\n
+4636|Bắn hạ Stinker đang bay!\n{fe1e}\n
+4637|Diệt đám Bean\nđể mở lối đi.{fe1e}\n
+4638|Phá khối cầu, đừng để\nđịch sinh sôi thêm!{fe1e}\n
+4640|Phá khối cầu rồi\nsang khu tiếp theo.{fe1e}\n
+4641|Đi theo đường đến đích.{fe1e}\n
+4642|Tránh bị Detector phát hiện\ntrên đường đến đích.\n{fe1e}\n
+4643|Tiêu diệt Snatcher!{fe1e}\n
+4644|Đi theo đường đến đích.{fe1e}\n
+4645|Phá chướng ngại vật\nđể mở lối đi.{fe1e}\n
+4646|Thoát khỏi Reaper!{fe1e}\n
+4647|Tiến đến đích.{fe1e}\n
+4648|Tránh chạm bẫy hồng ngoại\ntrên đường đến đích.\n{fe1e}\n
+4649|Phá khối cầu rồi\nsang khu tiếp theo.{fe1e}\n
+4650|Đi theo đường đến đích.{fe1e}\n
+4651|Diệt địch rồi tiến lên.\n{fe1e}\n
+4652|Diệt Snatcher rồi thoát ra.\n{fe1e}\n
+4653|Tiến đến đích.{fe1e}\n
+4654|Diệt địch, chiếm lại\nnóc toa tàu.{fe1e}\n
+4655|Tiêu diệt Snatcher!{fe1e}\n
+4656|Tiến đến đích.{fe1e}\n
+4657|Quét sạch toàn bộ địch!{fe1e}\n
+4658|Hạ Spawn khổng lồ\nđể mở đường vào Babel.{fe1e}\n
+4659|Đặt C4: Đến gần vị trí đặt,\ngiữ {fd31} để gắn thuốc nổ.\n{fe78}\n
+4660|Quét sạch toàn bộ địch!{fe1e}\n
+4661|Đặt C4 lên cột trụ giữa.\n{fe1e}\n
+4662|Quét sạch Spawn!{fe1e}\n
+4663|Hội quân với đội Juneau Seven.\n{fe1e}\n
+4664|Diệt Roller rồi đặt C4.\n{fe1e}\n
+4665|Đặt C4 và tiêu diệt Twisted!\n{fe1e}\n
+4666|Overdive vào tay bắn tỉa,\nyểm trợ đặt C4\nvà diệt Twisted!{fe1e}\n
+4667|Sống sót đến khi\nviện binh tới!{fe1e}\n
+4668|Diệt Twisted, bảo vệ\nụ súng khỏi bị phá hủy!{fe1e}\n
+4669|Đặt C4 và tiêu diệt Twisted!\n{fe1e}\n
+4670|Phá chân đế Babel,\nyểm trợ quân tiếp viện\nrút lui.{fe1e}\n
+4671|Tiêu diệt Spawn nhỏ!{fe1e}\n
+4673|Hỗ trợ quân ta diệt địch,\nrồi tiến đến lõi Babel.\n{fe1e}\n
+4674|Diệt địch phía trước và bên trái,\ntiến đến chỗ quân phòng thủ.\n{fe1e}\n
+4675|Overdive vào lính tiếp viện\nđể mở đường tới lõi.\n{fe1e}\n
+4676|Phá bức tường xanh\nđể mở đường tới lõi.{fe1e}\n
+4677|Giữ vững trận địa!{fe1e}\n
+4678|Phá các khối cầu phía trên.{fe1e}\n
+4679|Tiêu diệt Reaper!{fe1e}\n
