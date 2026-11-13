@@ -1,0 +1,975 @@
+ID|Tiếng Việt
+268|SÚNG TRƯỜNG
+269|SHOTGUN
+270|SÚNG TỈA
+271|SÚNG PHÓNG
+272|ĐẶC BIỆT
+273|ỐNG NGẮM
+274|NÒNG SÚNG
+275|BĂNG ĐẠN
+276|BÁNG SÚNG
+277|TAY CẦM
+278|ĐẠN
+279|KHÔNG CÓ VŨ KHÍ
+280|Đổi trang bị hoặc chọn súng để tùy chỉnh.
+281|Chọn vũ khí mang theo làm nhiệm vụ.
+282|Chọn vũ khí cần tùy chỉnh.
+284|Mua món này?\n{fd20} / BP cần: {fd21}
+285|Cấp vũ khí quá thấp.\n\nYêu cầu cấp {fd20}: {fd21}
+286|Bạn không đủ BP.\n
+287|Tùy chỉnh súng ngắn 76SA.
+288|Dùng phụ kiện tùy chỉnh này?
+289|Tùy chỉnh vũ khí.
+290|Đổi hoặc mua vũ khí.
+291|[{fd20}] {fd21}\nTrang bị vũ khí này?
+292|[{fd20}] {fd21}\nTháo vũ khí này?
+293|[{fd20}] {fd21}\nDùng phụ kiện này?
+294|[{fd20}] {fd21}\nTháo phụ kiện này?
+295|Đổi vũ khí xong chưa?
+296|Tùy chỉnh vũ khí xong chưa?
+297|Có vũ khí mới để mua.
+298|Trang bị?
+299|{fd4b} Trang bị
+300|{191} Tùy chỉnh
+301|{fd4c} Hủy
+302|{fd4b} Đồng ý
+303|{fd4c} Hủy
+304|{fd4c} Quay lại
+305|{fd4c} Quay lại
+306|{fd4b} Đồng ý
+307|{fd4c} Hủy
+308|{fd4b} Có
+309|{fd4c} Không
+310|{fd4b} Đồng ý
+311|{fd4c} Quay lại
+312|{fd4b} Đồng ý
+313|{fd4c} Quay lại
+314|{fd4b} Có
+315|{fd4c} Không
+316|{fd4b} Đồng ý
+317|{fd4c} Hủy
+318|{fd4b} Đồng ý
+319|{fd4c} Hủy
+320|{fd4b} Đồng ý
+321|CHỌN
+322|TÙY CHỈNH
+323|THÁO
+324|Đổi và mua vũ khí
+325|Tùy chỉnh
+326|Trang bị
+327|Lắp
+328|Tháo
+329|Chọn loại vũ khí.
+336|Trang bị bảo hộ
+337|PHÒNG THỦ
+341|CHẾ ĐỘ XEM
+342|BẮT ĐẦU
+343|HƯỚNG DẪN NÚT
+344|THU NHỎ
+345|CUỘN
+346|GÓC NHÌN
+347|HƯ HẠI
+348|TƯ THẾ
+349|PHÓNG TO
+350|Chọn trang bị bảo hộ muốn mặc.
+351|CHẾ ĐỘ XEM
+352|Sửa trang bị hỏng?\nBP cần: {fd20}
+353|Không đủ BP để sửa trang bị.\nBP cần: {fd20}
+354|Chưa sửa được trang bị.
+355|Dùng giọng chiến đấu riêng của bộ đồ này?\n(Nếu không, game dùng giọng mặc định.)
+356|Bạn chưa sở hữu bộ đồ đang mặc.\nTrang bị đã trở về mặc định.
+357|CÀI ĐẶT
+358|ĐIỀU KHIỂN
+359|GÓC CAMERA
+360|ÂM THANH
+361|CÀI DỮ LIỆU
+362|PHỤ ĐỀ
+363|Kiểu điều khiển
+364|Xoay camera: Dọc
+365|Xoay camera: Ngang
+366|Kiểu góc nhìn
+367|Nhạc nền
+368|Hiệu ứng và giọng nói
+369|Kiểu giọng nói
+370|Dùng dữ liệu đã cài
+371|Hiển thị phụ đề
+372|Kiểu hành động 1
+373|Kiểu hành động 2
+374|Kiểu hành động 3
+375|Kiểu bắn súng
+376|Bình thường
+377|Sau lưng
+378|Bí mật
+379|Kiểu A
+380|Kiểu B
+381|Bình thường
+382|Đảo ngược
+383|Bật
+384|Tắt
+385|Thay đổi cách điều khiển.
+386|Đổi chiều xoay dọc của camera.
+387|Đổi chiều xoay ngang của camera.
+388|Chọn góc nhìn mặc định khi chơi.
+389|Chỉnh âm lượng nhạc nền.
+390|Chỉnh âm lượng hiệu ứng và giọng nói.
+392|Chọn có dùng dữ liệu đã cài không.
+393|Bật hoặc tắt phụ đề.
+394|Áp dụng cài đặt.
+395|Bạn chưa lưu thay đổi.\nVẫn hủy?
+397|{19a} Nạp đạn/[Giữ] Đổi súng
+398|{19a} Nạp đạn/[Giữ] Đổi súng
+399|{19a} Đặt lại camera/[Giữ] Khóa mục tiêu
+400|{19a} Đặt lại camera/[Giữ] Khóa mục tiêu
+401|Đặt lại camera/[Giữ] Khóa mục tiêu {19c}
+402|Đặt lại camera/[Giữ] Khóa mục tiêu {19c}
+403|Nạp đạn/[Giữ] Đổi súng {19c}
+404|Bắn {19c}
+405|Đổi giữa camera tự do\nvà khóa mục tiêu
+406|Overdive
+407|Bắn
+408|Bắn
+409|Lựu đạn
+410|Nạp đạn/[Giữ]\nĐổi súng
+411|Né tránh
+412|Lựu đạn
+413|Lựu đạn
+414|Bắn
+415|Lựu đạn
+416|Di chuyển
+418|Đổi súng
+423|Overdive Kill
+424|(Khi địch choáng) Giữ khóa mục tiêu {19c} + {191}
+425|(Khi địch choáng) Giữ khóa mục tiêu {19c} + {191}
+426|(Khi địch choáng) Giữ khóa mục tiêu {19a} + {191}
+427|(Khi địch choáng) Giữ khóa mục tiêu {19a} + {191}
+428|Liberation
+429|(Khi thanh Liberation đầy) Nhấn {191} + {192} cùng lúc
+430|PHÁT
+431|ĐỒNG Ý
+435|MÃ GIAN LẬN
+436|Tắt
+437|Bật
+438|MÃ HỖ TRỢ
+439|MÃ THỬ THÁCH
+440|Mua mã gian lận này?\nBP hiện có: {fd20}\nBP cần: {fd21}
+441|Bạn không đủ BP để mua.
+442|Một mã gian lận vừa được kích hoạt.\nTất cả mã gian lận đã bị tắt.
+443|{fd4b} Đồng ý
+444|{fd4c} Hủy
+445|MUA
+446|Nhật ký nhiệm vụ
+447|Thành tích
+448|Cài đặt
+449|Mã gian lận
+450|Thử lại
+451|Tải dữ liệu
+452|THÔNG TIN VŨ KHÍ GỠ LỖI
+453|ĐỔI VŨ KHÍ GỠ LỖI
+454|Bản đồ
+455|Trạng thái
+456|Rút lui
+457|Về màn hình chính
+458|AYA BREA
+459|CẤP
+460|SINH LỰC
+461|KINH NGHIỆM
+462|CÒN {fd20}
+463|CHẾ ĐỘ BẢN ĐỒ
+464|Tiến trình của bạn sẽ mất.\nTiếp tục?
+465|Thao tác này sẽ hủy điều tra Overdive\nvà quay về phòng giao nhiệm vụ.\nTiếp tục?
+466|Quay về màn hình chính?\nTiếp tục?
+467|Chơi lại từ điểm lưu gần nhất.
+468|Tải dữ liệu chơi.
+469|Hủy điều tra và về phòng giao nhiệm vụ.
+470|Mở danh sách mã gian lận.
+471|Mở menu cài đặt.
+472|Xem các chỉ thị đã nhận trong nhiệm vụ.
+473|Xem thành tích của nhiệm vụ này.
+474|Hiển thị bản đồ màn chơi.
+475|Xem trạng thái của Aya.
+476|Quay về phòng giao nhiệm vụ.
+477|Quay về màn hình chính.
+478|BẢN ĐỒ
+479|DANH SÁCH OE
+480|THÀNH TÍCH
+481|CHƯƠNG
+482|HOÀN THÀNH!
+483|Trạng thái
+484|Dòng thời gian
+485|Thành viên CTI
+486|Twisted
+487|Babel
+488|Nhân vật chủ chốt
+489|Ghi chú
+490|Thư
+491|Video
+492|Nhạc
+493|EPISODE 1
+494|EPISODE 2
+495|EPISODE 3
+496|EPISODE 4
+497|EPISODE 5
+498|EPISODE 6
+505|CHẾ ĐỘ XEM
+506|TRANG
+507|CUỘN
+508|PHÁT/DỪNG
+509|Xem hồ sơ các vụ án trước.
+510|Xem thông tin thành viên CTI.
+511|Xem báo cáo về Twisted.
+512|Xem báo cáo về Babel.
+513|Xem thông tin người liên quan đến vụ điều tra.
+514|Xem kho dữ liệu CTI.
+515|Đọc nhật ký email.
+516|Xem các đoạn phim trong game.
+517|Nghe nhạc trong game.
+518|Chọn một tệp.
+519|Đã mở khóa mục Video.
+520|Đã mở khóa mục Nhạc.
+521|NHẬT KÝ NHIỆM VỤ
+522|NHẬT KÝ NHIỆM VỤ
+523|NHẬT KÝ NHIỆM VỤ
+524|NHẬT KÝ NHIỆM VỤ
+525|NHẬT KÝ NHIỆM VỤ
+526|NHẬT KÝ NHIỆM VỤ
+527|NHẬT KÝ NHIỆM VỤ
+547|{fd4b} Đồng ý
+548|{fd4c} Hủy
+549|{fd4b} Có
+550|{fd4c} Không
+551|{fd4b} Trang sau
+554|Có vũ khí mới để mua.\n[{fd20}] {fd21}
+555|Đã mở khóa độ khó mới.
+556|Nhận được trang bị mới.
+557|Đã mở khóa giọng chiến đấu riêng của trang bị.
+558|Đã mở khóa mã gian lận mới.
+559|Nhận được chip Over Energy mới.
+560|Đã mở khóa chế độ xem mới.\n(Bật bằng nút {191} trong menu Trang bị bảo hộ.)
+561|Đã mở khóa nội dung bí mật.
+562|Đã mở khóa một mã gian lận.
+563|Có thêm phụ kiện tùy chỉnh để mua.\n\n{fd20} cho {fd21}
+564|Bạn có thể dùng thêm bảng DNA.
+565|Nhận {fd20} điểm kinh nghiệm.
+566|Nhận {fd20} BP.
+567|Đã lên cấp {fd20}.
+568|NHIỆM VỤ
+569|TRỢ GIÚP
+570|Bỏ qua?
+571|BẮT ĐẦU GAME
+572|BẮT ĐẦU GAME
+573|BẮT ĐẦU GAME
+574|Súng ngắn
+575|Súng ngắn
+576|Súng trường
+577|Súng trường
+578|Shotgun
+579|Shotgun
+580|Súng tỉa
+581|Súng tỉa
+582|Súng phóng
+583|Súng phóng
+584|Đặc biệt
+585|Đặc biệt
+586|THƯỜNG
+587|SỨC MẠNH
+588|UY LỰC
+589|TỐC ĐỘ
+590|SỨC CHỨA
+591|ĐỘ CHÍNH XÁC
+592|LIBERATION
+593|DỄ
+594|THƯỜNG
+595|KHÓ
+596|SINH TỬ
+597|ĐIÊN CUỒNG
+598|Không tìm thấy dữ liệu hệ thống.\nTạo dữ liệu mới?\nCần {fd20}KB dung lượng trống để lưu.
+599|Nếu không có dữ liệu hệ thống, các thay đổi cài đặt sẽ không được lưu.\nBạn có đồng ý không?
+600|Game sẽ tự động lưu ở một số thời điểm.\nĐừng tháo thẻ nhớ hay tắt máy\nkhi đèn truy cập Memory Stick{1a4} đang nhấp nháy.
+601|Không tải được dữ liệu hệ thống.\nTạo dữ liệu mới?\nCần {fd20}KB dung lượng trống để lưu.
+602|Bắt đầu lượt chơi mới với dữ liệu sau khi phá đảo.\n\nHãy chọn độ khó.
+603|Chơi Episode 00 (hướng dẫn) chứ?
+604|Không có dữ liệu cài đặt.\n\nGame sẽ đọc dữ liệu từ đĩa.\nMuốn cài dữ liệu, chọn Cài dữ liệu\ntrong mục Extra ở màn hình chính.
+605|Không tải được dữ liệu cài đặt vì đã hỏng.\n\nGame sẽ đọc dữ liệu từ đĩa.\nMuốn cài lại, chọn Cài dữ liệu\ntrong mục Extra ở màn hình chính.\n
+606|Không tải được dữ liệu cài đặt vì không thể truy cập thẻ nhớ.\n\nGame sẽ đọc dữ liệu từ đĩa.\nMuốn cài lại, chọn Cài dữ liệu\ntrong mục Extra ở màn hình chính.\n
+607|Không thể tải dữ liệu cài đặt.\n\nMuốn cài dữ liệu, chọn Cài dữ liệu\ntrong mục Extra ở màn hình chính.
+608|KHÔNG CÓ DỮ LIỆU
+609|SÁT THƯƠNG CAO NHẤT
+620|Chuẩn bị nhiệm vụ trong menu Tác chiến,\nnơi bạn có thể đổi vũ khí và đồ bảo hộ.\n\nKhi sẵn sàng, chọn Bắt đầu nhiệm vụ để trở về quá khứ.\n
+621|Dùng thiết bị đầu cuối này để truy cập trụ sở CTI.\nBạn có thể đổi và tùy chỉnh trang bị,\ncũng như sửa chữa đồ bảo hộ.\n
+622|Dùng Overdive trở về quá khứ và bắt đầu nhiệm vụ.\n
+623|Điều chỉnh dữ liệu di truyền của Aya\nđể nhận và cường hóa Over Energy.\n\nOver Energy là năng lực đặc biệt Aya có thể\nthi triển trong chiến đấu, với nhiều hiệu ứng khác nhau.\n
+624|Tại đây, bạn có thể đổi vũ khí mang theo khi làm nhiệm vụ.\nBạn cũng có thể mua linh kiện và tùy chỉnh\nđể nâng cấp vũ khí.\n
+625|Đổi đồ bảo hộ của Aya hoặc sửa\nnhững món đã hư hỏng.\n
+626|Luyện tập bằng cách chơi lại nhiệm vụ đã hoàn thành.\nBạn cũng có thể chọn chơi một phần nhiệm vụ.\n
+627|Đọc thông tin về Twisted, các thành viên CTI và hơn thế nữa.\n\nDữ liệu mới sẽ xuất hiện khi cuộc điều tra tiến triển.
+628|Hồ sơ về vụ án Twisted.\nNội dung thay đổi theo tiến độ nhiệm vụ.
+629|Xem hồ sơ các thành viên CTI.\nNội dung thay đổi theo tiến độ nhiệm vụ.
+630|Đọc thông tin về những chủng Twisted.\nDữ liệu được cập nhật khi bạn chạm trán chủng mới.\n
+631|Đọc hồ sơ về các Babel.\nThông tin mới được bổ sung sau mỗi nhiệm vụ.\n
+632|Đọc về những nhân vật chủ chốt\nliên quan đến vụ án Twisted.\n
+633|Đọc báo cáo CTI về các năng lực đặc biệt của Aya,\nbao gồm Overdive và Liberation.\n
+634|Đăng nhập máy chủ thư để xem email bí mật.\nDùng thêm BP để mở quyền truy cập cấp cao.
+635|Xem lại các đoạn phim của game.\n
+636|Nghe nhạc trong game.\n
+637|Thiết lập các tùy chọn ảnh hưởng đến Aya.\n\nHãy đón chờ tính năng này sau khi hoàn thành chương!\n
+638|Giờ bạn có thể chọn mã gian lận trong menu START\nkhi chuẩn bị nhiệm vụ.\n\nHoàn thành các điều kiện để mở khóa thêm mã.\n\nKhi bật mã gian lận, kết quả Xếp hạng và Thành tích\nsẽ không được ghi nhận.
+639|Chiến dịch Bụi Cầu Vồng
+640|Chiến dịch Bụi Cầu Vồng
+641|Chiến dịch Bão Đen
+642|Chiến dịch Sương Đỏ
+643|Chiến dịch Mưa Đá Xanh
+644|Chiến dịch Tuyết Đỏ Thẫm
+645|Đến “Thời Khắc Số Không”
+646|Rất nhiều Twisted đang sinh sôi trong một câu lạc bộ\nở Chelsea. Đặc vụ Aya Brea được giao hỗ trợ\nVệ binh Quốc gia và thu thập tin tức về kẻ địch lạ.\n
+647|Twisted xuất hiện ở Club Sacrifice ngay giữa buổi diễn.\nTheo mật lệnh quân đội, Vệ binh Quốc gia địa phương\nlập tức triển khai để cứu khán giả.\n
+648|Giữa cuộc đụng độ dữ dội với Twisted, đặc vụ Aya Brea\nquyết phá hủy các khối cầu, mở đường sang khu vực mới\nvà sơ tán những người sống sót trong câu lạc bộ.\n
+649|Vừa né đòn của Reaper{1a5}một Twisted gần như bất tử{1a5}\nđặc vụ Aya Brea vừa liều mạng thoát khỏi\nnhững bức tường Babel đang vây kín mình.\n
+650|Bí ẩn về Helix, Twisted mà Aya gặp tại câu lạc bộ,\ndần hé lộ. Cô phải đối đầu với thân hình khổng lồ\nvà sức mạnh áp đảo của nó trong trận chiến khốc liệt.\n
+651|Emily Jefferson đã biến thành Twisted. Đặc vụ Aya\nBrea dốc hết sức tấn công con quái vật\nvới những năng lực kỳ dị.\n
+652|FBI xác nhận Babel ở Spanish Harlem đang suy yếu.\nĐội SWAT xuất quân quét sạch Twisted, phá hủy Babel\nvà phối hợp quân đội tiến sâu vào bên trong.\n
+653|Giữa vùng chiến sự, Aya tiêu diệt toàn bộ kẻ địch\nvà tiến sâu vào Babel. Cô tưởng sẽ gặp Big Orb,\nnhưng thứ chờ đợi lại là Queen.\n
+654|Aya đẩy lùi các đợt Twisted, phá hủy những khối cầu\nvà mở được đường tấn công. Nhưng cô vẫn phải\ntìm người đồng đội Gabrielle đang mất tích.\n
+655|Gabrielle bất ngờ biến thành một Twisted dị dạng{1a5}\ngiống hệt Emily. Aya không còn lựa chọn nào khác\nngoài thi hành mệnh lệnh cuối cùng: tiêu diệt Gabrielle.\n
+656|Quân đội cử đội Delta Force tinh nhuệ của Russo\nđến Grand Central để thu thập thông tin về Babel,\nrồi tiêu diệt sinh vật kỳ quái ấy.\n
+657|Trong cuộc đột kích, Aya bị bọn Snatcher\nẩn nấp trong bóng tối săn đuổi. Cô chiến đấu\nhạ gục chúng rồi tiếp tục tiến đến lõi.\n
+658|Aya khéo léo dùng Overdive tránh những xúc tu sắc nhọn\ncủa Rover đang chực đâm xuyên cô. Một phát pháo\ntừ vệ tinh đã kết liễu con quái vật.\n
+659|Liên quân tập hợp lực lượng còn lại, tiến đến\ntháp North Shallows{1a5}nơi Kyle Madigan là mục tiêu cuối.\nHọ vừa giao chiến vừa đặt thuốc nổ phá hủy tháp.\n
+660|Aya phải vật lộn với Worm, con quái vật tựa cá sấu\nphóng đạn từ miệng. Cô đánh lui nó trong lúc\nnhiệm vụ đặt thuốc nổ vẫn tiếp diễn.\n
+661|Cuối cùng, Aya đối mặt với Kyle Madigan, người\ncô từng thề yêu trọn đời. Để cứu em gái Eve,\ncô quyết tâm tiêu diệt anh.\n
+662|Các Babel hợp nhất thành Grand Babel, pháo đài khổng lồ.\nBám víu vào tia hy vọng cuối cùng, binh lính sống sót\ntiến thẳng vào sào huyệt Twisted để phá hủy nó.\n
+663|Binh lính gặp Mudflap, loài mang năng lực tiềm ẩn\ngiống Queen. Aya dùng đòn tấn công tâm động lực\nđặc biệt để tiêu diệt Twisted hung hãn này.
+664|Sau khi phá vào lõi, Aya diệt hết lớp Twisted này\nđến lớp khác, mở đường qua khu vực mới\nvà đến điểm hẹn với Liên quân.\n
+665|Reaper điên cuồng xuất hiện trong bộ giáp sắt.\nAya chộp lấy khẩu Berserker mới{1a5}hy vọng cuối\nđể hạ con quái vật mà họ luôn phải chạy trốn.\n
+666|Cuối cùng Aya đối mặt Hyde. Cô dồn toàn bộ sức lực\nvào trận chiến sinh tử để tiêu diệt hắn,\nđánh cược tất cả nhằm giành lại gia đình đã mất.
+667|Xuyên thời gian đến “Thời Khắc Số Không”, Aya\nlao vào tâm trí Hyde, thiêu đốt cả sinh lực\ntrong cuộc tử chiến nhằm chấm dứt hắn mãi mãi.\n
+669|CLUB SACRIFICE
+670|SPANISH HARLEM
+671|GRAND CENTRAL
+672|THÁP NORTH SHALLOWS
+673|HẠ MANHATTAN
+674|THỜI KHẮC SỐ KHÔNG
+696|THỜI ĐIỂM HIỆN TẠI: NƠI THỜI GIAN KHÔNG TỒN TẠI
+697|VỆ BINH QUỐC GIA
+698|KHÁN GIẢ
+699|VỆ BINH QUỐC GIA
+700|VỆ BINH QUỐC GIA
+701|VỆ BINH QUỐC GIA
+702|VỆ BINH QUỐC GIA
+703|SWAT
+704|SWAT
+705|SWAT
+706|SWAT
+707|DELTA FORCE
+708|DELTA FORCE
+709|DELTA FORCE
+710|LIÊN QUÂN
+711|LIÊN QUÂN
+712|LIÊN QUÂN
+713|LIÊN QUÂN
+714|LIÊN QUÂN
+715|LIÊN QUÂN
+716|LIÊN QUÂN
+717|LIÊN QUÂN
+718|CHƯA RÕ
+719|BINH NHÌ
+720|THƯỜNG DÂN
+721|TÂN BINH
+722|TÂN BINH
+723|BINH NHÌ
+724|HẠ SĨ
+725|SĨ QUAN CẢNH SÁT III
+726|THÁM TỬ II
+727|TRUNG SĨ II
+728|SĨ QUAN CẢNH SÁT III+I
+729|TRUNG SĨ
+730|TRUNG SĨ NHẤT
+731|THƯỢNG SĨ
+732|HẠ SĨ
+733|BINH NHẤT
+734|TRUNG SĨ NHẤT
+735|TRUNG SĨ
+736|THƯỢNG SĨ CHỈ HUY
+737|TRUNG SĨ
+738|THIẾU ÚY
+739|LIÊN QUÂN
+740|CHƯA RÕ
+741|Giờ hai bên ngang cơ rồi.\n
+742|Overdive đi.\n
+743|Sao lại tự chuốc lấy đau đớn?\n
+744|Cô không có cửa đâu.\n
+745|Ôi, cô thay đổi nhiều thật đấy.\n
+746|Phải thế chứ.\n
+747|Chúng tôi sẽ dẫn đường cho cô, Aya.\nNào, Dive đi.\n
+748|Dùng Overdive mà tấn công,\nbao nhiêu lần cũng được!\n
+749|Nếu Hyde thoát khỏi tầm mắt,\nhãy Dive để đuổi theo hắn.\n
+750|Chúng tôi sẽ tìm Hyde.\nCô chỉ việc Dive thôi.\n
+1468|Hồi phục nhanh
+1469|Crossfire tự do
+1470|Đạn vô hạn
+1471|Không giáp
+1472|Không hỗ trợ né
+1473|Không tự hồi phục
+1474|Ẩn thông tin
+1475|Bệnh hiểm nghèo
+1476|Không dùng Over Energy
+1477|Sinh lực cố định
+1478|Giới hạn vũ khí
+1479|Khóa cấp độ
+1480|Trọng thương
+1481|Nửa lượng đạn
+1482|NPC trúng một đòn là chết
+1483|Không làm chậm
+1484|Duy trì sinh lực
+1485|Sát thương đồng đội
+1486|Không vật che chắn
+1487|Trúng một đòn là chết
+1491|(Mở khóa: Phá đảo 10 lần ở độ khó bất kỳ.)
+1492|(Mở khóa: Hoàn thành ít nhất 4 thành tích Chương 1 ở độ Khó.)
+1493|(Mở khóa: Hoàn thành ít nhất 4 thành tích Chương 2 ở độ Khó.)
+1494|(Mở khóa: Hoàn thành ít nhất 3 thành tích Chương 3 ở độ Khó.)
+1495|(Mở khóa: Hoàn thành ít nhất 3 thành tích Chương 4 ở độ Khó.)
+1496|(Mở khóa: Hoàn thành ít nhất 5 thành tích Chương 5 ở độ Khó.)
+1497|(Mở khóa: Hoàn thành ít nhất 75% thành tích ở độ Khó.)
+1498|(Mở khóa: Hoàn thành ít nhất 4 thành tích Chương 1 ở độ Sinh Tử.)
+1499|(Mở khóa: Hoàn thành ít nhất 4 thành tích Chương 2 ở độ Sinh Tử.)
+1500|(Mở khóa: Hoàn thành ít nhất 3 thành tích Chương 3 ở độ Sinh Tử.)
+1501|(Mở khóa: Hoàn thành ít nhất 3 thành tích Chương 4 ở độ Sinh Tử.)
+1502|(Mở khóa: Hoàn thành ít nhất 5 thành tích Chương 5 ở độ Sinh Tử.)
+1503|(Mở khóa: Hoàn thành ít nhất 75% thành tích ở độ Sinh Tử.)
+1504|(Mở khóa: Phá đảo ở độ Điên Cuồng.)
+1505|(Mở khóa: Phá đảo ở độ Điên Cuồng.)
+1506|(Mở khóa: Phá đảo ở độ Điên Cuồng.)
+1507|(Mở khóa: Hoàn thành ít nhất 75% thành tích ở độ Khó trở lên.)
+1508|(Mở khóa: Thu thập toàn bộ mã gian lận.)
+1509|Tăng mạnh tốc độ hồi sinh lực của Aya.
+1510|NPC có thể tham gia Crossfire dù không núp sau vật chắn.
+1511|Mọi loại súng đều có đạn vô hạn.
+1512|Đồ bảo hộ luôn ở mức hư hại tối đa.
+1513|Không được bất tử tạm thời khi né.
+1514|Sinh lực không tự hồi phục.
+1515|Không hiển thị thông tin chiến đấu.
+1516|Thanh Liberation chỉ nạp với nửa tốc độ.
+1517|Không thể sử dụng Over Energy.
+1518|Aya nhận lượng sinh lực tối đa của NPC được Overdive, bất kể cấp độ.
+1519|Chỉ được mang khẩu súng ngắn khởi đầu 76SA.
+1520|Aya luôn ở cấp 1 và không nhận kinh nghiệm.
+1521|Liên tục mất sinh lực.
+1522|Sức chứa đạn của mọi khẩu súng giảm một nửa.
+1523|NPC trúng một đòn là chết.
+1524|Thời gian không chậm lại khi Overdive.
+1525|Sinh lực không tăng hoặc giảm, kể cả khi Overdive.
+1526|Có thể chịu sát thương từ đồng minh.
+1527|Không có công sự hay vị trí cao.
+1528|Aya trúng một đòn là chết.
+1592|[Súng ngắn] 76SA / Khẩu súng Aya yêu thích. Nạp thanh Liberation nhanh.
+1593|[Súng ngắn] 70-Two / (Sẽ xóa)
+1594|[Súng ngắn] Rx4 Ribs JCP / (Sẽ xóa)
+1595|[Súng ngắn] A170D / Dễ kích hoạt Overdive Kill.
+1596|[Súng ngắn] A220D / Dễ kích hoạt Overdive Kill.
+1597|[Súng ngắn] A220 Cdr4 / Dễ kích hoạt Overdive Kill.
+1598|[Súng ngắn] T1923 B1 / Hỏa lực mạnh.
+1599|[Súng ngắn] CDA1923 FBI / Hỏa lực mạnh.
+1600|[Súng ngắn] VS Max / Hỏa lực mạnh.
+1601|[Súng ngắn] S459 / Tầm bắn xa.
+1602|[Súng ngắn] S449 / Tầm bắn xa.
+1603|[Súng ngắn] S440SAO / Tầm bắn xa.
+1604|[Súng ổ quay] T05 7.6cm / Ít đạn nhưng mỗi phát bắn cực mạnh.
+1605|[Súng ổ quay] T343 10.2cm / Ít đạn nhưng mỗi phát bắn cực mạnh.
+1606|[Súng ổ quay] T250 21.3cm / Ít đạn nhưng mỗi phát bắn cực mạnh.
+1607|[Súng ổ quay] TC C / (Sẽ xóa)
+1608|[Súng trường] ASR18B3 Carbine / Súng trường tấn công tiêu chuẩn.
+1609|[Súng trường] D6B2 / Súng trường tấn công tiêu chuẩn.
+1610|[Súng trường] D6B2 SPCACS / Súng trường tấn công tiêu chuẩn.
+1611|[Súng trường] B&C618 / (Sẽ xóa)
+1612|[Súng trường] AC-54 / Hỏa lực rất mạnh nhưng độ chính xác không cao.
+1613|[Súng trường] AC-89 / Hỏa lực rất mạnh nhưng độ chính xác không cao.
+1614|[Súng trường] AC SPCACS / Hỏa lực rất mạnh nhưng độ chính xác không cao.
+1615|[Súng trường] YS228 SWAT / Dễ kích hoạt Overdive Kill.
+1616|[Súng trường] YS226 / Dễ kích hoạt Overdive Kill.
+1617|[Súng trường] YS225 / Dễ kích hoạt Overdive Kill.
+1618|[Súng trường] KMC / Súng trường tiêu chuẩn. Nạp thanh Liberation nhanh.
+1619|[Súng trường] WELT-Lite / Dễ kích hoạt Overdive Kill. Nạp thanh Liberation nhanh.
+1620|[Súng trường] WELT-Hvy / Hỏa lực mạnh, độ chính xác thấp. Nạp thanh Liberation nhanh.
+1621|[Súng trường] AR-18 / (Sẽ xóa)
+1622|[Shotgun] H2200A / Dùng ở cự ly gần. Dễ kích hoạt Overdive Kill.
+1623|[Shotgun] H22-88A / Dùng ở cự ly gần. Dễ kích hoạt Overdive Kill.
+1624|[Shotgun] AH20 / Dùng ở cự ly gần. Dễ kích hoạt Overdive Kill.
+1625|[Shotgun] SHIN24 / Chiến đấu cự ly gần, hỏa lực mạnh.
+1626|[Shotgun] SHIN27 / Chiến đấu cự ly gần, hỏa lực mạnh.
+1627|[Shotgun] SHIN27 IC / Khẩu SHIN27 do Cray tùy chỉnh.
+1628|[Shotgun] Gr6-Tactic / Dùng ở cự ly gần. Rất dễ kích hoạt Overdive Kill.
+1629|[Shotgun] Gr7-Tactic / Dùng ở cự ly gần. Rất dễ kích hoạt Overdive Kill.
+1630|[Shotgun] Gr8-Tactic / Dùng ở cự ly gần. Rất dễ kích hoạt Overdive Kill.
+1631|[Súng tỉa] R3MR1 / Bắn xa, mỗi viên có uy lực lớn. Nhắm điểm yếu để gây sát thương cực mạnh.
+1632|[Súng tỉa] PMR-1 / Bắn xa, mỗi viên có uy lực lớn. Nhắm điểm yếu để gây sát thương cực mạnh.
+1633|[Súng tỉa] PMR-1 GB Custom / Khẩu PMR-1 do Gabrielle tùy chỉnh. Nhắm điểm yếu để gây sát thương cực mạnh.
+1634|[Súng tỉa] AS-20 MR / Bắn xa, hỏa lực thấp hơn nhưng chứa nhiều đạn. Nhắm điểm yếu để gây sát thương lớn.
+1635|[Súng tỉa] AS-50 RB / Bắn xa, hỏa lực thấp hơn nhưng chứa nhiều đạn. Nhắm điểm yếu để gây sát thương lớn.
+1636|[Súng tỉa] AS-R220 / Bắn xa, hỏa lực thấp hơn nhưng chứa nhiều đạn. Nhắm điểm yếu để gây sát thương lớn.
+1637|[Súng tỉa] T50B2 / Súng chống tăng. Mỗi phát cực mạnh. Nhắm điểm yếu để gây sát thương lớn.
+1638|[Súng tỉa] Sulli 50 Cal. / Súng chống tăng. Mỗi phát cực mạnh. Nhắm điểm yếu để gây sát thương lớn.
+1639|[Súng tỉa] T210 Pierce / Súng chống tăng. Mỗi phát cực mạnh. Nhắm điểm yếu để gây sát thương lớn.
+1640|[Súng phóng lựu] ExT420 / Gây sát thương lên địch trong vùng nổ.
+1641|[Súng phóng lựu] RGS-280 / Gây sát thương lên địch trong vùng nổ.
+1642|[Súng phóng lựu] AG-C / Gây sát thương lên địch trong vùng nổ.
+1643|[Đặc biệt] T498 PS / Có thể bắn liên tục.
+1644|[Đặc biệt] T94 Lite / Có thể bắn liên tục.
+1645|[Đặc biệt] T480C / Có thể bắn liên tục.
+1646|[Đặc biệt] Pile Bunker / Vũ khí cận chiến. Dùng cọc khổng lồ xuyên thủng mục tiêu.
+1647|[Đặc biệt] Blaze Edge / Bản sao Gunblade yêu thích của Lightning.
+1648|[Humvee] Fixed battery / Ụ súng cố định.
+1649|[Đặc biệt] Anti-Hunter laser / Laser chống Hunter.
+1650|[Trực thăng] ATG missile / Tên lửa đối đất.
+1651|[Trực thăng] Minigun / Súng máy nhiều nòng.
+1652|[Xe tăng] 105-mm M68A1 / Pháo M68A1 cỡ 105 mm.
+1653|[Xe tăng] M2 heavy machine gun / Súng máy hạng nặng M2.
+2784|Da đen
+2785|Áo lông vũ trắng
+2786|Trang phục hầu gái
+2787|Đồ công sở
+2788|Đồ bơi
+2789|Thỏ Titan
+2790|Sườn xám
+2791|Trang phục Lightning
+2792|Lính Giáng sinh
+2793|Bộ đồ Overdive
+2794|Giáp hiệp sĩ
+2796|Áo ba lỗ đen và quần jean rách\nkhông chịu đòn tốt, nhưng thiết\nkế ôm người giúp dễ di chuyển.\n
+2797|Áo khoác lông vũ trắng vừa ấm\nvừa nhẹ, rất hợp để điều tra\ngiữa mùa đông New York.\n
+2798|Váy tạp dề truyền thống, vốn\nlà đồ làm việc nhà của phụ nữ.\nCòn Aya mặc chỉ để cho vui.\n
+2799|Bộ vest váy ngắn màu đen. Nội\ny đỏ thấp thoáng đầy quyến rũ;\ncặp kính lại tạo vẻ lạnh lùng.\n
+2800|Mặc kệ mùa đông! Quần short\njean và dây chuyền gợi không khí\nmùa hè bất tận. Bộ bikini này\nvừa tươi trẻ vừa mong manh.\n
+2801|Bộ đồ thỏ táo bạo với đôi tai\ndài và đuôi bông đáng yêu{1a5}\nlại hữu ích bất ngờ khi Overdive.\n
+2802|Bộ sườn xám xanh nổi bật với\nhọa tiết trái tim, để hở vai.\nKiểu tóc lệch càng thêm dễ thương.\n
+2803|Hóa thân thành Lightning trong\nFinal Fantasy XIII. Khi bộ đồ\như hại, dấu l'Cie sẽ lộ ra.\n
+2804|Đồ ông già Noel phiên bản nữ.\nMặc liên tục mùa lễ hội, rồi\ncất tủ suốt phần còn lại của năm.\n
+2805|Bộ đồ Overdive thử nghiệm, thu\nthập đủ loại dữ liệu sinh học\nkhi Aya dịch chuyển. Chẳng có\nchút riêng tư nào cả.\n
+2806|Bộ giáp thật mua từ tiệm đồ cổ.\nVừa phòng thủ tốt vừa đẹp mắt.\nMặc vào là thấy dũng cảm hẳn.\n
+2807|Over Energy thử nghiệm
+2808|Energy Shot
+2809|Homing Shot (dự kiến bỏ)
+2810|Inferno
+2811|Regeneration
+2812|Energy Defense
+2813|Barrier
+2814|Pre-Raise
+2815|Bulletproof (dự kiến bỏ)
+2816|Boost Fire
+2817|Cross Healing
+2818|Rapid Link
+2819|Odds Up
+2820|Impact Wave
+2821|Healing
+2822|Haste
+2823|Power Surge
+2824|Antibody
+2825|Restock
+2826|Kill Boost
+2827|Critical Shot
+2828|Fanaticism
+2829|Endurance (dự kiến bỏ)
+2830|LIFE Drain (dự kiến bỏ)
+2831|Supply (dự kiến bỏ)
+2832|Rush (dự kiến bỏ)
+2833|Slow
+2834|Slow Recharge
+2835|Lowered Evasion
+2836|Odds Down
+2837|Disease
+2838|Illness
+2839|Tăng sát thương khi bắn trong trạng thái Liberation.
+2840|(dự kiến bỏ)
+2841|Trong trạng thái Liberation, nhấn {fd3d} để hy sinh bản thân, gây sát thương cực lớn lên toàn bộ kẻ địch.
+2842|Sinh lực hồi dần trong trạng thái Liberation.
+2843|Tăng phòng thủ liên tục.
+2844|Aya có cơ hội trở nên bất tử trong chốc lát sau khi nhận sát thương.
+2845|Hồi sinh một lần với đầy sinh lực khi bị hạ gục.
+2846|(dự kiến bỏ)
+2847|Tăng uy lực của Crossfire.
+2848|Người tham gia Crossfire có cơ hội hồi sinh lực.
+2849|Giúp kích hoạt Crossfire dễ hơn.
+2850|Tăng cơ hội nhận chip Over Energy chất lượng cao.
+2851|Aya có thể phát ra một loạt sóng xung kích khi Overdive.
+2852|Aya có cơ hội hồi một ít sinh lực khi Overdive.
+2853|Aya có thể chạy nhanh hơn sau khi tung Overdive Kill.
+2854|Sức tấn công có thể tăng sau khi hạ địch hoặc dùng Overdive Kill.
+2855|Phòng thủ có thể tăng trong lúc Overdive.
+2856|Có cơ hội bổ sung đạn khi Overdive.
+2857|Tăng sát thương Overdive Kill.
+2858|Có cơ hội bắn Energy Shot khi đang trang bị súng ngắn.
+2859|Sức tấn công có thể tăng sau khi hạ địch. (dự kiến bỏ)
+2860|(dự kiến bỏ)
+2861|(dự kiến bỏ)
+2862|(dự kiến bỏ)
+2863|(dự kiến bỏ)
+2864|Giảm nhẹ tốc độ di chuyển.
+2865|Tăng nhẹ thời gian thay băng đạn.
+2866|Giảm số lần né liên tiếp tối đa.
+2867|Giảm nhẹ tỉ lệ nhận chip Over Energy.
+2868|Khó tích đầy thanh Liberation hơn một chút.
+2869|Giảm nhẹ tốc độ hồi sinh lực.
+2870|ENERGY SHOT
+2871|HOMING SHOT
+2872|INFERNO
+2873|REGENERATION
+2874|ENERGY DEFENSE
+2875|BARRIER
+2876|PRE-RAISE
+2877|BULLETPROOF
+2878|BOOST FIRE
+2879|CROSS HEALING
+2880|RAPID LINK
+2881|ODDS UP
+2882|IMPACT WAVE
+2883|HEALING
+2884|HASTE
+2885|POWER SURGE
+2886|ANTIBODY
+2887|RESTOCK
+2888|KILL BOOST
+2889|CRITICAL SHOT
+2890|FANATICISM
+2891|ENDURANCE
+2892|LIFE DRAIN
+2893|SUPPLY
+2894|RUSH
+2895|SLOW
+2896|SLOW RECHARGE
+2897|LOWERED EVASION
+2898|ODDS DOWN
+2899|DISEASE
+2900|ILLNESS
+2902|Tháng 12
+2903|Tháng 12
+2904|Tháng 1
+2905|22/5
+2906|Tháng 6
+2907|Tháng 8
+2908|Tháng 8
+2909|Tháng 11
+2910|7/1
+2912|Tháng 5
+2914|Tháng 11
+2918|9/2
+2919|1/4
+2920|4/9
+2921|30/9
+2922|Tháng 10
+2923|3/10
+2924|Tháng 11
+2925|1/12
+2926|9/12
+2933|Phát hiện Aya Brea
+2934|Twisted xuất hiện lần đầu
+2935|Thành lập Cục Chống khủng bố
+2936|Thành lập Ủy ban Cố vấn CDC
+2937|Sự kiện Peter Feldman
+2938|Bộ trưởng Quốc phòng công bố Hồ sơ Twisted
+2939|Phân tích năng lực Overdive của Aya Brea
+2940|Thành lập Đội Điều tra Chống Twisted (CTI)
+2941|Thành lập đội đặc nhiệm TDM
+2942|Chiến dịch Sương Đỏ
+2944|Công bố báo cáo biến đổi bất thường của vỏ Trái Đất
+2945|Chiến dịch Bão Tím
+2946|Thành lập viện nghiên cứu tư nhân SRL
+2947|Hoàn thành thiết bị Overdive{1a6}Bắt đầu điều tra
+2948|Các Babel xuất hiện
+2949|Sự kiện Sacrifice
+2950|Tổng thống Mỹ họp báo khẩn
+2951|Cho phép phát triển vũ khí hạt nhân mới
+2952|Dự báo: Mỹ sẽ bị xóa sổ sau hai năm
+2953|Dự báo: Mỹ sẽ bị xóa sổ sau bốn năm
+2954|Dự báo: Mỹ sẽ bị xóa sổ sau sáu tháng
+2955|Không lực Một rơi
+2956|Tàu sân bay đang đóng bị phá hủy
+2957|Chiến dịch Sóng Thần Vàng
+2958|Chiến dịch Lốc Xoáy Xanh
+2959|Lầu Năm Góc bị phá hủy
+2960|Số thương vong tại bang New York vượt 5 triệu
+2961|Số thương vong tại bang New York vượt 3 triệu
+2962|Số thương vong tại bang New York vượt 1 triệu
+2963|Số thương vong tại bang New York vượt 10 triệu
+2964|Sự kiện Leavenworth
+2965|Sự kiện nhà hát opera Upper West Side
+2966|CTI thu được nhật ký của Emily Jefferson
+2967|Babel xuất hiện ở châu Á
+2968|Babel xuất hiện trên toàn thế giới
+2969|Hội đồng Bảo an LHQ kêu gọi lập liên quân
+2970|Người Mỹ sống sót tìm nơi trú ẩn tại Ireland
+2971|Chiến dịch Bão Tuyết Xám
+2972|Sự kiện Met
+2973|Sự kiện Spanish Harlem
+2974|Trụ sở FBI bị phá hủy
+2975|Long Island rơi vào tay Twisted
+2976|Kyle Madigan lấy tháp North Shallows làm căn cứ
+2977|Hiện tại
+3980|Coi chừng!\n
+3981|Đánh trực diện thế này\nchỉ có chết thôi!
+3982|Aya, nhắm vào chân trước\nđể chặn nó lại!
+3983|Chết tiệt!\nSao nó chưa chết!?\n
+3984|Thứ gì cũng có\nđiểm yếu. Tìm đi.
+3985|Aya, tìm điểm yếu\nrồi tấn công vào đó.
+3986|Đến chỗ có\ntầm nhìn thoáng đi.\n
+3987|Phải biết rõ thứ\nmình đang đối mặt.{fe30}
+3988|Không ổn rồi!\n{fe29}
+3989|Đòn đánh thường\nchẳng ăn thua.{fe33}
+3990|Được rồi! Vị trí\nđó rất tốt!
+3991|Khoan đã!{fe14}
+3992|Đúng rồi!\n{fe1f}
+3993|Aya, tấn công đi.\n
+3994|Làm tốt lắm, Aya.\n
+3995|Sang khu tiếp theo đi.\n
+3996|Chết tiệt! Cứ thế này\nthì chết cả lũ mất!
+3997|Nó chẳng yếu đi!\nĐánh từ bên sườn!
+3998|Ăn đòn đi, đồ quái vật!\n
+3999|Phải tập hợp lại.\nĐến câu lạc bộ!
+4000|Này, nhóc.\nCá cược không?
+4001|Cá chuyện gì vậy, thưa sếp?\n
+4002|Xem tôi có sống sót\nđến khu tiếp theo không.
+4003|Tôi không thể đem\nmạng người ra cá cược.\n
+4004|Vậy là cậu chưa\nlăn lộn đủ lâu rồi.
+4005|Glenn đã gào thét lúc\nchết... Kinh khủng lắm.
+4006|Sống mà không cá cược\nthì sống làm gì.
+4007|Blank, có chuyện gì vậy?\n
+4008|Tôi đang phân tích dữ liệu.\nKhông thể tin nổi!{fe84}
+4009|Cô sợ à?\n
+4010|Người chết đâu biết sợ.{fe4e}
+4011|Các đòn tấn công{1a5}hình như\nchẳng hề làm nó đau!{fe50}
+4012|Phải tìm cách khác\nđể tiêu diệt nó.\n
+4013|Ý anh là... giải phóng\nsức mạnh của tôi?\n
+4014|Tấn công thông thường\nvô ích thôi.
+4015|Aya?\n
+4016|Cô không nhớ sao?\n
+4017|Tôi đang ở đâu?\n
+4018|Nhanh lên. Bắt lấy tôi.\n
+4019|Cô đang khóc à?\n
+4020|Tôi không còn tồn tại nữa.\n
+4021|Việc đầu tiên của cô là\nhỗ trợ đội SWAT.{fe55}
+4022|Ba ngày trước, Gabby\nđã làm nhiệm vụ bắn tỉa.{fe5a}
+4023|Stinker tấn công\nphối hợp sao?
+4024|Ừ, bất ngờ lắm!\nChơi không đẹp chút nào!\n
+4025|Gabrielle thất bại, nhưng\ntôi tin cô làm được,{fe4b}
+4026|Thưa sếp, nói vậy\nhơi nặng lời đấy.\n
+4027|Cẩn thận bao nhiêu\ncũng không thừa...{fe3e}
+4028|Rover đấy! Coi chừng\nánh sáng chúng phát ra.
+4029|Dính phải luồng sáng đó\nlà cô sẽ bị tê liệt.
+4030|Mọi người chết hết rồi.\n
+4031|Cố lên, Aya!{fe2d}
+4032|Được rồi, cô đang\nđiều khiển Gabby.{fe73}
+4033|Tốt lắm.{fe28}
+4034|Giỏi lắm, Aya!\n
+4035|Chúng ta sẽ tấn công\nBabel.{fe3c}
+4036|Bắn ngay!\n
+4037|Tản ra! Rõ chưa?\n
+4038|Đi! Đi mau!\nChạy đi, lính mới!
+4039|Chúng kéo đến mãi!\nNhìn đường đi chứ!
+4040|Bắn tan xác lũ khốn!\n
+4041|Lên thẳng mái nhà!\n
+4042|Stinker đến rồi!{fe63}
+4043|Tránh những đám mây đó\nrồi tiếp tục tiến lên!
+4044|Thưa sếp, có một con\ntrông khác hẳn bọn{fe5a}
+4045|Rất có thể đó là con\nđang tạo ra{fe2d}
+4046|Aya, tôi gửi dữ liệu\ncủa nó cho cô.\n{fe4a}
+4047|Sương mù đã tan\nở vài khu vực.
+4048|Đuổi theo lũ Stinker\nđang bay phía trên.
+4049|Sương mù này!\nTôi không nhúc nhích được!\n
+4050|Thằng khốn đó bất ngờ\nlao ra từ màn sương!
+4051|Sương đã tan nhưng\nviệc vẫn chưa xong.
+4052|Các tay súng tỉa,\nlên mái nhà!
+4053|Nhìn lên!\nCon cuối cùng ở trên đầu!
+4054|Đội bắn tỉa, nghe rõ không?\n
+4055|Đội bắn tỉa, trả lời đi!\n
+4056|Tìm thấy họ rồi!\n
+4057|Aya, sắp xong rồi!\nCố thêm chút nữa!
+4058|Phía trước có các khối cầu.{fe3b}
+4059|Ừ, nhưng nhìn xem,\nđịch đông quá!{fe4e}
+4060|Blank, tình hình\nphía trước thế nào?
+4061|Tôi phát hiện địch\nở khắp nơi!
+4062|Nhớ lại trận chiến\nkhó khăn nhất đời cô.{fe49}
+4063|Một mình cô không thể\nlàm nổi đâu.\n{fe4a}
+4064|Có cựu binh Delta Force\nđi cùng ta. Tên Cray.
+4065|Thelonious Cray ư!?\nTôi biết anh ta!
+4066|Chắc anh ấy đang trên đường\nđến khu phía trước.
+4067|Cray còn sống, Aya!\nTin tốt quá!
+4068|Cray với tôi từng là\nbạn ở học viện.
+4069|Harlem bị phá hủy rồi.\nTôi lớn lên ở đó.
+4070|Ông của anh từng\nlàm cho mafia nhỉ?
+4071|Ừ. Người Sicilia không tha\nkẻ hại gia đình mình.
+4072|Sương độc đã giết sạch\ncả tiểu đội tôi...\n
+4073|Tôi sẽ nghiền nát bất cứ ai\ndám xúc phạm gia đình mình!
+4074|May quá! Ta có thể\ndùng pháo vệ tinh!
+4075|Aya, hãy Overdive vào người\nđang dùng thiết bị ngắm.{fe78}
+4076|Chiếu sáng mục tiêu\nvà giữ tâm ngắm{fe32}
+4077|Tôi sẽ Dive vào trong Babel.\n
+4078|[{fd22}Khoan! Tôi chưa phân tích\nxong dữ liệu!{fd23}]
+4079|Tôi đi đây.\n
+4080|Lục soát Babel!\nPhá hủy các khối cầu!
+4081|Bảo vệ chúng tôi cho đến\nkhi viện binh tới.
+4082|Viện binh sắp đến,\nmang theo vũ khí mới cực mạnh.
+4083|Viện binh tới rồi!
+4084|Mục tiêu đã bị tiêu diệt.\n
+4085|Nó sắp sập rồi.\nBlank, đưa lên!
+4086|Rõ, thưa sếp!\n
+4087|Sao quái vật này lại ở đây!?\nLẽ nào đây là... của Babel?
+4088|Dùng Overdive Kill\nđể kết liễu nó!
+4089|T-Tôi bị hút vào!\nNếu không Overdive thoát ra...
+4090|Tôi hết sức rồi!\n
+4091|Nếu cô muốn cứu\nMonsigny,{fe64}
+4092|Thì Dive hay làm gì\nđó đi!
+4093|Hyde và những người khác\nhiện đang tìm kiếm{fe41}
+4094|Twisted cứ bắt người\nrồi khiến họ biến mất.
+4095|Chết tiệt! Lũ quái vật\ntừ đâu chui ra vậy?
+4096|Khốn kiếp, nguy rồi!\n
+4097|Sao thế? Sợ à?\n
+4098|...Ừ. Huấn luyện chẳng\nchuẩn bị cho tôi chuyện này.
+4099|Đừng lo. Tôi tè ra quần\ntừ lâu rồi.
+4100|Chạy đủ nhiều, quần sẽ\ntự khô lúc nào không hay.
+4101|Đúng là một cuộc thảm sát... Thi thể\nbiến mất rồi, nhưng mùi vẫn còn...
+4102|Sương mù à? Cô sẽ\ntìm được cách vượt qua.
+4103|Phải tìm cách xử lý\nđám sương này.
+4104|Dẹp đám sương đi! Phải\ntiêu diệt lũ Stinker.
+4105|À, thế này khá hơn rồi.\nDọn sạch phần còn lại đi!
+4106|Lũ khốn này không\nđùa đâu!
+4107|Tiếp tục cuộc chơi nào,\nđược chứ?
+4108|Cứ đi thẳng.\n
+4109|Có địch phía trước!\n
+4110|Viện binh tới rồi đây.{fe66}
+4111|Gabrielle đây.\n
+4112|Con gái à?\n
+4113|Tập trung bắn lũ Wad\nđể dọn đường!
+4114|Rẽ phải.\n
+4115|Không, rẽ trái.\n
+4116|Xin lỗi, tôi chưa quen\ndùng thiết bị này.
+4117|Mất thời gian quá.\nĐể tôi nói cho rõ.{fe8e}
+4118|Gabrielle đây.\n
+4119|Đúng là cô ấy...\nTôi chắc chắn.
+4120|Roller hả? Lũ này nhanh thật.\nĐánh gọng kìm hạ chúng đi.
+4121|Sương độc! Ra khỏi đó!\nChạm vào là toi mạng!
+4122|Bắn hạ bầy Stinker\nđang bay trên đầu!
+4123|Chết tiệt! Tôi đã bảo rồi!\nTránh xa đám sương ra!
+4124|Tôi phát hiện kẻ địch\nở phía trên cô.
+4125|Không có người{fe3b}\nchỉ đường là chịu à?
+4126|Tốt nhất cô nên chứng tỏ\nmình không phí tiền thuế{fe50}
+4127|Đi thay đổi quá khứ đi...\nNếu cô làm được.
+4128|Chà, đông thật đấy.\n
+4129|Việc của cô là\ndọn sạch chúng.\n
+4130|Aya{1a5}\n
+4131|Đừng đế{1a5}\n
+4132|Khốn kiếp! Đông quá!\n
+4133|Chẳng thấy hết đâu cả...\nChết tiệt!
+4134|Cứ thế này không tiến nổi.\nBắn tỉa! Phá các khối cầu!
+4135|Tôi vừa nhận tin từ Hyde.{fe4b}
+4136|Cô nên... ờ...\nnhanh lên.
+4137|Ước gì siêu anh hùng\nhoạt hình của anh ở đây.
+4138|Ồ, kiểu gì anh ta cũng\nxuất hiện lúc nguy cấp.
+4139|Chắc anh chưa nhận ra,\nchúng ta nguy cấp\ntừ lâu lắm rồi!
+4140|Vậy sao?\n
+4141|Siêu anh hùng chỉ đến\nvào giây phút cuối thôi.
+4142|Sống sót khỏi đây,\ntôi sẽ thay đổi hoàn toàn.
+4143|Kiểm tra chiếc xe đi.\n
+4144|Khẩu súng máy này\nchắc vẫn dùng được!
+4145|Vào trong đi!\n
+4146|Tôi đã tới vị trí.\nCác anh gọi viện binh à?
+4147|Đang kiểm soát khu vực.\n
+4148|Sẵn sàng khai hỏa.\nTôi yểm trợ cho!
+4149|Có lẽ mình có thể\nDive vào một tay bắn tỉa.
+4150|Mình có thể dùng ống ngắm\nđể thu thập thông tin.
+4151|Làm sao để hợp nhất đây?\n
+4152|Đòn đánh chẳng ăn thua!\n
+4153|Overdive Kill có thể hiệu quả!\n
+4155|Cứu...\n
+4156|Tôi xin lỗi...\n
+4157|Muộn quá rồi...\n
+4158|Mau lên...\n
+4159|Muộn quá rồi...\n
+4160|Làm ơn...\n
+4161|Đừng do dự...\n
+4162|Thấy thích không?\n
+4163|Cô đã cướp của tôi một người.\n
+4164|Tôi biết cô làm được mà.\n
+4165|Đối xử tốt với tôi nhé!\n
+4166|Tôi không muốn bị thương\nhay để lại sẹo đâu!
+4167|Tôi không nghe thấy anh ấy.\n
+4168|Ồ!\n
+4169|Tôi cứ tưởng anh ấy\nsẽ độc thân suốt đời.
+4170|Babel kìa!\n
+4171|Gabrielle... đâu rồi?\n
+4172|Gì đây? Xe bọc thép\nbị bỏ lại à?\nKhông biết còn bắn được không...
+4173|Tiếng gì thế?\nNó đang đến gần!
+4174|Rẽ trái.\n
+4175|Phía trước rẽ phải.\n
+4176|Rút lui!\n
+4177|Có địch phía sau!\n
+4178|Bắn! Ngay!\n
+4179|Khoan bắn!\n
+4180|Suýt nữa thì chết.\n
+4181|Reaper à? Ôi không!\nXui xẻo thật!\n
+4182|Tôi không nghĩ cô đủ sức\ntiêu diệt chúng đâu.\n{fe4a}
+4183|Lũ này trâu thật!\nĐạn chẳng xi nhê gì!
+4184|Rút lui! Toàn quân\nrời khỏi vùng chiến!
+4185|Tập trung phá hủy\ncác khối cầu!
+4186|Quan sát chuyển động\ncủa chúng rồi đánh.
+4187|Tiêu diệt quái vật\nvà mở đường đi tiếp.
+4188|Chúng ta biết Vệ binh\nQuốc gia\n
+4189|Tăng viện cho quân trong\nnhà ga, đồng thời cố\n
+4190|Trước tiên hãy tìm\nĐại úy Danny Russo của{fe52}
+4191|Tường Babel đã bị phá.\nChúng tôi đang vào nhà ga.
+4192|Aya, khoan đã!\n
+4193|Đó là thiết bị dò\ncủa Rover.
+4194|Nếu kích hoạt nó,\nRover sẽ tấn công.
+4195|Rõ, thưa sếp. Này, cô{1a5}\n
+4196|Twisted ư!?\n
+4197|Tôi là Aya Brea, CTI đây.\n{fe46}
+4198|CTI? Cô muốn gì?\n
+4199|Em gái tôi bị mất tích.\n
+4200|Không ngờ cô lại\nnói chuyện đó!\n{fe70}
+4201|Này! Có một cô gái\nở đây!\n
+4202|Dân thường à? Bảo vệ cô ấy!\n
+4203|Tín hiệu liên lạc\ncủa Delta Force!\n
+4204|Aya, liên lạc với\nĐại úy Russo đi.
+4205|Đó là{1a5}!\n
+4206|Aya! Có chuyện gì vậy?\n
+4207|Đó là Eve! Em gái tôi!\n
+4208|Chết tiệt! Tôi vướng phải\nthiết bị dò gì đó,\n
+4209|Snatcher!\n
+4210|Lũ này phiền thật!\nCô không muốn biết{fe50}
+4211|Luôn cảnh giác đấy.
+4212|Russo đây.{fe49}
+4213|Rốt cuộc chúng là thứ gì?
+4214|Chạy trước khi nó bắt được!\nBắn đi! Bắn ngay!
+4215|Xin phép khai hỏa!\n{fe52}
+4216|Khoan, ngừng bắn.\nTôi không thấy ai cả.
+4217|Cô ấy biến mất rồi.\n
+4218|Lại thêm Reaper nữa!
+4219|Chạy đi, trước khi nó giết cô.\n
+4220|Phá đống đổ nát\nđể mở lối đi.
+4221|Địa hình ở đây phức tạp thật.\n
+4222|Chết tiệt! Hắn đi đâu rồi?\n
+4223|Có chuyện gì vậy!?\n
+4224|Tình hình dưới này\nthế nào rồi?
+4225|Russo đây. Cô có định\ngiúp chúng tôi{fe73}
+4226|Tôi nói thật đấy!\n
+4227|Sếp, phía trước đầy bẫy,\nvà chúng{fe6e}
+4228|Quà của Delta Force hả?\n
+4229|Chạm vào tia sáng\nlà thuốc nổ phát nổ.{fe57}
+4230|Cứ tiếp tục di chuyển.\n
+4231|Chúng chẳng để lại xác...\nLà thứ gì vậy?\nTừ đâu chui ra?
+4232|Có thể là người ngoài hành tinh.\nHoặc do chất thải độc hại.
+4233|Dù sao tôi cũng thà đánh\nlũ này còn hơn giết người.
+4234|Ừ, chẳng cần cố ghét chúng.\nTự nhiên đã thấy ghét rồi.
+4235|Russo không có chữ “bó tay”\ntrong từ điển. Sẵn sàng\nđột kích chưa, anh bạn?
+4236|Làm sao lo nổi cho con học hành?\nĐến bảng cửu chương\ntôi còn chẳng thuộc!{fe5a}
+4237|Tôi là lính. Tôi đã sẵn sàng\nhy sinh khi làm nhiệm vụ.
+4238|Chết tiệt, đồng đội tôi vừa\nchết vì bẫy! Ta đang\nđánh quái vật cơ mà!
+4239|Khốn kiếp! Một đồng đội\nvừa chết vì bẫy!
+4240|Hả!? Tôi đâu biết\nchúng ta đặt bẫy!
+4241|Ta đang đánh quái vật mà!\nBẫy là để đối phó con người!
+4242|Russo đây.{fe46}
+4243|Một kẻ mang gương mặt\ncủa Twisted à?
+4244|Chắc anh cần ngủ thêm đấy!\n
+4245|Tôi biết mình đã thấy gì!\n
+4246|Đừng tới quá gần.\nBắn tỉa từ xa đi.
+4247|Lạ thật.\n
+4248|Bẫy đang giết chết\nchính quân mình.
+4249|Tại sao bọn họ\nlại dùng bẫy chứ?\n
+4250|Có lẽ họ đang cố\nbắt một ai đó...\n
