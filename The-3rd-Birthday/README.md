@@ -1,12 +1,12 @@
 # The 3rd Birthday — Việt hóa PSP
 
-## Checkpoint 09 — 14/11/2026
+## Checkpoint 10 — 14/11/2026
 
-File gốc: `strings_to_translate.csv`, 5.599 mục.
+Dữ liệu nguồn: 5.599 hàng trong `strings_to_translate.csv`.
 
-| Đợt | Mục dịch | Tệp |
+| Đợt | Số ID | Tệp |
 |---|---:|---|
-| 01 | 207 | CSV đợt 01, chưa lên repo |
+| 01 | 207 | CSV trong chat (chưa lên repo) |
 | 02 | 283 | `patch_02_268-597.psv` |
 | 03 | 121 | `patch_03_598-750.psv` |
 | 04 | 120 | `patch_04_1468-1653.psv` |
@@ -15,15 +15,22 @@ File gốc: `strings_to_translate.csv`, 5.599 mục.
 | 07 | 149 | `patch_07_4101-4250.psv` |
 | 08 | 100 | `patch_08_4251-4350.psv` |
 | 09 | 128 | `patch_09_4351-4480.psv` |
+| 10 | 106 | `patch_10_4481-4587.psv` |
 
-**Trên GitHub:** `translations_merged_02-09.psv` gồm **1.202 ID không trùng**, đã đối chiếu xung đột giữa patch 02–09.
+- **Đã hợp nhất lên GitHub:** `translations_merged_02-10.psv` — **1.308 ID duy nhất**, không trùng giữa đợt 02–10.
+- **Tổng tính cả đợt 01:** **1.515/5.599 (27,1%)**, chưa tính là QA hoàn chỉnh trong game.
+- CSV đợt 01 gồm 207 bản dịch ID 5–267 hiện vẫn chưa được nhập vào GitHub.
+- Chưa có một CSV hoàn chỉnh 5.599 hàng chứa đồng thời toàn bộ patch 01–10.
+- Batch 10 đã QA số lần ký hiệu xuống dòng `\\n` và mọi thẻ định dạng với nguồn gốc: 106/106 đạt.
+- Các patch trước đó và giới hạn hiển thị font PSP cần QA riêng.
 
-**Tổng có bản dịch (gồm CSV đợt 01 chưa lên repo): 1.281/5.599 ID (~22,9%)**, dựa trên 207 ID đợt 01 thuộc khoảng 5–267 và không chồng chéo patch 02–08. Con số này là tiến độ biên dịch, **không đồng nghĩa đã qua QA trong game**.
+## Nguyên tắc
 
-### Cần hoàn thành
-1. Đưa CSV đợt 01 cùng nguồn tiếng Anh lên GitHub.
-2. Tạo CSV đủ 5.599 hàng, giữ cột nguồn và tất cả trường metadata, ghép theo ID.
-3. QA từng mã `{fd..}`, `{fe..}`, `\\n` và độ dài hiển thị; một số chuỗi hội thoại bị cắt ngang giữa hai ID.
-4. Tiếp tục dịch ID còn trống, không dịch tên người ngẫu nhiên chỉ để tăng số lượng.
+Patch `.psv` gồm `ID|Tiếng Việt`. Khi nhập vào nguồn phải nối bằng ID và giữ nguyên các cột `Tiếng Anh`, `Độ dài gốc`, `Ghi chú`. Không thay đổi mã `{fd20}`, `{fe50}`, `{1a5}`, v.v. Không tính tên riêng giữ nguyên là dịch mới. Giữ cách gọi Aya, Eve, Hyde và các thuật ngữ Twisted, Babel, Overdive, Over Energy, Crossfire, Liberation.
 
-Giữ thuật ngữ Overdive, Liberation, Twisted, Babel, CTI, Over Energy; bảo toàn nguyên mã game.
+## Việc còn lại
+
+1. Đưa CSV đợt 01 và CSV nguồn 5.599 hàng vào repository.
+2. Tạo bản nguồn hợp nhất thực sự, kiểm tra trùng ID và giữ nguyên mã game.
+3. Dịch tiếp các ID chưa được xử lý; rà cách xưng hô và ngữ cảnh nhân vật.
+4. Thử font, ngắt dòng và độ dài chuỗi trên PPSSPP/PSP.
