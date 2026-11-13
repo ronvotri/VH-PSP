@@ -1,6 +1,6 @@
 # The 3rd Birthday — Việt hóa PSP
 
-## Checkpoint 10 — 14/11/2026
+## Checkpoint 11 — 14/11/2026
 
 Dữ liệu nguồn: 5.599 hàng trong `strings_to_translate.csv`.
 
@@ -16,12 +16,13 @@ Dữ liệu nguồn: 5.599 hàng trong `strings_to_translate.csv`.
 | 08 | 100 | `patch_08_4251-4350.psv` |
 | 09 | 128 | `patch_09_4351-4480.psv` |
 | 10 | 106 | `patch_10_4481-4587.psv` |
+| 11 | 90 | `patch_11_4588-4679.psv` |
 
-- **Đã hợp nhất lên GitHub:** `translations_merged_02-10.psv` — **1.308 ID duy nhất**, không trùng giữa đợt 02–10.
-- **Tổng tính cả đợt 01:** **1.515/5.599 (27,1%)**, chưa tính là QA hoàn chỉnh trong game.
+- **Đã hợp nhất lên GitHub:** `translations_merged_02-11.psv` — **1.398 ID duy nhất**, không trùng giữa đợt 02–11.
+- **Tổng tính cả đợt 01:** **1.605/5.599 (28,7%)**, chưa tính là QA hoàn chỉnh trong game.
 - CSV đợt 01 gồm 207 bản dịch ID 5–267 hiện vẫn chưa được nhập vào GitHub.
 - Chưa có một CSV hoàn chỉnh 5.599 hàng chứa đồng thời toàn bộ patch 01–10.
-- Batch 10 đã QA số lần ký hiệu xuống dòng `\\n` và mọi thẻ định dạng với nguồn gốc: 106/106 đạt.
+- Batch 11 kiểm tra tự động 90/90 thẻ kỹ thuật và ký hiệu xuống dòng với nguồn; batch 10 đã QA số lần ký hiệu xuống dòng `\\n` và mọi thẻ định dạng với nguồn gốc: 106/106 đạt.
 - Các patch trước đó và giới hạn hiển thị font PSP cần QA riêng.
 
 ## Nguyên tắc
