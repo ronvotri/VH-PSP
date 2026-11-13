@@ -69,3 +69,12 @@ Patch `.psv` gồm `ID|Tiếng Việt`. Khi nhập vào nguồn phải nối b�
 - PSV hợp nhất đợt 02–15: `translations_merged_02-15.psv` — **1.843 ID**; cộng 207 ID đợt 01 = 2.050 ID.
 - QA patch 15: **102/102 đạt đối chiếu thẻ và ký hiệu xuống dòng**. Đã chỉnh 5074, 5075, 5127.
 - 40 cảnh báo xuống dòng cũ vẫn chờ QA theo ngữ cảnh. Chưa thử độ rộng font PSP/PPSSPP.
+
+
+## Checkpoint 16 — 14/11/2026
+
+- 141 new entries: `patch_16_5146-5290.psv` (Time Zero and ending scenes).
+- `strings_translated_checkpoint_16.csv` contains **5,599 source rows** and **2191 translated entries (39.1%)**.
+- `translations_merged_02-16.psv`: **1984 entries** excluding the original 207 batch-01 entries.
+- **141/141 new entries** pass technical token and literal newline-count comparison.
+- Existing 40 newline layout warnings still open; no PSP font verification.
