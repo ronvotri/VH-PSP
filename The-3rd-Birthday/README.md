@@ -37,3 +37,16 @@ Patch `.psv` gồm `ID|Tiếng Việt`. Khi nhập vào nguồn phải nối b�
 2. Tạo bản nguồn hợp nhất thực sự, kiểm tra trùng ID và giữ nguyên mã game.
 3. Dịch tiếp các ID chưa được xử lý; rà cách xưng hô và ngữ cảnh nhân vật.
 4. Thử font, ngắt dòng và độ dài chuỗi trên PPSSPP/PSP.
+
+
+## Checkpoint 13 — CSV tổng hợp chính thức (14/11/2026)
+
+- `patch_13_4781-4900.psv`: **111 mục mới**.
+- `translations_merged_02-13.psv`: **1.604 ID** trên GitHub từ đợt 02–13.
+- `strings_translated_checkpoint_13.csv`: **5.599 hàng nguồn, 1.811 ID có bản Việt**, gồm cả 207 mục đợt 01; đây là CSV hợp nhất dùng để QA và nhập công cụ dựng game.
+- `QA_checkpoint_13.md`: báo cáo **40 ID có số \\n khác nguồn**, **0 ID lệch thẻ {…}**, chưa được sửa tự động và cần rà trước khi nhập game.
+- Đối chiếu phát hiện 4 ID có 2 phương án dịch ở đợt 12: 4698, 4719, 4735, 4739; ưu tiên bản mới trên GitHub.
+
+**Tiến độ dịch: 1.811 / 5.599 (32,3%).** Chưa xác nhận font PSP và giới hạn số ký tự hiển thị.
+
+> Các mô tả checkpoint 11/12 trước đây nói thiếu bản tổng. Kể từ checkpoint 13, **bản CSV đầy đủ đã có trên GitHub**; xem liên kết mới ở trên.
