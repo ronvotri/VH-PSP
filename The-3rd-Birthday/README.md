@@ -1,6 +1,6 @@
 # The 3rd Birthday — Việt hóa PSP
 
-## Checkpoint 08 — 14/11/2026
+## Checkpoint 09 — 14/11/2026
 
 File gốc: `strings_to_translate.csv`, 5.599 mục.
 
@@ -14,8 +14,9 @@ File gốc: `strings_to_translate.csv`, 5.599 mục.
 | 06 | 121 | `patch_06_3980-4100.psv` |
 | 07 | 149 | `patch_07_4101-4250.psv` |
 | 08 | 100 | `patch_08_4251-4350.psv` |
+| 09 | 128 | `patch_09_4351-4480.psv` |
 
-**Trên GitHub:** `translations_merged_02-08.psv` gồm **1.074 ID không trùng**, đã đối chiếu xung đột giữa patch 02–08.
+**Trên GitHub:** `translations_merged_02-09.psv` gồm **1.202 ID không trùng**, đã đối chiếu xung đột giữa patch 02–09.
 
 **Tổng có bản dịch (gồm CSV đợt 01 chưa lên repo): 1.281/5.599 ID (~22,9%)**, dựa trên 207 ID đợt 01 thuộc khoảng 5–267 và không chồng chéo patch 02–08. Con số này là tiến độ biên dịch, **không đồng nghĩa đã qua QA trong game**.
 
