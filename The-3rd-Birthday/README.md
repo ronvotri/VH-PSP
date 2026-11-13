@@ -50,3 +50,13 @@ Patch `.psv` gồm `ID|Tiếng Việt`. Khi nhập vào nguồn phải nối b�
 **Tiến độ dịch: 1.811 / 5.599 (32,3%).** Chưa xác nhận font PSP và giới hạn số ký tự hiển thị.
 
 > Các mô tả checkpoint 11/12 trước đây nói thiếu bản tổng. Kể từ checkpoint 13, **bản CSV đầy đủ đã có trên GitHub**; xem liên kết mới ở trên.
+
+
+## Checkpoint 14 — 14/11/2026
+
+- Batch 14: `patch_14_4901-5040.psv` — 137 new dialogue translations.
+- Full source CSV: `strings_translated_checkpoint_14.csv` — 5,599 source rows; **1,948 translated IDs (34.8%)**, including batch 01–14.
+- Merged patch 02–14: `translations_merged_02-14.psv` — **1,741 unique IDs**.
+- QA batch 14: 137/137 code tags and `\n` escape counts match source.
+- `QA_checkpoint_14.md` documents **40 inherited newline-count discrepancies** (27 missing one, 13 extra one); do not automatically rewrite lines before contextual review.
+- In-game rendering on PSP/PPSSPP has not been tested.
