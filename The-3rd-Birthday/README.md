@@ -60,3 +60,12 @@ Patch `.psv` gồm `ID|Tiếng Việt`. Khi nhập vào nguồn phải nối b�
 - QA batch 14: 137/137 code tags and `\n` escape counts match source.
 - `QA_checkpoint_14.md` documents **40 inherited newline-count discrepancies** (27 missing one, 13 extra one); do not automatically rewrite lines before contextual review.
 - In-game rendering on PSP/PPSSPP has not been tested.
+
+
+## Checkpoint 15 — 14/11/2026
+
+- Patch 15: `patch_15_5041-5145.psv` — **102 ID**.
+- CSV đủ 5.599 hàng: `strings_translated_checkpoint_15.csv` — **2.050 ID đã dịch** (36,6%).
+- PSV hợp nhất đợt 02–15: `translations_merged_02-15.psv` — **1.843 ID**; cộng 207 ID đợt 01 = 2.050 ID.
+- QA patch 15: **102/102 đạt đối chiếu thẻ và ký hiệu xuống dòng**. Đã chỉnh 5074, 5075, 5127.
+- 40 cảnh báo xuống dòng cũ vẫn chờ QA theo ngữ cảnh. Chưa thử độ rộng font PSP/PPSSPP.
