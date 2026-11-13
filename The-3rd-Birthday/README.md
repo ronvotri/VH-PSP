@@ -1,37 +1,35 @@
 # The 3rd Birthday — Việt hóa PSP
 
-Dữ liệu gốc do người dùng cung cấp: `strings_to_translate.csv`, tổng 5.599 mục.
+Dữ liệu gốc: `strings_to_translate.csv` (5.599 hàng dữ liệu, do người dùng cung cấp).
 
-## Checkpoint 06 — 14/11/2026
+## Checkpoint 07 — 14/11/2026
 
-| Đợt | Số mục | Trạng thái |
+| Đợt | ID đã dịch | Tệp |
 | --- | ---: | --- |
-| 01 | 207 | CSV đã gửi trong chat; chưa nhập GitHub |
+| 01 | 207 | CSV đợt 01 trong cuộc trò chuyện; **chưa lưu lên repo** |
 | 02 | 283 | `patch_02_268-597.psv` |
 | 03 | 121 | `patch_03_598-750.psv` |
 | 04 | 120 | `patch_04_1468-1653.psv` |
 | 05 | 180 | `patch_05_2784-2977.psv` |
 | 06 | 121 | `patch_06_3980-4100.psv` |
-| **Tổng cộng từng đợt** | **1.032** | 1.032 ID duy nhất qua 6 đợt |
+| 07 | 149 | `patch_07_4101-4250.psv` |
 
-**Đã xác minh trong repository: 825 ID khác nhau từ đợt 02–06, không xung đột ID.** Kiểm tra CSV đợt 01: đúng 207 dòng tiếng Việt, ID trong khoảng 5–267, không trùng các ID đợt 02–05. **Tổng 1.032 ID dịch khác nhau (18,4% của 5.599).**
+**Kiểm đếm theo ID: 974 bản dịch đã có trên GitHub (đợt 02–07); không xung đột ID.** Thêm 207 mục đợt 01 nằm trong CSV đã gửi ở chat (khoảng ID 5–267), tổng dự kiến **1.181 ID / 5.599 mục (~21,1%)**, với điều kiện nhập đợt 01 đúng nguyên trạng.
 
-Bản hợp nhất mới: `translations_merged_02-06.psv` — 825 bản dịch.
-Bản này **không phải** CSV gốc 5.599 hàng. Các tên nhân vật / model vũ khí chỉ có tính chất mã định danh không được tính là hoàn thành nếu chưa có dữ liệu dịch.
+- Bản hợp nhất hiện có: `translations_merged_02-07.psv` (**974 ID**); bản này mới là patch bảng ánh xạ, **không phải CSV đầy đủ**.
+- Cần nhập CSV đợt 01 lên GitHub và tạo CSV gốc 5.599 hàng có cả tiếng Anh và Việt. Chưa hoàn thành.
+- Nội dung mới cần QA theo ngữ cảnh và kiểm tra độ rộng font trên máy PSP / PPSSPP.
 
-## Nguyên tắc
+## Quy tắc dịch
 
-- PSV dạng `ID|Tiếng Việt`; bản gốc CSV 5 cột: `ID, Tiếng Anh, Tiếng Việt, Độ dài gốc, Ghi chú`.
-- Khi áp dụng bản dịch phải ghép **theo ID**, không theo dòng hay khoảng ID.
-- Giữ nguyên các chuỗi mã trong dấu ngoặc nhọn như `{fd20}`, `{191}`, `{1a5}` và ký hiệu xuống dòng `\\n`.
-- Giữ nguyên tên riêng Aya Brea, Hyde, Gabrielle, Kyle, Overdive, Over Energy, Crossfire, Liberation, Twisted, Babel, CTI.
-- Các nhãn hiệu, tên vũ khí và kỹ năng có thể giữ tiếng Anh cho nhất quán; dịch ý nghĩa phần mô tả.
-- Chuỗi `(to be deleted)` được đánh dấu "dự kiến bỏ" và không coi là nội dung hội thoại đã xác minh.
-- Chưa kiểm thử font, độ rộng hiển thị và độ dài chuỗi trên bản PSP.
+- Mỗi patch là `ID|Tiếng Việt`, ghép dựa trên ID chứ không dựa số thứ tự hoặc khoảng ID.
+- Giữ nguyên mọi mã dạng `{fd20}`, `{fe5a}`, `{1a5}` và chuỗi `\\n`; một số câu bị chia giữa ID nên phải đối chiếu cảnh trong game trước khi ghép.
+- Giữ các thuật ngữ Overdive, Over Energy, Liberation, Twisted, Babel, CTI, Crossfire, Overdive Kill.
+- Không tự dịch các tên ngẫu nhiên chỉ để tăng số lượng.
+- Không tự nhận đã qua QA in-game trước khi kiểm tra.
 
-## Việc còn thiếu
+## Ưu tiên
 
-1. Đưa đủ 207 bản dịch đợt 01 vào repo để có bản hợp nhất chính thức.
-2. Xuất CSV đầy đủ 5.599 mục cùng cả hai cột tiếng Anh/Việt.
-3. Dịch tiếp nội dung chưa có tiếng Việt, ưu tiên lời thoại và ghi chú cốt truyện.
-4. Chạy QA mã kỹ thuật, ngắt dòng, độ dài và kiểm thử hiển thị PSP.
+1. Tạo bản CSV hợp nhất thực sự, có đủ 5.599 hàng và bản dịch đợt 01–07.
+2. Kiểm tra tự động thẻ kỹ thuật và số dòng, đánh dấu lỗi QA.
+3. Dịch hội thoại tiếp sau ID 4250, giữ ngữ cảnh và nhân xưng.
