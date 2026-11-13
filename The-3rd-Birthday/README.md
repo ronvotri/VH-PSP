@@ -78,3 +78,11 @@ Patch `.psv` gồm `ID|Tiếng Việt`. Khi nhập vào nguồn phải nối b�
 - `translations_merged_02-16.psv`: **1984 entries** excluding the original 207 batch-01 entries.
 - **141/141 new entries** pass technical token and literal newline-count comparison.
 - Existing 40 newline layout warnings still open; no PSP font verification.
+
+
+## Checkpoint 17 — 14/11/2026
+
+- `patch_17_5291-5330.psv`: 38 new translated IDs.
+- `strings_translated_checkpoint_17.csv`: 5,599 rows and 2229 translated IDs.
+- `translations_merged_02-17.psv`: 2022 repository translation entries excluding 207 batch 01 entries.
+- New 38/38 token and newline QA pass. Prior 40 layout warnings remain unresolved.
