@@ -1,0 +1,2343 @@
+ID|Tiếng Việt
+268|SÚNG TRƯỜNG
+269|SHOTGUN
+270|SÚNG TỈA
+271|SÚNG PHÓNG
+272|ĐẶC BIỆT
+273|ỐNG NGẮM
+274|NÒNG SÚNG
+275|BĂNG ĐẠN
+276|BÁNG SÚNG
+277|TAY CẦM
+278|ĐẠN
+279|KHÔNG CÓ VŨ KHÍ
+280|Đổi trang bị hoặc chọn súng để tùy chỉnh.
+281|Chọn vũ khí mang theo làm nhiệm vụ.
+282|Chọn vũ khí cần tùy chỉnh.
+284|Mua món này?\n{fd20} / BP cần: {fd21}
+285|Cấp vũ khí quá thấp.\n\nYêu cầu cấp {fd20}: {fd21}
+286|Bạn không đủ BP.\n
+287|Tùy chỉnh súng ngắn 76SA.
+288|Dùng phụ kiện tùy chỉnh này?
+289|Tùy chỉnh vũ khí.
+290|Đổi hoặc mua vũ khí.
+291|[{fd20}] {fd21}\nTrang bị vũ khí này?
+292|[{fd20}] {fd21}\nTháo vũ khí này?
+293|[{fd20}] {fd21}\nDùng phụ kiện này?
+294|[{fd20}] {fd21}\nTháo phụ kiện này?
+295|Đổi vũ khí xong chưa?
+296|Tùy chỉnh vũ khí xong chưa?
+297|Có vũ khí mới để mua.
+298|Trang bị?
+299|{fd4b} Trang bị
+300|{191} Tùy chỉnh
+301|{fd4c} Hủy
+302|{fd4b} Đồng ý
+303|{fd4c} Hủy
+304|{fd4c} Quay lại
+305|{fd4c} Quay lại
+306|{fd4b} Đồng ý
+307|{fd4c} Hủy
+308|{fd4b} Có
+309|{fd4c} Không
+310|{fd4b} Đồng ý
+311|{fd4c} Quay lại
+312|{fd4b} Đồng ý
+313|{fd4c} Quay lại
+314|{fd4b} Có
+315|{fd4c} Không
+316|{fd4b} Đồng ý
+317|{fd4c} Hủy
+318|{fd4b} Đồng ý
+319|{fd4c} Hủy
+320|{fd4b} Đồng ý
+321|CHỌN
+322|TÙY CHỈNH
+323|THÁO
+324|Đổi và mua vũ khí
+325|Tùy chỉnh
+326|Trang bị
+327|Lắp
+328|Tháo
+329|Chọn loại vũ khí.
+336|Trang bị bảo hộ
+337|PHÒNG THỦ
+341|CHẾ ĐỘ XEM
+342|BẮT ĐẦU
+343|HƯỚNG DẪN NÚT
+344|THU NHỎ
+345|CUỘN
+346|GÓC NHÌN
+347|HƯ HẠI
+348|TƯ THẾ
+349|PHÓNG TO
+350|Chọn trang bị bảo hộ muốn mặc.
+351|CHẾ ĐỘ XEM
+352|Sửa trang bị hỏng?\nBP cần: {fd20}
+353|Không đủ BP để sửa trang bị.\nBP cần: {fd20}
+354|Chưa sửa được trang bị.
+355|Dùng giọng chiến đấu riêng của bộ đồ này?\n(Nếu không, game dùng giọng mặc định.)
+356|Bạn chưa sở hữu bộ đồ đang mặc.\nTrang bị đã trở về mặc định.
+357|CÀI ĐẶT
+358|ĐIỀU KHIỂN
+359|GÓC CAMERA
+360|ÂM THANH
+361|CÀI DỮ LIỆU
+362|PHỤ ĐỀ
+363|Kiểu điều khiển
+364|Xoay camera: Dọc
+365|Xoay camera: Ngang
+366|Kiểu góc nhìn
+367|Nhạc nền
+368|Hiệu ứng và giọng nói
+369|Kiểu giọng nói
+370|Dùng dữ liệu đã cài
+371|Hiển thị phụ đề
+372|Kiểu hành động 1
+373|Kiểu hành động 2
+374|Kiểu hành động 3
+375|Kiểu bắn súng
+376|Bình thường
+377|Sau lưng
+378|Bí mật
+379|Kiểu A
+380|Kiểu B
+381|Bình thường
+382|Đảo ngược
+383|Bật
+384|Tắt
+385|Thay đổi cách điều khiển.
+386|Đổi chiều xoay dọc của camera.
+387|Đổi chiều xoay ngang của camera.
+388|Chọn góc nhìn mặc định khi chơi.
+389|Chỉnh âm lượng nhạc nền.
+390|Chỉnh âm lượng hiệu ứng và giọng nói.
+392|Chọn có dùng dữ liệu đã cài không.
+393|Bật hoặc tắt phụ đề.
+394|Áp dụng cài đặt.
+395|Bạn chưa lưu thay đổi.\nVẫn hủy?
+397|{19a} Nạp đạn/[Giữ] Đổi súng
+398|{19a} Nạp đạn/[Giữ] Đổi súng
+399|{19a} Đặt lại camera/[Giữ] Khóa mục tiêu
+400|{19a} Đặt lại camera/[Giữ] Khóa mục tiêu
+401|Đặt lại camera/[Giữ] Khóa mục tiêu {19c}
+402|Đặt lại camera/[Giữ] Khóa mục tiêu {19c}
+403|Nạp đạn/[Giữ] Đổi súng {19c}
+404|Bắn {19c}
+405|Đổi giữa camera tự do\nvà khóa mục tiêu
+406|Overdive
+407|Bắn
+408|Bắn
+409|Lựu đạn
+410|Nạp đạn/[Giữ]\nĐổi súng
+411|Né tránh
+412|Lựu đạn
+413|Lựu đạn
+414|Bắn
+415|Lựu đạn
+416|Di chuyển
+418|Đổi súng
+423|Overdive Kill
+424|(Khi địch choáng) Giữ khóa mục tiêu {19c} + {191}
+425|(Khi địch choáng) Giữ khóa mục tiêu {19c} + {191}
+426|(Khi địch choáng) Giữ khóa mục tiêu {19a} + {191}
+427|(Khi địch choáng) Giữ khóa mục tiêu {19a} + {191}
+428|Liberation
+429|(Khi thanh Liberation đầy) Nhấn {191} + {192} cùng lúc
+430|PHÁT
+431|ĐỒNG Ý
+435|MÃ GIAN LẬN
+436|Tắt
+437|Bật
+438|MÃ HỖ TRỢ
+439|MÃ THỬ THÁCH
+440|Mua mã gian lận này?\nBP hiện có: {fd20}\nBP cần: {fd21}
+441|Bạn không đủ BP để mua.
+442|Một mã gian lận vừa được kích hoạt.\nTất cả mã gian lận đã bị tắt.
+443|{fd4b} Đồng ý
+444|{fd4c} Hủy
+445|MUA
+446|Nhật ký nhiệm vụ
+447|Thành tích
+448|Cài đặt
+449|Mã gian lận
+450|Thử lại
+451|Tải dữ liệu
+452|THÔNG TIN VŨ KHÍ GỠ LỖI
+453|ĐỔI VŨ KHÍ GỠ LỖI
+454|Bản đồ
+455|Trạng thái
+456|Rút lui
+457|Về màn hình chính
+458|AYA BREA
+459|CẤP
+460|SINH LỰC
+461|KINH NGHIỆM
+462|CÒN {fd20}
+463|CHẾ ĐỘ BẢN ĐỒ
+464|Tiến trình của bạn sẽ mất.\nTiếp tục?
+465|Thao tác này sẽ hủy điều tra Overdive\nvà quay về phòng giao nhiệm vụ.\nTiếp tục?
+466|Quay về màn hình chính?\nTiếp tục?
+467|Chơi lại từ điểm lưu gần nhất.
+468|Tải dữ liệu chơi.
+469|Hủy điều tra và về phòng giao nhiệm vụ.
+470|Mở danh sách mã gian lận.
+471|Mở menu cài đặt.
+472|Xem các chỉ thị đã nhận trong nhiệm vụ.
+473|Xem thành tích của nhiệm vụ này.
+474|Hiển thị bản đồ màn chơi.
+475|Xem trạng thái của Aya.
+476|Quay về phòng giao nhiệm vụ.
+477|Quay về màn hình chính.
+478|BẢN ĐỒ
+479|DANH SÁCH OE
+480|THÀNH TÍCH
+481|CHƯƠNG
+482|HOÀN THÀNH!
+483|Trạng thái
+484|Dòng thời gian
+485|Thành viên CTI
+486|Twisted
+487|Babel
+488|Nhân vật chủ chốt
+489|Ghi chú
+490|Thư
+491|Video
+492|Nhạc
+493|EPISODE 1
+494|EPISODE 2
+495|EPISODE 3
+496|EPISODE 4
+497|EPISODE 5
+498|EPISODE 6
+505|CHẾ ĐỘ XEM
+506|TRANG
+507|CUỘN
+508|PHÁT/DỪNG
+509|Xem hồ sơ các vụ án trước.
+510|Xem thông tin thành viên CTI.
+511|Xem báo cáo về Twisted.
+512|Xem báo cáo về Babel.
+513|Xem thông tin người liên quan đến vụ điều tra.
+514|Xem kho dữ liệu CTI.
+515|Đọc nhật ký email.
+516|Xem các đoạn phim trong game.
+517|Nghe nhạc trong game.
+518|Chọn một tệp.
+519|Đã mở khóa mục Video.
+520|Đã mở khóa mục Nhạc.
+521|NHẬT KÝ NHIỆM VỤ
+522|NHẬT KÝ NHIỆM VỤ
+523|NHẬT KÝ NHIỆM VỤ
+524|NHẬT KÝ NHIỆM VỤ
+525|NHẬT KÝ NHIỆM VỤ
+526|NHẬT KÝ NHIỆM VỤ
+527|NHẬT KÝ NHIỆM VỤ
+547|{fd4b} Đồng ý
+548|{fd4c} Hủy
+549|{fd4b} Có
+550|{fd4c} Không
+551|{fd4b} Trang sau
+554|Có vũ khí mới để mua.\n[{fd20}] {fd21}
+555|Đã mở khóa độ khó mới.
+556|Nhận được trang bị mới.
+557|Đã mở khóa giọng chiến đấu riêng của trang bị.
+558|Đã mở khóa mã gian lận mới.
+559|Nhận được chip Over Energy mới.
+560|Đã mở khóa chế độ xem mới.\n(Bật bằng nút {191} trong menu Trang bị bảo hộ.)
+561|Đã mở khóa nội dung bí mật.
+562|Đã mở khóa một mã gian lận.
+563|Có thêm phụ kiện tùy chỉnh để mua.\n\n{fd20} cho {fd21}
+564|Bạn có thể dùng thêm bảng DNA.
+565|Nhận {fd20} điểm kinh nghiệm.
+566|Nhận {fd20} BP.
+567|Đã lên cấp {fd20}.
+568|NHIỆM VỤ
+569|TRỢ GIÚP
+570|Bỏ qua?
+571|BẮT ĐẦU GAME
+572|BẮT ĐẦU GAME
+573|BẮT ĐẦU GAME
+574|Súng ngắn
+575|Súng ngắn
+576|Súng trường
+577|Súng trường
+578|Shotgun
+579|Shotgun
+580|Súng tỉa
+581|Súng tỉa
+582|Súng phóng
+583|Súng phóng
+584|Đặc biệt
+585|Đặc biệt
+586|THƯỜNG
+587|SỨC MẠNH
+588|UY LỰC
+589|TỐC ĐỘ
+590|SỨC CHỨA
+591|ĐỘ CHÍNH XÁC
+592|LIBERATION
+593|DỄ
+594|THƯỜNG
+595|KHÓ
+596|SINH TỬ
+597|ĐIÊN CUỒNG
+598|Không tìm thấy dữ liệu hệ thống.\nTạo dữ liệu mới?\nCần {fd20}KB dung lượng trống để lưu.
+599|Nếu không có dữ liệu hệ thống, các thay đổi cài đặt sẽ không được lưu.\nBạn có đồng ý không?
+600|Game sẽ tự động lưu ở một số thời điểm.\nĐừng tháo thẻ nhớ hay tắt máy\nkhi đèn truy cập Memory Stick{1a4} đang nhấp nháy.
+601|Không tải được dữ liệu hệ thống.\nTạo dữ liệu mới?\nCần {fd20}KB dung lượng trống để lưu.
+602|Bắt đầu lượt chơi mới với dữ liệu sau khi phá đảo.\n\nHãy chọn độ khó.
+603|Chơi Episode 00 (hướng dẫn) chứ?
+604|Không có dữ liệu cài đặt.\n\nGame sẽ đọc dữ liệu từ đĩa.\nMuốn cài dữ liệu, chọn Cài dữ liệu\ntrong mục Extra ở màn hình chính.
+605|Không tải được dữ liệu cài đặt vì đã hỏng.\n\nGame sẽ đọc dữ liệu từ đĩa.\nMuốn cài lại, chọn Cài dữ liệu\ntrong mục Extra ở màn hình chính.\n
+606|Không tải được dữ liệu cài đặt vì không thể truy cập thẻ nhớ.\n\nGame sẽ đọc dữ liệu từ đĩa.\nMuốn cài lại, chọn Cài dữ liệu\ntrong mục Extra ở màn hình chính.\n
+607|Không thể tải dữ liệu cài đặt.\n\nMuốn cài dữ liệu, chọn Cài dữ liệu\ntrong mục Extra ở màn hình chính.
+608|KHÔNG CÓ DỮ LIỆU
+609|SÁT THƯƠNG CAO NHẤT
+620|Chuẩn bị nhiệm vụ trong menu Tác chiến,\nnơi bạn có thể đổi vũ khí và đồ bảo hộ.\n\nKhi sẵn sàng, chọn Bắt đầu nhiệm vụ để trở về quá khứ.\n
+621|Dùng thiết bị đầu cuối này để truy cập trụ sở CTI.\nBạn có thể đổi và tùy chỉnh trang bị,\ncũng như sửa chữa đồ bảo hộ.\n
+622|Dùng Overdive trở về quá khứ và bắt đầu nhiệm vụ.\n
+623|Điều chỉnh dữ liệu di truyền của Aya\nđể nhận và cường hóa Over Energy.\n\nOver Energy là năng lực đặc biệt Aya có thể\nthi triển trong chiến đấu, với nhiều hiệu ứng khác nhau.\n
+624|Tại đây, bạn có thể đổi vũ khí mang theo khi làm nhiệm vụ.\nBạn cũng có thể mua linh kiện và tùy chỉnh\nđể nâng cấp vũ khí.\n
+625|Đổi đồ bảo hộ của Aya hoặc sửa\nnhững món đã hư hỏng.\n
+626|Luyện tập bằng cách chơi lại nhiệm vụ đã hoàn thành.\nBạn cũng có thể chọn chơi một phần nhiệm vụ.\n
+627|Đọc thông tin về Twisted, các thành viên CTI và hơn thế nữa.\n\nDữ liệu mới sẽ xuất hiện khi cuộc điều tra tiến triển.
+628|Hồ sơ về vụ án Twisted.\nNội dung thay đổi theo tiến độ nhiệm vụ.
+629|Xem hồ sơ các thành viên CTI.\nNội dung thay đổi theo tiến độ nhiệm vụ.
+630|Đọc thông tin về những chủng Twisted.\nDữ liệu được cập nhật khi bạn chạm trán chủng mới.\n
+631|Đọc hồ sơ về các Babel.\nThông tin mới được bổ sung sau mỗi nhiệm vụ.\n
+632|Đọc về những nhân vật chủ chốt\nliên quan đến vụ án Twisted.\n
+633|Đọc báo cáo CTI về các năng lực đặc biệt của Aya,\nbao gồm Overdive và Liberation.\n
+634|Đăng nhập máy chủ thư để xem email bí mật.\nDùng thêm BP để mở quyền truy cập cấp cao.
+635|Xem lại các đoạn phim của game.\n
+636|Nghe nhạc trong game.\n
+637|Thiết lập các tùy chọn ảnh hưởng đến Aya.\n\nHãy đón chờ tính năng này sau khi hoàn thành chương!\n
+638|Giờ bạn có thể chọn mã gian lận trong menu START\nkhi chuẩn bị nhiệm vụ.\n\nHoàn thành các điều kiện để mở khóa thêm mã.\n\nKhi bật mã gian lận, kết quả Xếp hạng và Thành tích\nsẽ không được ghi nhận.
+639|Chiến dịch Bụi Cầu Vồng
+640|Chiến dịch Bụi Cầu Vồng
+641|Chiến dịch Bão Đen
+642|Chiến dịch Sương Đỏ
+643|Chiến dịch Mưa Đá Xanh
+644|Chiến dịch Tuyết Đỏ Thẫm
+645|Đến “Thời Khắc Số Không”
+646|Rất nhiều Twisted đang sinh sôi trong một câu lạc bộ\nở Chelsea. Đặc vụ Aya Brea được giao hỗ trợ\nVệ binh Quốc gia và thu thập tin tức về kẻ địch lạ.\n
+647|Twisted xuất hiện ở Club Sacrifice ngay giữa buổi diễn.\nTheo mật lệnh quân đội, Vệ binh Quốc gia địa phương\nlập tức triển khai để cứu khán giả.\n
+648|Giữa cuộc đụng độ dữ dội với Twisted, đặc vụ Aya Brea\nquyết phá hủy các khối cầu, mở đường sang khu vực mới\nvà sơ tán những người sống sót trong câu lạc bộ.\n
+649|Vừa né đòn của Reaper{1a5}một Twisted gần như bất tử{1a5}\nđặc vụ Aya Brea vừa liều mạng thoát khỏi\nnhững bức tường Babel đang vây kín mình.\n
+650|Bí ẩn về Helix, Twisted mà Aya gặp tại câu lạc bộ,\ndần hé lộ. Cô phải đối đầu với thân hình khổng lồ\nvà sức mạnh áp đảo của nó trong trận chiến khốc liệt.\n
+651|Emily Jefferson đã biến thành Twisted. Đặc vụ Aya\nBrea dốc hết sức tấn công con quái vật\nvới những năng lực kỳ dị.\n
+652|FBI xác nhận Babel ở Spanish Harlem đang suy yếu.\nĐội SWAT xuất quân quét sạch Twisted, phá hủy Babel\nvà phối hợp quân đội tiến sâu vào bên trong.\n
+653|Giữa vùng chiến sự, Aya tiêu diệt toàn bộ kẻ địch\nvà tiến sâu vào Babel. Cô tưởng sẽ gặp Big Orb,\nnhưng thứ chờ đợi lại là Queen.\n
+654|Aya đẩy lùi các đợt Twisted, phá hủy những khối cầu\nvà mở được đường tấn công. Nhưng cô vẫn phải\ntìm người đồng đội Gabrielle đang mất tích.\n
+655|Gabrielle bất ngờ biến thành một Twisted dị dạng{1a5}\ngiống hệt Emily. Aya không còn lựa chọn nào khác\nngoài thi hành mệnh lệnh cuối cùng: tiêu diệt Gabrielle.\n
+656|Quân đội cử đội Delta Force tinh nhuệ của Russo\nđến Grand Central để thu thập thông tin về Babel,\nrồi tiêu diệt sinh vật kỳ quái ấy.\n
+657|Trong cuộc đột kích, Aya bị bọn Snatcher\nẩn nấp trong bóng tối săn đuổi. Cô chiến đấu\nhạ gục chúng rồi tiếp tục tiến đến lõi.\n
+658|Aya khéo léo dùng Overdive tránh những xúc tu sắc nhọn\ncủa Rover đang chực đâm xuyên cô. Một phát pháo\ntừ vệ tinh đã kết liễu con quái vật.\n
+659|Liên quân tập hợp lực lượng còn lại, tiến đến\ntháp North Shallows{1a5}nơi Kyle Madigan là mục tiêu cuối.\nHọ vừa giao chiến vừa đặt thuốc nổ phá hủy tháp.\n
+660|Aya phải vật lộn với Worm, con quái vật tựa cá sấu\nphóng đạn từ miệng. Cô đánh lui nó trong lúc\nnhiệm vụ đặt thuốc nổ vẫn tiếp diễn.\n
+661|Cuối cùng, Aya đối mặt với Kyle Madigan, người\ncô từng thề yêu trọn đời. Để cứu em gái Eve,\ncô quyết tâm tiêu diệt anh.\n
+662|Các Babel hợp nhất thành Grand Babel, pháo đài khổng lồ.\nBám víu vào tia hy vọng cuối cùng, binh lính sống sót\ntiến thẳng vào sào huyệt Twisted để phá hủy nó.\n
+663|Binh lính gặp Mudflap, loài mang năng lực tiềm ẩn\ngiống Queen. Aya dùng đòn tấn công tâm động lực\nđặc biệt để tiêu diệt Twisted hung hãn này.
+664|Sau khi phá vào lõi, Aya diệt hết lớp Twisted này\nđến lớp khác, mở đường qua khu vực mới\nvà đến điểm hẹn với Liên quân.\n
+665|Reaper điên cuồng xuất hiện trong bộ giáp sắt.\nAya chộp lấy khẩu Berserker mới{1a5}hy vọng cuối\nđể hạ con quái vật mà họ luôn phải chạy trốn.\n
+666|Cuối cùng Aya đối mặt Hyde. Cô dồn toàn bộ sức lực\nvào trận chiến sinh tử để tiêu diệt hắn,\nđánh cược tất cả nhằm giành lại gia đình đã mất.
+667|Xuyên thời gian đến “Thời Khắc Số Không”, Aya\nlao vào tâm trí Hyde, thiêu đốt cả sinh lực\ntrong cuộc tử chiến nhằm chấm dứt hắn mãi mãi.\n
+669|CLUB SACRIFICE
+670|SPANISH HARLEM
+671|GRAND CENTRAL
+672|THÁP NORTH SHALLOWS
+673|HẠ MANHATTAN
+674|THỜI KHẮC SỐ KHÔNG
+696|THỜI ĐIỂM HIỆN TẠI: NƠI THỜI GIAN KHÔNG TỒN TẠI
+697|VỆ BINH QUỐC GIA
+698|KHÁN GIẢ
+699|VỆ BINH QUỐC GIA
+700|VỆ BINH QUỐC GIA
+701|VỆ BINH QUỐC GIA
+702|VỆ BINH QUỐC GIA
+703|SWAT
+704|SWAT
+705|SWAT
+706|SWAT
+707|DELTA FORCE
+708|DELTA FORCE
+709|DELTA FORCE
+710|LIÊN QUÂN
+711|LIÊN QUÂN
+712|LIÊN QUÂN
+713|LIÊN QUÂN
+714|LIÊN QUÂN
+715|LIÊN QUÂN
+716|LIÊN QUÂN
+717|LIÊN QUÂN
+718|CHƯA RÕ
+719|BINH NHÌ
+720|THƯỜNG DÂN
+721|TÂN BINH
+722|TÂN BINH
+723|BINH NHÌ
+724|HẠ SĨ
+725|SĨ QUAN CẢNH SÁT III
+726|THÁM TỬ II
+727|TRUNG SĨ II
+728|SĨ QUAN CẢNH SÁT III+I
+729|TRUNG SĨ
+730|TRUNG SĨ NHẤT
+731|THƯỢNG SĨ
+732|HẠ SĨ
+733|BINH NHẤT
+734|TRUNG SĨ NHẤT
+735|TRUNG SĨ
+736|THƯỢNG SĨ CHỈ HUY
+737|TRUNG SĨ
+738|THIẾU ÚY
+739|LIÊN QUÂN
+740|CHƯA RÕ
+741|Giờ hai bên ngang cơ rồi.\n
+742|Overdive đi.\n
+743|Sao lại tự chuốc lấy đau đớn?\n
+744|Cô không có cửa đâu.\n
+745|Ôi, cô thay đổi nhiều thật đấy.\n
+746|Phải thế chứ.\n
+747|Chúng tôi sẽ dẫn đường cho cô, Aya.\nNào, Dive đi.\n
+748|Dùng Overdive mà tấn công,\nbao nhiêu lần cũng được!\n
+749|Nếu Hyde thoát khỏi tầm mắt,\nhãy Dive để đuổi theo hắn.\n
+750|Chúng tôi sẽ tìm Hyde.\nCô chỉ việc Dive thôi.\n
+1468|Hồi phục nhanh
+1469|Crossfire tự do
+1470|Đạn vô hạn
+1471|Không giáp
+1472|Không hỗ trợ né
+1473|Không tự hồi phục
+1474|Ẩn thông tin
+1475|Bệnh hiểm nghèo
+1476|Không dùng Over Energy
+1477|Sinh lực cố định
+1478|Giới hạn vũ khí
+1479|Khóa cấp độ
+1480|Trọng thương
+1481|Nửa lượng đạn
+1482|NPC trúng một đòn là chết
+1483|Không làm chậm
+1484|Duy trì sinh lực
+1485|Sát thương đồng đội
+1486|Không vật che chắn
+1487|Trúng một đòn là chết
+1491|(Mở khóa: Phá đảo 10 lần ở độ khó bất kỳ.)
+1492|(Mở khóa: Hoàn thành ít nhất 4 thành tích Chương 1 ở độ Khó.)
+1493|(Mở khóa: Hoàn thành ít nhất 4 thành tích Chương 2 ở độ Khó.)
+1494|(Mở khóa: Hoàn thành ít nhất 3 thành tích Chương 3 ở độ Khó.)
+1495|(Mở khóa: Hoàn thành ít nhất 3 thành tích Chương 4 ở độ Khó.)
+1496|(Mở khóa: Hoàn thành ít nhất 5 thành tích Chương 5 ở độ Khó.)
+1497|(Mở khóa: Hoàn thành ít nhất 75% thành tích ở độ Khó.)
+1498|(Mở khóa: Hoàn thành ít nhất 4 thành tích Chương 1 ở độ Sinh Tử.)
+1499|(Mở khóa: Hoàn thành ít nhất 4 thành tích Chương 2 ở độ Sinh Tử.)
+1500|(Mở khóa: Hoàn thành ít nhất 3 thành tích Chương 3 ở độ Sinh Tử.)
+1501|(Mở khóa: Hoàn thành ít nhất 3 thành tích Chương 4 ở độ Sinh Tử.)
+1502|(Mở khóa: Hoàn thành ít nhất 5 thành tích Chương 5 ở độ Sinh Tử.)
+1503|(Mở khóa: Hoàn thành ít nhất 75% thành tích ở độ Sinh Tử.)
+1504|(Mở khóa: Phá đảo ở độ Điên Cuồng.)
+1505|(Mở khóa: Phá đảo ở độ Điên Cuồng.)
+1506|(Mở khóa: Phá đảo ở độ Điên Cuồng.)
+1507|(Mở khóa: Hoàn thành ít nhất 75% thành tích ở độ Khó trở lên.)
+1508|(Mở khóa: Thu thập toàn bộ mã gian lận.)
+1509|Tăng mạnh tốc độ hồi sinh lực của Aya.
+1510|NPC có thể tham gia Crossfire dù không núp sau vật chắn.
+1511|Mọi loại súng đều có đạn vô hạn.
+1512|Đồ bảo hộ luôn ở mức hư hại tối đa.
+1513|Không được bất tử tạm thời khi né.
+1514|Sinh lực không tự hồi phục.
+1515|Không hiển thị thông tin chiến đấu.
+1516|Thanh Liberation chỉ nạp với nửa tốc độ.
+1517|Không thể sử dụng Over Energy.
+1518|Aya nhận lượng sinh lực tối đa của NPC được Overdive, bất kể cấp độ.
+1519|Chỉ được mang khẩu súng ngắn khởi đầu 76SA.
+1520|Aya luôn ở cấp 1 và không nhận kinh nghiệm.
+1521|Liên tục mất sinh lực.
+1522|Sức chứa đạn của mọi khẩu súng giảm một nửa.
+1523|NPC trúng một đòn là chết.
+1524|Thời gian không chậm lại khi Overdive.
+1525|Sinh lực không tăng hoặc giảm, kể cả khi Overdive.
+1526|Có thể chịu sát thương từ đồng minh.
+1527|Không có công sự hay vị trí cao.
+1528|Aya trúng một đòn là chết.
+1592|[Súng ngắn] 76SA / Khẩu súng Aya yêu thích. Nạp thanh Liberation nhanh.
+1593|[Súng ngắn] 70-Two / (Sẽ xóa)
+1594|[Súng ngắn] Rx4 Ribs JCP / (Sẽ xóa)
+1595|[Súng ngắn] A170D / Dễ kích hoạt Overdive Kill.
+1596|[Súng ngắn] A220D / Dễ kích hoạt Overdive Kill.
+1597|[Súng ngắn] A220 Cdr4 / Dễ kích hoạt Overdive Kill.
+1598|[Súng ngắn] T1923 B1 / Hỏa lực mạnh.
+1599|[Súng ngắn] CDA1923 FBI / Hỏa lực mạnh.
+1600|[Súng ngắn] VS Max / Hỏa lực mạnh.
+1601|[Súng ngắn] S459 / Tầm bắn xa.
+1602|[Súng ngắn] S449 / Tầm bắn xa.
+1603|[Súng ngắn] S440SAO / Tầm bắn xa.
+1604|[Súng ổ quay] T05 7.6cm / Ít đạn nhưng mỗi phát bắn cực mạnh.
+1605|[Súng ổ quay] T343 10.2cm / Ít đạn nhưng mỗi phát bắn cực mạnh.
+1606|[Súng ổ quay] T250 21.3cm / Ít đạn nhưng mỗi phát bắn cực mạnh.
+1607|[Súng ổ quay] TC C / (Sẽ xóa)
+1608|[Súng trường] ASR18B3 Carbine / Súng trường tấn công tiêu chuẩn.
+1609|[Súng trường] D6B2 / Súng trường tấn công tiêu chuẩn.
+1610|[Súng trường] D6B2 SPCACS / Súng trường tấn công tiêu chuẩn.
+1611|[Súng trường] B&C618 / (Sẽ xóa)
+1612|[Súng trường] AC-54 / Hỏa lực rất mạnh nhưng độ chính xác không cao.
+1613|[Súng trường] AC-89 / Hỏa lực rất mạnh nhưng độ chính xác không cao.
+1614|[Súng trường] AC SPCACS / Hỏa lực rất mạnh nhưng độ chính xác không cao.
+1615|[Súng trường] YS228 SWAT / Dễ kích hoạt Overdive Kill.
+1616|[Súng trường] YS226 / Dễ kích hoạt Overdive Kill.
+1617|[Súng trường] YS225 / Dễ kích hoạt Overdive Kill.
+1618|[Súng trường] KMC / Súng trường tiêu chuẩn. Nạp thanh Liberation nhanh.
+1619|[Súng trường] WELT-Lite / Dễ kích hoạt Overdive Kill. Nạp thanh Liberation nhanh.
+1620|[Súng trường] WELT-Hvy / Hỏa lực mạnh, độ chính xác thấp. Nạp thanh Liberation nhanh.
+1621|[Súng trường] AR-18 / (Sẽ xóa)
+1622|[Shotgun] H2200A / Dùng ở cự ly gần. Dễ kích hoạt Overdive Kill.
+1623|[Shotgun] H22-88A / Dùng ở cự ly gần. Dễ kích hoạt Overdive Kill.
+1624|[Shotgun] AH20 / Dùng ở cự ly gần. Dễ kích hoạt Overdive Kill.
+1625|[Shotgun] SHIN24 / Chiến đấu cự ly gần, hỏa lực mạnh.
+1626|[Shotgun] SHIN27 / Chiến đấu cự ly gần, hỏa lực mạnh.
+1627|[Shotgun] SHIN27 IC / Khẩu SHIN27 do Cray tùy chỉnh.
+1628|[Shotgun] Gr6-Tactic / Dùng ở cự ly gần. Rất dễ kích hoạt Overdive Kill.
+1629|[Shotgun] Gr7-Tactic / Dùng ở cự ly gần. Rất dễ kích hoạt Overdive Kill.
+1630|[Shotgun] Gr8-Tactic / Dùng ở cự ly gần. Rất dễ kích hoạt Overdive Kill.
+1631|[Súng tỉa] R3MR1 / Bắn xa, mỗi viên có uy lực lớn. Nhắm điểm yếu để gây sát thương cực mạnh.
+1632|[Súng tỉa] PMR-1 / Bắn xa, mỗi viên có uy lực lớn. Nhắm điểm yếu để gây sát thương cực mạnh.
+1633|[Súng tỉa] PMR-1 GB Custom / Khẩu PMR-1 do Gabrielle tùy chỉnh. Nhắm điểm yếu để gây sát thương cực mạnh.
+1634|[Súng tỉa] AS-20 MR / Bắn xa, hỏa lực thấp hơn nhưng chứa nhiều đạn. Nhắm điểm yếu để gây sát thương lớn.
+1635|[Súng tỉa] AS-50 RB / Bắn xa, hỏa lực thấp hơn nhưng chứa nhiều đạn. Nhắm điểm yếu để gây sát thương lớn.
+1636|[Súng tỉa] AS-R220 / Bắn xa, hỏa lực thấp hơn nhưng chứa nhiều đạn. Nhắm điểm yếu để gây sát thương lớn.
+1637|[Súng tỉa] T50B2 / Súng chống tăng. Mỗi phát cực mạnh. Nhắm điểm yếu để gây sát thương lớn.
+1638|[Súng tỉa] Sulli 50 Cal. / Súng chống tăng. Mỗi phát cực mạnh. Nhắm điểm yếu để gây sát thương lớn.
+1639|[Súng tỉa] T210 Pierce / Súng chống tăng. Mỗi phát cực mạnh. Nhắm điểm yếu để gây sát thương lớn.
+1640|[Súng phóng lựu] ExT420 / Gây sát thương lên địch trong vùng nổ.
+1641|[Súng phóng lựu] RGS-280 / Gây sát thương lên địch trong vùng nổ.
+1642|[Súng phóng lựu] AG-C / Gây sát thương lên địch trong vùng nổ.
+1643|[Đặc biệt] T498 PS / Có thể bắn liên tục.
+1644|[Đặc biệt] T94 Lite / Có thể bắn liên tục.
+1645|[Đặc biệt] T480C / Có thể bắn liên tục.
+1646|[Đặc biệt] Pile Bunker / Vũ khí cận chiến. Dùng cọc khổng lồ xuyên thủng mục tiêu.
+1647|[Đặc biệt] Blaze Edge / Bản sao Gunblade yêu thích của Lightning.
+1648|[Humvee] Fixed battery / Ụ súng cố định.
+1649|[Đặc biệt] Anti-Hunter laser / Laser chống Hunter.
+1650|[Trực thăng] ATG missile / Tên lửa đối đất.
+1651|[Trực thăng] Minigun / Súng máy nhiều nòng.
+1652|[Xe tăng] 105-mm M68A1 / Pháo M68A1 cỡ 105 mm.
+1653|[Xe tăng] M2 heavy machine gun / Súng máy hạng nặng M2.
+2784|Da đen
+2785|Áo lông vũ trắng
+2786|Trang phục hầu gái
+2787|Đồ công sở
+2788|Đồ bơi
+2789|Thỏ Titan
+2790|Sườn xám
+2791|Trang phục Lightning
+2792|Lính Giáng sinh
+2793|Bộ đồ Overdive
+2794|Giáp hiệp sĩ
+2796|Áo ba lỗ đen và quần jean rách\nkhông chịu đòn tốt, nhưng thiết\nkế ôm người giúp dễ di chuyển.\n
+2797|Áo khoác lông vũ trắng vừa ấm\nvừa nhẹ, rất hợp để điều tra\ngiữa mùa đông New York.\n
+2798|Váy tạp dề truyền thống, vốn\nlà đồ làm việc nhà của phụ nữ.\nCòn Aya mặc chỉ để cho vui.\n
+2799|Bộ vest váy ngắn màu đen. Nội\ny đỏ thấp thoáng đầy quyến rũ;\ncặp kính lại tạo vẻ lạnh lùng.\n
+2800|Mặc kệ mùa đông! Quần short\njean và dây chuyền gợi không khí\nmùa hè bất tận. Bộ bikini này\nvừa tươi trẻ vừa mong manh.\n
+2801|Bộ đồ thỏ táo bạo với đôi tai\ndài và đuôi bông đáng yêu{1a5}\nlại hữu ích bất ngờ khi Overdive.\n
+2802|Bộ sườn xám xanh nổi bật với\nhọa tiết trái tim, để hở vai.\nKiểu tóc lệch càng thêm dễ thương.\n
+2803|Hóa thân thành Lightning trong\nFinal Fantasy XIII. Khi bộ đồ\như hại, dấu l'Cie sẽ lộ ra.\n
+2804|Đồ ông già Noel phiên bản nữ.\nMặc liên tục mùa lễ hội, rồi\ncất tủ suốt phần còn lại của năm.\n
+2805|Bộ đồ Overdive thử nghiệm, thu\nthập đủ loại dữ liệu sinh học\nkhi Aya dịch chuyển. Chẳng có\nchút riêng tư nào cả.\n
+2806|Bộ giáp thật mua từ tiệm đồ cổ.\nVừa phòng thủ tốt vừa đẹp mắt.\nMặc vào là thấy dũng cảm hẳn.\n
+2807|Over Energy thử nghiệm
+2808|Energy Shot
+2809|Homing Shot (dự kiến bỏ)
+2810|Inferno
+2811|Regeneration
+2812|Energy Defense
+2813|Barrier
+2814|Pre-Raise
+2815|Bulletproof (dự kiến bỏ)
+2816|Boost Fire
+2817|Cross Healing
+2818|Rapid Link
+2819|Odds Up
+2820|Impact Wave
+2821|Healing
+2822|Haste
+2823|Power Surge
+2824|Antibody
+2825|Restock
+2826|Kill Boost
+2827|Critical Shot
+2828|Fanaticism
+2829|Endurance (dự kiến bỏ)
+2830|LIFE Drain (dự kiến bỏ)
+2831|Supply (dự kiến bỏ)
+2832|Rush (dự kiến bỏ)
+2833|Slow
+2834|Slow Recharge
+2835|Lowered Evasion
+2836|Odds Down
+2837|Disease
+2838|Illness
+2839|Tăng sát thương khi bắn trong trạng thái Liberation.
+2840|(dự kiến bỏ)
+2841|Trong trạng thái Liberation, nhấn {fd3d} để hy sinh bản thân, gây sát thương cực lớn lên toàn bộ kẻ địch.
+2842|Sinh lực hồi dần trong trạng thái Liberation.
+2843|Tăng phòng thủ liên tục.
+2844|Aya có cơ hội trở nên bất tử trong chốc lát sau khi nhận sát thương.
+2845|Hồi sinh một lần với đầy sinh lực khi bị hạ gục.
+2846|(dự kiến bỏ)
+2847|Tăng uy lực của Crossfire.
+2848|Người tham gia Crossfire có cơ hội hồi sinh lực.
+2849|Giúp kích hoạt Crossfire dễ hơn.
+2850|Tăng cơ hội nhận chip Over Energy chất lượng cao.
+2851|Aya có thể phát ra một loạt sóng xung kích khi Overdive.
+2852|Aya có cơ hội hồi một ít sinh lực khi Overdive.
+2853|Aya có thể chạy nhanh hơn sau khi tung Overdive Kill.
+2854|Sức tấn công có thể tăng sau khi hạ địch hoặc dùng Overdive Kill.
+2855|Phòng thủ có thể tăng trong lúc Overdive.
+2856|Có cơ hội bổ sung đạn khi Overdive.
+2857|Tăng sát thương Overdive Kill.
+2858|Có cơ hội bắn Energy Shot khi đang trang bị súng ngắn.
+2859|Sức tấn công có thể tăng sau khi hạ địch. (dự kiến bỏ)
+2860|(dự kiến bỏ)
+2861|(dự kiến bỏ)
+2862|(dự kiến bỏ)
+2863|(dự kiến bỏ)
+2864|Giảm nhẹ tốc độ di chuyển.
+2865|Tăng nhẹ thời gian thay băng đạn.
+2866|Giảm số lần né liên tiếp tối đa.
+2867|Giảm nhẹ tỉ lệ nhận chip Over Energy.
+2868|Khó tích đầy thanh Liberation hơn một chút.
+2869|Giảm nhẹ tốc độ hồi sinh lực.
+2870|ENERGY SHOT
+2871|HOMING SHOT
+2872|INFERNO
+2873|REGENERATION
+2874|ENERGY DEFENSE
+2875|BARRIER
+2876|PRE-RAISE
+2877|BULLETPROOF
+2878|BOOST FIRE
+2879|CROSS HEALING
+2880|RAPID LINK
+2881|ODDS UP
+2882|IMPACT WAVE
+2883|HEALING
+2884|HASTE
+2885|POWER SURGE
+2886|ANTIBODY
+2887|RESTOCK
+2888|KILL BOOST
+2889|CRITICAL SHOT
+2890|FANATICISM
+2891|ENDURANCE
+2892|LIFE DRAIN
+2893|SUPPLY
+2894|RUSH
+2895|SLOW
+2896|SLOW RECHARGE
+2897|LOWERED EVASION
+2898|ODDS DOWN
+2899|DISEASE
+2900|ILLNESS
+2902|Tháng 12
+2903|Tháng 12
+2904|Tháng 1
+2905|22/5
+2906|Tháng 6
+2907|Tháng 8
+2908|Tháng 8
+2909|Tháng 11
+2910|7/1
+2912|Tháng 5
+2914|Tháng 11
+2918|9/2
+2919|1/4
+2920|4/9
+2921|30/9
+2922|Tháng 10
+2923|3/10
+2924|Tháng 11
+2925|1/12
+2926|9/12
+2933|Phát hiện Aya Brea
+2934|Twisted xuất hiện lần đầu
+2935|Thành lập Cục Chống khủng bố
+2936|Thành lập Ủy ban Cố vấn CDC
+2937|Sự kiện Peter Feldman
+2938|Bộ trưởng Quốc phòng công bố Hồ sơ Twisted
+2939|Phân tích năng lực Overdive của Aya Brea
+2940|Thành lập Đội Điều tra Chống Twisted (CTI)
+2941|Thành lập đội đặc nhiệm TDM
+2942|Chiến dịch Sương Đỏ
+2944|Công bố báo cáo biến đổi bất thường của vỏ Trái Đất
+2945|Chiến dịch Bão Tím
+2946|Thành lập viện nghiên cứu tư nhân SRL
+2947|Hoàn thành thiết bị Overdive{1a6}Bắt đầu điều tra
+2948|Các Babel xuất hiện
+2949|Sự kiện Sacrifice
+2950|Tổng thống Mỹ họp báo khẩn
+2951|Cho phép phát triển vũ khí hạt nhân mới
+2952|Dự báo: Mỹ sẽ bị xóa sổ sau hai năm
+2953|Dự báo: Mỹ sẽ bị xóa sổ sau bốn năm
+2954|Dự báo: Mỹ sẽ bị xóa sổ sau sáu tháng
+2955|Không lực Một rơi
+2956|Tàu sân bay đang đóng bị phá hủy
+2957|Chiến dịch Sóng Thần Vàng
+2958|Chiến dịch Lốc Xoáy Xanh
+2959|Lầu Năm Góc bị phá hủy
+2960|Số thương vong tại bang New York vượt 5 triệu
+2961|Số thương vong tại bang New York vượt 3 triệu
+2962|Số thương vong tại bang New York vượt 1 triệu
+2963|Số thương vong tại bang New York vượt 10 triệu
+2964|Sự kiện Leavenworth
+2965|Sự kiện nhà hát opera Upper West Side
+2966|CTI thu được nhật ký của Emily Jefferson
+2967|Babel xuất hiện ở châu Á
+2968|Babel xuất hiện trên toàn thế giới
+2969|Hội đồng Bảo an LHQ kêu gọi lập liên quân
+2970|Người Mỹ sống sót tìm nơi trú ẩn tại Ireland
+2971|Chiến dịch Bão Tuyết Xám
+2972|Sự kiện Met
+2973|Sự kiện Spanish Harlem
+2974|Trụ sở FBI bị phá hủy
+2975|Long Island rơi vào tay Twisted
+2976|Kyle Madigan lấy tháp North Shallows làm căn cứ
+2977|Hiện tại
+3980|Coi chừng!\n
+3981|Đánh trực diện thế này\nchỉ có chết thôi!
+3982|Aya, nhắm vào chân trước\nđể chặn nó lại!
+3983|Chết tiệt!\nSao nó chưa chết!?\n
+3984|Thứ gì cũng có\nđiểm yếu. Tìm đi.
+3985|Aya, tìm điểm yếu\nrồi tấn công vào đó.
+3986|Đến chỗ có\ntầm nhìn thoáng đi.\n
+3987|Phải biết rõ thứ\nmình đang đối mặt.{fe30}
+3988|Không ổn rồi!\n{fe29}
+3989|Đòn đánh thường\nchẳng ăn thua.{fe33}
+3990|Được rồi! Vị trí\nđó rất tốt!
+3991|Khoan đã!{fe14}
+3992|Đúng rồi!\n{fe1f}
+3993|Aya, tấn công đi.\n
+3994|Làm tốt lắm, Aya.\n
+3995|Sang khu tiếp theo đi.\n
+3996|Chết tiệt! Cứ thế này\nthì chết cả lũ mất!
+3997|Nó chẳng yếu đi!\nĐánh từ bên sườn!
+3998|Ăn đòn đi, đồ quái vật!\n
+3999|Phải tập hợp lại.\nĐến câu lạc bộ!
+4000|Này, nhóc.\nCá cược không?
+4001|Cá chuyện gì vậy, thưa sếp?\n
+4002|Xem tôi có sống sót\nđến khu tiếp theo không.
+4003|Tôi không thể đem\nmạng người ra cá cược.\n
+4004|Vậy là cậu chưa\nlăn lộn đủ lâu rồi.
+4005|Glenn đã gào thét lúc\nchết... Kinh khủng lắm.
+4006|Sống mà không cá cược\nthì sống làm gì.
+4007|Blank, có chuyện gì vậy?\n
+4008|Tôi đang phân tích dữ liệu.\nKhông thể tin nổi!{fe84}
+4009|Cô sợ à?\n
+4010|Người chết đâu biết sợ.{fe4e}
+4011|Các đòn tấn công{1a5}hình như\nchẳng hề làm nó đau!{fe50}
+4012|Phải tìm cách khác\nđể tiêu diệt nó.\n
+4013|Ý anh là... giải phóng\nsức mạnh của tôi?\n
+4014|Tấn công thông thường\nvô ích thôi.
+4015|Aya?\n
+4016|Cô không nhớ sao?\n
+4017|Tôi đang ở đâu?\n
+4018|Nhanh lên. Bắt lấy tôi.\n
+4019|Cô đang khóc à?\n
+4020|Tôi không còn tồn tại nữa.\n
+4021|Việc đầu tiên của cô là\nhỗ trợ đội SWAT.{fe55}
+4022|Ba ngày trước, Gabby\nđã làm nhiệm vụ bắn tỉa.{fe5a}
+4023|Stinker tấn công\nphối hợp sao?
+4024|Ừ, bất ngờ lắm!\nChơi không đẹp chút nào!\n
+4025|Gabrielle thất bại, nhưng\ntôi tin cô làm được,{fe4b}
+4026|Thưa sếp, nói vậy\nhơi nặng lời đấy.\n
+4027|Cẩn thận bao nhiêu\ncũng không thừa...{fe3e}
+4028|Rover đấy! Coi chừng\nánh sáng chúng phát ra.
+4029|Dính phải luồng sáng đó\nlà cô sẽ bị tê liệt.
+4030|Mọi người chết hết rồi.\n
+4031|Cố lên, Aya!{fe2d}
+4032|Được rồi, cô đang\nđiều khiển Gabby.{fe73}
+4033|Tốt lắm.{fe28}
+4034|Giỏi lắm, Aya!\n
+4035|Chúng ta sẽ tấn công\nBabel.{fe3c}
+4036|Bắn ngay!\n
+4037|Tản ra! Rõ chưa?\n
+4038|Đi! Đi mau!\nChạy đi, lính mới!
+4039|Chúng kéo đến mãi!\nNhìn đường đi chứ!
+4040|Bắn tan xác lũ khốn!\n
+4041|Lên thẳng mái nhà!\n
+4042|Stinker đến rồi!{fe63}
+4043|Tránh những đám mây đó\nrồi tiếp tục tiến lên!
+4044|Thưa sếp, có một con\ntrông khác hẳn bọn{fe5a}
+4045|Rất có thể đó là con\nđang tạo ra{fe2d}
+4046|Aya, tôi gửi dữ liệu\ncủa nó cho cô.\n{fe4a}
+4047|Sương mù đã tan\nở vài khu vực.
+4048|Đuổi theo lũ Stinker\nđang bay phía trên.
+4049|Sương mù này!\nTôi không nhúc nhích được!\n
+4050|Thằng khốn đó bất ngờ\nlao ra từ màn sương!
+4051|Sương đã tan nhưng\nviệc vẫn chưa xong.
+4052|Các tay súng tỉa,\nlên mái nhà!
+4053|Nhìn lên!\nCon cuối cùng ở trên đầu!
+4054|Đội bắn tỉa, nghe rõ không?\n
+4055|Đội bắn tỉa, trả lời đi!\n
+4056|Tìm thấy họ rồi!\n
+4057|Aya, sắp xong rồi!\nCố thêm chút nữa!
+4058|Phía trước có các khối cầu.{fe3b}
+4059|Ừ, nhưng nhìn xem,\nđịch đông quá!{fe4e}
+4060|Blank, tình hình\nphía trước thế nào?
+4061|Tôi phát hiện địch\nở khắp nơi!
+4062|Nhớ lại trận chiến\nkhó khăn nhất đời cô.{fe49}
+4063|Một mình cô không thể\nlàm nổi đâu.\n{fe4a}
+4064|Có cựu binh Delta Force\nđi cùng ta. Tên Cray.
+4065|Thelonious Cray ư!?\nTôi biết anh ta!
+4066|Chắc anh ấy đang trên đường\nđến khu phía trước.
+4067|Cray còn sống, Aya!\nTin tốt quá!
+4068|Cray với tôi từng là\nbạn ở học viện.
+4069|Harlem bị phá hủy rồi.\nTôi lớn lên ở đó.
+4070|Ông của anh từng\nlàm cho mafia nhỉ?
+4071|Ừ. Người Sicilia không tha\nkẻ hại gia đình mình.
+4072|Sương độc đã giết sạch\ncả tiểu đội tôi...\n
+4073|Tôi sẽ nghiền nát bất cứ ai\ndám xúc phạm gia đình mình!
+4074|May quá! Ta có thể\ndùng pháo vệ tinh!
+4075|Aya, hãy Overdive vào người\nđang dùng thiết bị ngắm.{fe78}
+4076|Chiếu sáng mục tiêu\nvà giữ tâm ngắm{fe32}
+4077|Tôi sẽ Dive vào trong Babel.\n
+4078|[{fd22}Khoan! Tôi chưa phân tích\nxong dữ liệu!{fd23}]
+4079|Tôi đi đây.\n
+4080|Lục soát Babel!\nPhá hủy các khối cầu!
+4081|Bảo vệ chúng tôi cho đến\nkhi viện binh tới.
+4082|Viện binh sắp đến,\nmang theo vũ khí mới cực mạnh.
+4083|Viện binh tới rồi!
+4084|Mục tiêu đã bị tiêu diệt.\n
+4085|Nó sắp sập rồi.\nBlank, đưa lên!
+4086|Rõ, thưa sếp!\n
+4087|Sao quái vật này lại ở đây!?\nLẽ nào đây là... của Babel?
+4088|Dùng Overdive Kill\nđể kết liễu nó!
+4089|T-Tôi bị hút vào!\nNếu không Overdive thoát ra...
+4090|Tôi hết sức rồi!\n
+4091|Nếu cô muốn cứu\nMonsigny,{fe64}
+4092|Thì Dive hay làm gì\nđó đi!
+4093|Hyde và những người khác\nhiện đang tìm kiếm{fe41}
+4094|Twisted cứ bắt người\nrồi khiến họ biến mất.
+4095|Chết tiệt! Lũ quái vật\ntừ đâu chui ra vậy?
+4096|Khốn kiếp, nguy rồi!\n
+4097|Sao thế? Sợ à?\n
+4098|...Ừ. Huấn luyện chẳng\nchuẩn bị cho tôi chuyện này.
+4099|Đừng lo. Tôi tè ra quần\ntừ lâu rồi.
+4100|Chạy đủ nhiều, quần sẽ\ntự khô lúc nào không hay.
+4101|Đúng là một cuộc thảm sát... Thi thể\nbiến mất rồi, nhưng mùi vẫn còn...
+4102|Sương mù à? Cô sẽ\ntìm được cách vượt qua.
+4103|Phải tìm cách xử lý\nđám sương này.
+4104|Dẹp đám sương đi! Phải\ntiêu diệt lũ Stinker.
+4105|À, thế này khá hơn rồi.\nDọn sạch phần còn lại đi!
+4106|Lũ khốn này không\nđùa đâu!
+4107|Tiếp tục cuộc chơi nào,\nđược chứ?
+4108|Cứ đi thẳng.\n
+4109|Có địch phía trước!\n
+4110|Viện binh tới rồi đây.{fe66}
+4111|Gabrielle đây.\n
+4112|Con gái à?\n
+4113|Tập trung bắn lũ Wad\nđể dọn đường!
+4114|Rẽ phải.\n
+4115|Không, rẽ trái.\n
+4116|Xin lỗi, tôi chưa quen\ndùng thiết bị này.
+4117|Mất thời gian quá.\nĐể tôi nói cho rõ.{fe8e}
+4118|Gabrielle đây.\n
+4119|Đúng là cô ấy...\nTôi chắc chắn.
+4120|Roller hả? Lũ này nhanh thật.\nĐánh gọng kìm hạ chúng đi.
+4121|Sương độc! Ra khỏi đó!\nChạm vào là toi mạng!
+4122|Bắn hạ bầy Stinker\nđang bay trên đầu!
+4123|Chết tiệt! Tôi đã bảo rồi!\nTránh xa đám sương ra!
+4124|Tôi phát hiện kẻ địch\nở phía trên cô.
+4125|Không có người{fe3b}\nchỉ đường là chịu à?
+4126|Tốt nhất cô nên chứng tỏ\nmình không phí tiền thuế{fe50}
+4127|Đi thay đổi quá khứ đi...\nNếu cô làm được.
+4128|Chà, đông thật đấy.\n
+4129|Việc của cô là\ndọn sạch chúng.\n
+4130|Aya{1a5}\n
+4131|Đừng đế{1a5}\n
+4132|Khốn kiếp! Đông quá!\n
+4133|Chẳng thấy hết đâu cả...\nChết tiệt!
+4134|Cứ thế này không tiến nổi.\nBắn tỉa! Phá các khối cầu!
+4135|Tôi vừa nhận tin từ Hyde.{fe4b}
+4136|Cô nên... ờ...\nnhanh lên.
+4137|Ước gì siêu anh hùng\nhoạt hình của anh ở đây.
+4138|Ồ, kiểu gì anh ta cũng\nxuất hiện lúc nguy cấp.
+4139|Chắc anh chưa nhận ra,\nchúng ta nguy cấp\ntừ lâu lắm rồi!
+4140|Vậy sao?\n
+4141|Siêu anh hùng chỉ đến\nvào giây phút cuối thôi.
+4142|Sống sót khỏi đây,\ntôi sẽ thay đổi hoàn toàn.
+4143|Kiểm tra chiếc xe đi.\n
+4144|Khẩu súng máy này\nchắc vẫn dùng được!
+4145|Vào trong đi!\n
+4146|Tôi đã tới vị trí.\nCác anh gọi viện binh à?
+4147|Đang kiểm soát khu vực.\n
+4148|Sẵn sàng khai hỏa.\nTôi yểm trợ cho!
+4149|Có lẽ mình có thể\nDive vào một tay bắn tỉa.
+4150|Mình có thể dùng ống ngắm\nđể thu thập thông tin.
+4151|Làm sao để hợp nhất đây?\n
+4152|Đòn đánh chẳng ăn thua!\n
+4153|Overdive Kill có thể hiệu quả!\n
+4155|Cứu...\n
+4156|Tôi xin lỗi...\n
+4157|Muộn quá rồi...\n
+4158|Mau lên...\n
+4159|Muộn quá rồi...\n
+4160|Làm ơn...\n
+4161|Đừng do dự...\n
+4162|Thấy thích không?\n
+4163|Cô đã cướp của tôi một người.\n
+4164|Tôi biết cô làm được mà.\n
+4165|Đối xử tốt với tôi nhé!\n
+4166|Tôi không muốn bị thương\nhay để lại sẹo đâu!
+4167|Tôi không nghe thấy anh ấy.\n
+4168|Ồ!\n
+4169|Tôi cứ tưởng anh ấy\nsẽ độc thân suốt đời.
+4170|Babel kìa!\n
+4171|Gabrielle... đâu rồi?\n
+4172|Gì đây? Xe bọc thép\nbị bỏ lại à?\nKhông biết còn bắn được không...
+4173|Tiếng gì thế?\nNó đang đến gần!
+4174|Rẽ trái.\n
+4175|Phía trước rẽ phải.\n
+4176|Rút lui!\n
+4177|Có địch phía sau!\n
+4178|Bắn! Ngay!\n
+4179|Khoan bắn!\n
+4180|Suýt nữa thì chết.\n
+4181|Reaper à? Ôi không!\nXui xẻo thật!\n
+4182|Tôi không nghĩ cô đủ sức\ntiêu diệt chúng đâu.\n{fe4a}
+4183|Lũ này trâu thật!\nĐạn chẳng xi nhê gì!
+4184|Rút lui! Toàn quân\nrời khỏi vùng chiến!
+4185|Tập trung phá hủy\ncác khối cầu!
+4186|Quan sát chuyển động\ncủa chúng rồi đánh.
+4187|Tiêu diệt quái vật\nvà mở đường đi tiếp.
+4188|Chúng ta biết Vệ binh\nQuốc gia\n
+4189|Tăng viện cho quân trong\nnhà ga, đồng thời cố\n
+4190|Trước tiên hãy tìm\nĐại úy Danny Russo của{fe52}
+4191|Tường Babel đã bị phá.\nChúng tôi đang vào nhà ga.
+4192|Aya, khoan đã!\n
+4193|Đó là thiết bị dò\ncủa Rover.
+4194|Nếu kích hoạt nó,\nRover sẽ tấn công.
+4195|Rõ, thưa sếp. Này, cô{1a5}\n
+4196|Twisted ư!?\n
+4197|Tôi là Aya Brea, CTI đây.\n{fe46}
+4198|CTI? Cô muốn gì?\n
+4199|Em gái tôi bị mất tích.\n
+4200|Không ngờ cô lại\nnói chuyện đó!\n{fe70}
+4201|Này! Có một cô gái\nở đây!\n
+4202|Dân thường à? Bảo vệ cô ấy!\n
+4203|Tín hiệu liên lạc\ncủa Delta Force!\n
+4204|Aya, liên lạc với\nĐại úy Russo đi.
+4205|Đó là{1a5}!\n
+4206|Aya! Có chuyện gì vậy?\n
+4207|Đó là Eve! Em gái tôi!\n
+4208|Chết tiệt! Tôi vướng phải\nthiết bị dò gì đó,\n
+4209|Snatcher!\n
+4210|Lũ này phiền thật!\nCô không muốn biết{fe50}
+4211|Luôn cảnh giác đấy.
+4212|Russo đây.{fe49}
+4213|Rốt cuộc chúng là thứ gì?
+4214|Chạy trước khi nó bắt được!\nBắn đi! Bắn ngay!
+4215|Xin phép khai hỏa!\n{fe52}
+4216|Khoan, ngừng bắn.\nTôi không thấy ai cả.
+4217|Cô ấy biến mất rồi.\n
+4218|Lại thêm Reaper nữa!
+4219|Chạy đi, trước khi nó giết cô.\n
+4220|Phá đống đổ nát\nđể mở lối đi.
+4221|Địa hình ở đây phức tạp thật.\n
+4222|Chết tiệt! Hắn đi đâu rồi?\n
+4223|Có chuyện gì vậy!?\n
+4224|Tình hình dưới này\nthế nào rồi?
+4225|Russo đây. Cô có định\ngiúp chúng tôi{fe73}
+4226|Tôi nói thật đấy!\n
+4227|Sếp, phía trước đầy bẫy,\nvà chúng{fe6e}
+4228|Quà của Delta Force hả?\n
+4229|Chạm vào tia sáng\nlà thuốc nổ phát nổ.{fe57}
+4230|Cứ tiếp tục di chuyển.\n
+4231|Chúng chẳng để lại xác...\nLà thứ gì vậy?\nTừ đâu chui ra?
+4232|Có thể là người ngoài hành tinh.\nHoặc do chất thải độc hại.
+4233|Dù sao tôi cũng thà đánh\nlũ này còn hơn giết người.
+4234|Ừ, chẳng cần cố ghét chúng.\nTự nhiên đã thấy ghét rồi.
+4235|Russo không có chữ “bó tay”\ntrong từ điển. Sẵn sàng\nđột kích chưa, anh bạn?
+4236|Làm sao lo nổi cho con học hành?\nĐến bảng cửu chương\ntôi còn chẳng thuộc!{fe5a}
+4237|Tôi là lính. Tôi đã sẵn sàng\nhy sinh khi làm nhiệm vụ.
+4238|Chết tiệt, đồng đội tôi vừa\nchết vì bẫy! Ta đang\nđánh quái vật cơ mà!
+4239|Khốn kiếp! Một đồng đội\nvừa chết vì bẫy!
+4240|Hả!? Tôi đâu biết\nchúng ta đặt bẫy!
+4241|Ta đang đánh quái vật mà!\nBẫy là để đối phó con người!
+4242|Russo đây.{fe46}
+4243|Một kẻ mang gương mặt\ncủa Twisted à?
+4244|Chắc anh cần ngủ thêm đấy!\n
+4245|Tôi biết mình đã thấy gì!\n
+4246|Đừng tới quá gần.\nBắn tỉa từ xa đi.
+4247|Lạ thật.\n
+4248|Bẫy đang giết chết\nchính quân mình.
+4249|Tại sao bọn họ\nlại dùng bẫy chứ?\n
+4250|Có lẽ họ đang cố\nbắt một ai đó...\n
+4251|Nghe nói có một cô bé\nbị lạc quanh khu này.
+4252|Tôi chưa thấy cô bé,\nnhưng có thấy một gã.
+4253|Vậy à?\n
+4254|Không nhìn rõ, nhưng hắn\nné đòn tỉnh bơ{fe4c}
+4255|Tôi thấy một gã\ntrông rất đáng ngờ.
+4256|Chết tiệt, đông chưa kìa!?\nChúng kéo ra mãi không hết!
+4257|Đừng phí đạn!\nBắn chuẩn, đừng bắn bừa!
+4258|Mấy khối cầu! Bắn chúng!\n
+4259|Lại là thiết bị dò đó!\nĐừng để nó phát hiện!
+4260|Này, lại cô bé đó kìa!\nChuyện gì đang xảy ra?
+4261|Không thấy cô bé đâu.\n
+4262|Đại úy Russo!\n{fe20}
+4263|Bắn! Hạ hết chúng đi!\n
+4264|Bẫy à?\n
+4265|Giờ sao? Cô ấy đâu thể\nnhảy xuống đó!
+4266|Đừng lo{1a5}cô ấy\nkhông cần phải nhảy.
+4267|Ăn đạn đi, lũ khốn!\n
+4268|Đúng rồi! Nếm đạn đi,\nlũ quái dị!
+4269|Quét sạch khu này\nrồi tiến lên!
+4270|Thổi bay lũ quái vật\nchết tiệt đó đi!
+4271|Cô không sao chứ?\n
+4272|Lại có địch di chuyển.\nLũ Snatcher.
+4273|Gì cơ?\n
+4274|Hết hy vọng rồi.\n
+4275|Cô phải tiến lên, Aya.\nCứ làm đi.
+4276|Tiến độ của Aya\nấn tượng thật.\n{fe61}
+4277|Thôi nào, sếp!\nĐừng nói vậy chứ!{fe46}
+4278|Đôi khi tin người\nlại rất nguy hiểm.
+4279|Không được! Phải diệt\nsạch chúng mới qua được!
+4280|Để chúng tóm được là toi!\nĐừng rời mắt khỏi chúng!
+4281|Ở đây có chuyện gì đó\nrất kỳ lạ.
+4282|Lạ thật đấy.\n
+4283|Lính Delta Force\nđâu phải tay mơ.\n
+4284|Có thể nội bộ đơn vị\nđang xảy ra chuyện.
+4285|Có khi hồ sơ\nkhông hề tồn tại
+4286|Aya, cô khác quá.\nMới cắt tóc à?
+4287|Các chỉ số sinh tồn ổn định.
+4288|Cô đã tìm ra\nđiều quan trọng ấy chưa?\n
+4289|Tôi chưa từng có\nthứ gì quan trọng cả.
+4290|Aya, chúng tôi đã kiểm tra\nsơ bộ các hồ sơ.{fe73}
+4291|Tôi không nghĩ cô nói dối\nvề chuyện có em gái.{fe5c}
+4292|Cô biết họ sẽ\nche đậy chuyện này mà.
+4293|Nhịp tim 98...\nSắp thành nhịp nhanh\nxoang rồi.{fe64}
+4294|Eddie, bình tĩnh đi.\nGiờ chỉ còn cách đó thôi.
+4295|Đến lính của Russo cũng\nchết như ngả rạ... Khốn thật!\nTôi chưa muốn chết đâu!
+4296|Nhịp tim, nhịp thở, thân nhiệt,\nhuyết áp, phản xạ đồng tử,\nbài tiết...{fe64}
+4297|Bạn tôi chết dần hết rồi...\nCó gì đó không ổn.\nChuyện quái gì vậy?
+4298|Nhìn xem, ta đã tiến\nsâu vào trong rồi!
+4299|Rover kìa!\n
+4300|Tôi thấy rồi.\n
+4301|Gay go rồi.\n
+4302|Giờ làm sao đây?\n
+4303|Kiểu gì cũng có cách.\n
+4304|Sếp, hình như ta đã có\npháo vệ tinh rồi!
+4305|Cuối cùng cũng được.{fe37}
+4306|Quét sạch chúng! Cứ bắn\nđến khi hết sạch!
+4307|Phải diệt sạch\nkhông chừa con nào!
+4308|Đừng dừng! Bắn! Bắn đi!\n
+4309|Phát này là sạch chúng ngay.\n
+4310|Làm tốt lắm.\nCòn lại để tôi.
+4311|Chạy đi, Aya!\nCô không có cửa thắng đâu!
+4312|Tôi đã bảo rồi, cô chưa\nđủ sức đấu với chúng!
+4313|Aya, có nghe tôi nói không?
+4314|Chúng sẽ giết cô đấy!\nNghe không? Chạy đi!\n
+4315|Khó hơn dự tính nhiều.\n{fe64}
+4316|Nhanh chóng dùng Overdive\nchuyển từ xe tăng này\nsang xe tăng khác,{fe67}
+4317|Có thể bắn địch ẩn nấp\ntừ một xe tăng khác.{fe7b}
+4318|[{fd22}Đi thôi!{fd23}]\n
+4319|Cơ hội đến rồi, Aya!\n
+4320|15/02/2014 04:30\nOverdive thời gian thực{fe50}
+4321|QRF Zero Alpha đây.\n
+4322|Bravo Bốn-Bảy đây.\nChúng tôi chạm địch. Có một
+4323|Charlie Năm-Năm đây.\nKhông có đường thoát!\n
+4324|Zero Alpha nghe rõ.\nĐã nhận. Pháo binh yểm trợ
+4325|Địch đang di chuyển!
+4326|Không thể giải thích\nvì sao Kyle Madigan ở đây.
+4327|Các Babel quanh đây\nliên thông dưới đất.{fe5c}
+4328|Nhắm vào miệng nó!\n{fe50}
+4329|15/02/2014 04:45\nOverdive thời gian thực{fe50}
+4330|Zero Alpha đây.\nBắt đầu đặt thuốc nổ C4.
+4331|Họ đang đặt C4\ntrong tòa tháp.{fe78}
+4332|Nếu đưa Babel đến\nbờ vực sụp đổ,{fe5e}
+4333|C4 đang được đặt\ntrên các cột bên trong{fe7b}
+4334|W-Worm! L-Lại một con nữa!
+4335|Có chuyển động!\nCon Worm ngoài kia!
+4336|Cần thêm hỏa lực!{fe2f}
+4337|Aya! Cô thấy\nchiếc xe tăng hỏng chứ?{fe63}
+4338|Giờ là lúc phản công!{fe51}
+4339|Đừng bắn trúng\nngười của ta.{fe51}
+4340|Chết tiệt! Cứ thế này\nta không cầm cự nổi!{fe3c}
+4341|Khốn thật! Chúng bắn vào!\nTạm lùi lại đã.
+4342|Chúng kéo đến từng đàn...\n{fe3c}
+4343|Juneau Bốn, an toàn!\n{fe2d}
+4344|Hạ địch rồi\nđặt thuốc nổ C4{fe62}
+4345|Gần đây có\nsảnh thang máy.{fe5e}
+4346|Ta vẫn chưa biết\nKyle Madigan ở đâu,{fe62}
+4347|Này, tiếng gì vậy?\n{fe3c}
+4348|15/02/2014 05:00\nOverdive thời gian thực{fe50}
+4349|Có vẻ thang máy\nkhông hoạt động.\n{fe85}
+4350|Có vẻ thang máy\nkhông hoạt động.\n{fe85}
+4351|Twisted là những dạng sống\nđầy bí ẩn.{fe6e}
+4352|Chúng đến từ rìa\nkhông-thời gian{1a5}{fe62}
+4353|Tôi có một giả thuyết\nthú vị về Twisted{fe67}
+4354|Ví dụ như thằn lằn bay\nvà thằn lằn cá{fe66}
+4355|Rồi biết đâu ta sẽ tìm ra\nmột loài có trí tuệ.{fe78}
+4356|Twisted khiến tôi nhớ đến\nxe tăng Jagdtiger của Đức.
+4357|Tôi phát ngán mấy chuyện\nlịch sử quân sự của anh rồi.
+4358|Thích làm pháo thủ thế thì\nnộp đơn xin vào luôn đi.
+4359|Jagdtiger cũng là quái vật:\ngiáp dày như tuần dương hạm,\npháo mạnh như khu trục hạm.
+4360|Thôi nào, anh làm tôi\ntụt hết cả hứng.
+4361|Nhưng cuối chiến tranh, Đức\nthiếu nhiên liệu chạy chúng.{fe50}
+4362|Mà Jagdtiger có thể\nhạ xe tăng Sherman\nchỉ bằng một phát đấy.
+4363|Con người ngu ngốc thật.\nChẳng ai nghĩ chính mình\nsẽ là người phải chết.
+4365|Chín khối C4 trên ba\ncột trụ. Nổ banh xác luôn.
+4366|Các cột trụ sẽ được\ngắn đầy thuốc nổ.{fe64}
+4367|Bọn địch đang chắn đường.{fe66}
+4368|Cần thêm tay súng\nđến yểm trợ.\n{fe6a}
+4369|Có cầu thang phía sau.\nCửa khóa rồi, nhưng\ncứ cho nổ tung là xong!
+4370|Juneau Chín, an toàn!\nOscar Hai, tiến đến\n
+4371|Đặt bốn khối C4\nở đây.
+4372|Gắn C4 lên các cột.\nDễ thôi.
+4373|W-W-Worm kìa!\n{fe66}
+4374|[{fd22}Bravo Bốn-Ba đây.\nPhát hiện một con Worm!{fd23}]{fe68}
+4375|[{fd22}Đừng lo{1a5}giờ an toàn rồi!{fd23}]
+4376|[{fd22}Các anh có viện binh\nxịn nhất tới rồi đây!{fd23}]
+4377|Là do may mắn, hay\nnhờ năng lực của cô?
+4378|Juneau Mười Một, an toàn!\n
+4379|[{fd22}Cô vào sâu thật đấy.{fd23}]\n{fe52}
+4380|Quân ta bị Twisted\nbao vây rồi!{fe53}
+4381|Chúng kia rồi.\n{fe48}
+4382|Aya, cô hoàn thành\nnhiệm vụ rồi!\n
+4383|Zero Alpha đây.{fe4e}
+4384|Cô phải rời khỏi đó.\nTìm đường thoát ngay!
+4385|[{fd22}Ôi không! Bị kẹt rồi!{fd23}]\n
+4386|[{fd22}Khốn kiếp! Sắp nổ rồi!{fd23}]\n
+4387|[{fd22}Chỉ huy! Có nghe không?\nXin trả lời!{fd23}]
+4388|Tôi tính sai rồi.\nTòa nhà sắp nổ tung.{feb3}
+4389|[{fd22}Vui lên. Ít nhất\nchúng ta chết như anh hùng.{fd23}]
+4390|[{fd22}Tôi chỉ muốn nói với con\nrằng bố yêu con.{fd23}]
+4391|Cấp cứu! Cấp cứu!\n{fe3d}
+4393|Cô phải thoát ra.\n{fe4c}
+4394|[{fd22}Aya!{fd23}]\n
+4395|Tôi biết rồi.\n
+4396|Thế là được rồi!\nCơ hội đến rồi{1a5}đặt C4 mau!
+4397|Twisted tạm rút rồi!\nĐặt C4 ngay!
+4398|Ngay lúc này! Gắn C4\ntrước khi địch tập hợp!
+4399|Aya, bay cẩn thận nhé!\n
+4400|Cẩn thận!\n
+4401|Vẫn còn lính bị\nkẹt trong tòa nhà.{fe62}
+4402|Nhìn phi công kia kìa!\n
+4403|Anh ấy giỏi thật!\n
+4404|Cảm ơn! Cảm ơn nhiều!\n
+4405|Xin chào người hùng cứu mạng!\n
+4406|[{fd22}Bravo Bốn-Ba đây.\nTòa nhà đã sạch địch.{fd23}]
+4407|Rõ. Chuẩn bị\nphá hủy Babel.{fe74}
+4408|Aya, tôi tìm thấy hắn rồi!\n{fe40}
+4409|Có mấy người lính dũng cảm\nđang ở đài quan sát.{fe7f}
+4410|Sắp tới rồi, Eve.\n
+4411|15/02/2014 05:30\nOverdive thời gian thực{fe46}
+4412|Phá các khối cầu\nrồi đi tiếp.
+4413|Đừng để bọn họ\ndùng vũ khí hạt nhân!
+4414|Đến lúc rồi.\n{fe3a}
+4415|Họ là những người cuối cùng\ncòn lại trong tòa tháp.{fe6a}
+4416|Họ quyết ở lại,\nđánh cược cả tính mạng.\nTương lai tùy thuộc\nvào tất cả các anh.
+4417|Ta có thể dùng\npháo vệ tinh.
+4418|T-Tên lửa hạt nhân\nđã được kích hoạt.{fe6d}
+4419|Nếu tình huống xấu nhất\nxảy ra,{fe37}
+4420|Điều làm t-tôi tò mò\nhơn cả Twisted{fe81}
+4421|Twisted ăn mòn cả\nkhông gian và thời gian.{fe68}
+4422|Tên lửa hạt nhân\nsắp phóng rồi.
+4423|Dù tôi cố ngăn cô\ncũng chẳng ích gì.{fe7e}
+4424|Không tin nổi ta lại\nném bom chính đất nước mình...
+4425|Vậy Nhật không còn là\nnạn nhân hạt nhân duy nhất.
+4426|Hiroshima dùng uranium.\nNagasaki dùng plutonium...
+4427|Vậy ta sẽ sống sót chứ?\n
+4428|Khó lắm. Bom neutron\nphá tan DNA tế bào.
+4429|Biết thế tôi im miệng\nngay từ đầu.
+4430|Chất phóng xạ của nó\ncó chu kỳ bán rã khá ngắn.
+4431|Chuyện quái quỷ gì thế...\n{fe3c}
+4432|Tôi chỉ không muốn\nlàm cô đau.\n
+4433|Đau lắm... tận trong tâm hồn.\n
+4434|Kết thúc chuyện này đi.\n
+4435|Tôi chỉ mong cô được sống.\n
+4436|M-Mình đang ở đâu?\n
+4437|Aya? Là cô sao?\n
+4438|[{fd22}Đã xác nhận mục tiêu.{fd23}]\n
+4439|[{fd22}Đã tới vị trí mục tiêu.{fd23}]\n
+4440|[{fd22}Sẵn sàng giao chiến.{fd23}]\n
+4441|Aya! Đếm ngược\nbắt đầu rồi!
+4442|K-Không còn thời gian!
+4443|Sắp hết giờ rồi!{fe49}
+4444|Những binh sĩ còn sống\ntrong Grand Babel đã lập\n{fe78}
+4445|Giờ chẳng còn ai\nchỉ huy các đơn vị nữa.{fe69}
+4446|Đây là dấu vết\ncủa Hyde Bohr.\n{fe66}
+4447|Bên trong Babel có\nmột khu vực mà năng lượng{fe6a}
+4448|Nếu cô gặp Twisted\nđang quay về quá khứ,{fe64}
+4449|Đã đến điểm Crossfire.\nMọi người ở đây ổn chứ?
+4450|Đội Gamma phía trước\nthế nào rồi?
+4451|Họ gặp rắc rối\nvới loại Twisted mới.
+4452|Cơ hội sống sót trở về\ncủa ta là bao nhiêu?
+4453|Dù sao cũng không phải 0.\n
+4454|Cứ tập trung vào nhiệm vụ\nthì sẽ ổn cả thôi.
+4455|Anh nói dễ quá{1a5}\nanh còn độc thân. Con gái\ntôi mới ba tháng tuổi!
+4456|Phụ nữ mạnh mẽ lắm.\nVợ anh sẽ một mình\nnuôi con bé thật tốt.
+4457|Có lẽ vậy.\n
+4458|Đứng đầu chuỗi thức ăn\nthì chẳng có thiên địch.
+4459|Nhưng vợ tôi... cứ nghĩ\ntới chuyện đó là cô ấy cô đơn.
+4460|Viện binh bị phân tán\nkhắp nơi rồi.
+4461|Không tập trung lực lượng,\nchúng sẽ hạ từng người.
+4462|Tôi chẳng muốn nói,\nnhưng e rằng đây là...
+4463|Twisted sẽ tụ tập ở đây\nđể tiến vào{fe64}
+4464|Hyde Bohr còn đang\ngiấu một quân bài khác.{fe75}
+4465|Có lẽ hắn đang quay về\nvài năm trước.
+4466|Bức tường xanh này{1a5}\n{fe3c}
+4467|Aya, đây là Mudflap.\nChúng khá khó nhằn đấy.{feaa}
+4468|Có hiệu quả không?\nTên khốn này khó chơi đấy.\nĐừng đối đầu trực diện.
+4469|Hắn hạ vô số Twisted\nnhẹ như không.{fe6e}
+4470|Hẳn hắn đã chiến đấu\nvới Twisted xuyên thời gian{fe46}
+4471|Có vẻ không thể tránh\nmột trận chiến với mọi{fe5a}
+4472|Hoặc hắn đang cố\nnhử cô ra.
+4473|Đội Beta thế nào rồi?\n
+4474|Vẫn đang phân tán.\n
+4475|Điểm tập kết chắc ở gần.\nMong là gặp được họ.
+4476|Này, chụp tôi tấm hình.\nTôi muốn gửi về nhà.
+4477|Con gái anh còn bé xíu\nmà, phải không?
+4478|Thì sao?\n
+4479|Lớn lên mà biết mình\ngiống ông bố đã chết,\ncon bé sẽ ghét anh đấy.
+4480|Có lần tôi còn nhầm\nmột con gorilla là anh đấy.
+4481|Mấy gã các anh có biết\ncảm giác ấy là gì đâu!
+4482|Chuyện quái gì đang xảy ra?\nSao tôi có cảm giác\ntận thế sắp đến vậy?
+4483|Không sao{1a5}con gái tôi\ngiống mẹ nó mà.
+4484|Cứ như chúng ta đang bị\nkéo ngày càng sâu vào...
+4485|Đừng nói mấy câu rợn người\nđó nữa. Tôi đã bất an\nđủ lắm rồi.
+4486|Hắn vừa ở đó, Aya.\nCô sắp đuổi kịp rồi.
+4487|Tình hình không ổn rồi.\n
+4488|Khốn thật{1a5}ngõ cụt!\nĐồng đội còn lại đâu rồi?
+4489|Đến lúc tập hợp rồi!\n
+4490|Cố lên{1a5}điểm tập kết\nở ngay phía trước thôi.
+4491|Không-thời gian đang\nbiến dạng dữ dội hơn.{fe82}
+4492|Viện binh đang đến!\nCầm cự cho tới khi\nhọ tới nơi!
+4493|Họ tới càng sớm\ncàng tốt.
+4494|Thôi tán dóc đi, chiến đấu!\nMuốn sống sót ra khỏi\nđây chứ gì?
+4495|Chuẩn bị đặt C4!\n
+4496|Sẵn sàng!\n
+4497|Ba, hai, một{1a5}phá cửa!\n
+4498|Vào đi! Yểm trợ họ!\n
+4499|Đừng chùn tay!\nSắp tới nơi rồi!
+4500|Viện binh?\nNgười tới cứu ta rồi sao!?
+4501|Xe Humvee của ta kìa!\n
+4502|Các đội khác cũng\nđang tập hợp rồi.
+4503|Đã tới căn cứ!\nAlpha, Beta, nghe rõ không?\nMấy anh còn sống chứ!?
+4504|Viện binh! Đúng lúc quá!\n
+4505|Phá hủy các khối cầu!\n
+4506|Rõ! Bắt đầu\nphá hủy khối cầu...
+4507|Có vẻ ta đến hơi muộn.\nQuái vật gần sạch rồi.
+4508|Tốt lắm! Đường tiến quân\nđã thông. Điểm tập kết\ncuối ở phía trên.
+4509|Điểm tập kết\nngay trước mặt à?
+4510|Không biết còn\nbao nhiêu người sống.
+4511|Còn ai thì ta\nchiến đấu cùng người đó.
+4512|Nghe chuyện của Art chưa?\n
+4513|Nghe nói anh ấy được\ntruy thăng hạng nhì\nvì hy sinh khi làm nhiệm vụ.
+4514|Vậy anh ấy thành\nđại úy rồi sao?
+4515|Art cũng có con gái.\nCòn bé xíu, như con tôi.
+4516|Tôi không biết đấy.\n
+4517|Cấp bậc thì có ích gì.\n
+4518|Tôi ngán cái địa ngục này.\nƯớc gì được về nhà\nvới con gái.
+4519|Từ đây sẽ càng khó hơn.\nĐừng ai\nchết đấy!
+4520|Ta đã đi xa\nthế này rồi!\nĐiểm hẹn ngay trước mặt!
+4521|Đây là cuộc tổng lực chiến\nvới tất cả quân ta có.
+4522|Tôi yểm trợ được!\nTôi biết dùng khẩu pháo!
+4523|A-Aya!\n
+4524|Aya, có vũ khí mới.\n{fe35}
+4525|Aya!\n{fe2c}
+4526|Đây là vũ khí duy nhất có thể{fe36}
+4527|R-Reaper sao!?\n
+4528|Ôi không... Nó làm gì\nở đây chứ?
+4529|Khốn thật! Đây là chỗ\ntập kết! Giết nó trước\nkhi nó quét sạch ta!
+4530|Nó đang bị đau!\n
+4531|Dốc toàn lực đi{1a5}ngay!\n
+4532|Cái quái gì thế?\n
+4533|Thế này không ổn rồi.\n
+4534|Ối!\n
+4535|Đáng đời mày!\n
+4536|Cho mày chừa nhé,\nđồ quái thai!
+4537|Nó sống lại rồi!?\nKhông thể nào!
+4538|Reaper quay lại rồi!\n
+4539|Địch hồi phục rồi!\nTản ra!
+4540|Con gái sếp\nmấy tuổi rồi nhỉ?
+4541|Bốn tuổi. Sao vậy?\n
+4542|Tuổi ấy đáng yêu thật.\nSếp không sợ con bé\nmất bố sao?
+4543|Tất nhiên là sợ. Nhưng\nnếu không diệt Twisted,\ncon bé chẳng còn tương lai.
+4544|Đúng là lời của người lính...\nNhưng nếu sắp chết, tôi\nmuốn ở bên gia đình hơn.
+4545|Cậu mềm lòng rồi đấy.\nCất tình cảm ấy đi,\nđợi ngày ôm gia đình.
+4546|Trong chiến tranh, ai sống\nsót mới là người đúng.\nBiết đâu tổng thống tới là Twisted!
+4547|Sống được tới đây đúng\nlà kỳ tích. Mong có thêm\nmột kỳ tích đưa tôi về nhà.
+4548|Lõi ở phía trước. Đến lúc\nchấm dứt{1a5}cơn ác mộng này.
+4549|Tôi còn sống.\nVậy là may hay xui đây?
+4550|Chỉ người còn đứng vững\nkhi tất cả kết thúc\nmới thật sự may mắn.
+4551|Sắp đến lúc rồi.{fe41}
+4552|Không cần cảm ơn\ntôi.{fe37}
+4553|Giờ và mãi mãi, cô là\nđối tượng chính của tôi về{fe7d}
+4554|Thử Overdive Kill xem...!\n
+4555|Tôi đi trước đây.\nQueen muốn nói chuyện với cô.
+4556|Có lẽ dùng Overdive Kill...!\n
+4557|{fd22}Nó đang rút cạn sức tôi.{fd23}\n{fd22}Năng lực của tôi không giúp{fd23}\n{fd22}được gì ở đây.{fd23}
+4558|(Mình đang ở trong\nnhà ga Grand Central sao?)
+4560|Giờ hai bên\nngang cơ rồi.\n
+4561|Overdive đi.\n
+4562|Sao phải tự chuốc đau đớn?\n
+4563|Cô không có cơ hội đâu.\n
+4564|Ngày ấy vui thật.\n
+4565|Hãy trả giá cho tội lỗi.\n
+4566|Làm tốt lắm, Aya.\n
+4567|Ôi, cô thay đổi nhiều thật.\n
+4568|Chiến thắng nằm trong tay ta.\n
+4569|Phải thế chứ.\n
+4570|Lại gặp nhau rồi.\n
+4571|Dùng bất cứ thứ gì{1a6}\nDive vào bất cứ ai.{fe52}
+4572|Cô có thể Dive vào tôi.\n{fe43}
+4573|Tôi muốn cô Dive vào tôi.\nNước mắt và nỗi buồn{1a5}\nphải chấm dứt thôi.
+4574|Giờ thì đi đi!\n
+4575|Hãy chiến đấu vì chính cô,\nkhông vì ai khác.
+4576|Tôi yêu cô.\n
+4577|Sao phải trì hoãn\nđiều không thể tránh?
+4578|Hãy để người chết\nđược yên nghỉ.
+4579|Hãy vượt qua Zero.\n
+4580|Chúng tôi dẫn đường, Aya.\nGiờ thì Dive đi.
+4581|Cứ Overdive rồi tấn công,\nbao nhiêu lần cũng được!
+4582|Hyde chạy mất thì\nDive đuổi theo hắn.
+4583|Chúng tôi tìm Hyde.\nCô chỉ việc Dive thôi.
+4584|Hãy vượt qua Zero.\n
+4585|Không thể ngăn tiến hóa.\n
+4586|Sang bên kia vòng tuần hoàn.\n
+4587|Thời gian phán xét tất cả.\n
+4588|Di chuyển: Cần analog {194}\nLộn tới: {fd31}\nCamera: Các nút hướng{fe5a}
+4589|Nhấn {193} trong menu START\nđể mở Nhật ký nhiệm vụ,\nxem nút điều khiển ở Cài đặt.{fe5a}
+4590|Bản đồ chỉ hướng nằm\nở góc trên bên phải.{fe28}
+4591|Bình thường bản đồ màu xanh,\nkhi có Twisted gần sẽ chuyển cam.\nMũi tên chỉ vị trí hiện tại.{fe5a}
+4592|Khóa mục tiêu: {fd34}\nBắn: {fd30}\nNạp đạn: Nhấn {fd32}{fe78}
+4593|Đổi mục tiêu: {fd34} + {198}{199}\nKhóa địch gần nhất: {fd34} + {197}{fe78}
+4594|Nhấn {fd34} + {fd3d} để ném lựu đạn\nvề phía mục tiêu.{fe78}
+4595|Đổi súng: {fd46} + {fd47} hoặc {fd48} hoặc\n{fd49} hoặc {fd4a}{fe78}
+4596|Overdive: Giữ {fd3e}, dùng nút hướng\nchọn mục tiêu rồi thả {fd3e}\nHủy Overdive: {197} khi chọn{fe78}
+4597|Khi Overdive, bạn có thể dùng\nvũ khí của người mình nhập vào:\nOverdive, rồi {fd46} + {fd48}{fe8c}
+4598|Đến gần công sự, nhân vật sẽ\ntự động chuyển sang\nthế phòng thủ.{fe5a}
+4599|Công sự sẽ bị phá hủy\nsau vài đợt địch tấn công.{fe3c}
+4600|Khi núp sau công sự:\nBắn: {fd34} + {fd30} lúc đang núp\nNém lựu đạn: {fd3d} lúc núp{fe8c}
+4601|Khi bạn khóa cùng mục tiêu\nvới lính đang nấp,\nmột thanh đo sẽ hiện ra.{fe3c}
+4602|Crossfire: Nhấn {fd30} khi thanh đầy{fe64}
+4603|Khi Twisted lộ điểm yếu,\nbiểu tượng {191} sẽ xuất hiện.\nCrossfire giúp lộ điểm yếu nhanh hơn.{fe6e}
+4604|Overdive Kill: Khóa địch\nđang hiện {191}, rồi nhấn {fd42}{fe78}
+4605|Sát thương Overdive Kill\ntăng theo cấp độ của Aya.{fe3c}
+4606|Liberation:\nKhi thanh Liberation đầy,\nnhấn {fd3f} + {fd40}{fe8c}
+4607|Energy Shot: Nhấn {fd30} khi đang Liberation{fe8c}
+4608|Overdive Kill: Khóa địch\nđang hiện {191}, rồi nhấn {fd42}{fe8c}
+4609|Tiêu diệt Twisted khổng lồ\nrồi sang khu tiếp theo.{fe1e}\n
+4610|Diệt hết địch rồi\nsang khu tiếp theo.{fe1e}\n
+4611|Phá các khối cầu rồi\nsang khu tiếp theo.{fe1e}\n
+4612|Dùng Overdive diệt sạch địch\ntrong khu vực,\nkể cả các khối cầu.{fe1e}\n
+4613|Tìm và phá\ncác khối cầu còn lại.{fe1e}\n
+4614|Quay về điểm tập kết.{fe1e}\n
+4615|Thoát khỏi Reaper!{fe1e}\n
+4616|Mau đi hết lối này.{fe1e}\n
+4617|Phá khối cầu dưới chân\ncầu thang rồi sang\nkhu tiếp theo.{fe1e}\n
+4618|Tránh Reaper truy lùng,\nphá khối cầu rồi\nsang khu tiếp theo.{fe1e}\n
+4619|Hạ Twisted khổng lồ\nrồi sang khu tiếp theo.{fe1e}\n
+4620|Đến khu tiếp theo\nvà hội quân cùng SWAT.{fe1e}\n
+4621|Dọn sạch địch trong khu vực,\nrồi phá khối cầu.{fe1e}\n
+4622|Cầm cự đến khi\ntrực thăng tiếp viện tới!{fe1e}\n
+4623|Trang bị súng tỉa: {fd46} + {fd48}{fe1e}\n
+4624|Chế độ ngắm: {fd34}\nkhi đã trang bị súng tỉa{fe1e}\n
+4625|Đổi độ phóng đại: {fd34} + {fd43}\ntrong chế độ ngắm{fe1e}\n
+4626|Dùng súng tỉa bắn hạ\nStinker đang bay!{fe1e}\n
+4627|Phá hết khối cầu rồi\nđến khu tập kết.{fe1e}\n
+4628|Phá hết khối cầu rồi\nOverdive vào Babel.{fe1e}\n
+4629|Tiêu diệt kẻ địch!{fe1e}\n
+4630|Bạn chỉ được dùng Overdive,\nkhông thể dùng năng lực khác.\n
+4631|Xua tan sương độc\nvà mở lối đi.{fe1e}\n
+4632|Diệt địch rồi tiến lên.\n{fe1e}\n
+4633|Diệt địch rồi vào tòa nhà.\n{fe1e}\n
+4634|Dùng súng tỉa, bật chế độ ngắm\nđể tìm điểm yếu của địch.{fe1e}\n
+4635|Bắn trúng điểm yếu\nđể gây sát thương cực lớn.{fe1e}\n
+4636|Bắn hạ Stinker đang bay!\n{fe1e}\n
+4637|Diệt đám Bean\nđể mở lối đi.{fe1e}\n
+4638|Phá khối cầu, đừng để\nđịch sinh sôi thêm!{fe1e}\n
+4640|Phá khối cầu rồi\nsang khu tiếp theo.{fe1e}\n
+4641|Đi theo đường đến đích.{fe1e}\n
+4642|Tránh bị Detector phát hiện\ntrên đường đến đích.\n{fe1e}\n
+4643|Tiêu diệt Snatcher!{fe1e}\n
+4644|Đi theo đường đến đích.{fe1e}\n
+4645|Phá chướng ngại vật\nđể mở lối đi.{fe1e}\n
+4646|Thoát khỏi Reaper!{fe1e}\n
+4647|Tiến đến đích.{fe1e}\n
+4648|Tránh chạm bẫy hồng ngoại\ntrên đường đến đích.\n{fe1e}\n
+4649|Phá khối cầu rồi\nsang khu tiếp theo.{fe1e}\n
+4650|Đi theo đường đến đích.{fe1e}\n
+4651|Diệt địch rồi tiến lên.\n{fe1e}\n
+4652|Diệt Snatcher rồi thoát ra.\n{fe1e}\n
+4653|Tiến đến đích.{fe1e}\n
+4654|Diệt địch, chiếm lại\nnóc toa tàu.{fe1e}\n
+4655|Tiêu diệt Snatcher!{fe1e}\n
+4656|Tiến đến đích.{fe1e}\n
+4657|Quét sạch toàn bộ địch!{fe1e}\n
+4658|Hạ Spawn khổng lồ\nđể mở đường vào Babel.{fe1e}\n
+4659|Đặt C4: Đến gần vị trí đặt,\ngiữ {fd31} để gắn thuốc nổ.\n{fe78}\n
+4660|Quét sạch toàn bộ địch!{fe1e}\n
+4661|Đặt C4 lên cột trụ giữa.\n{fe1e}\n
+4662|Quét sạch Spawn!{fe1e}\n
+4663|Hội quân với đội Juneau Seven.\n{fe1e}\n
+4664|Diệt Roller rồi đặt C4.\n{fe1e}\n
+4665|Đặt C4 và tiêu diệt Twisted!\n{fe1e}\n
+4666|Overdive vào tay bắn tỉa,\nyểm trợ đặt C4\nvà diệt Twisted!{fe1e}\n
+4667|Sống sót đến khi\nviện binh tới!{fe1e}\n
+4668|Diệt Twisted, bảo vệ\nụ súng khỏi bị phá hủy!{fe1e}\n
+4669|Đặt C4 và tiêu diệt Twisted!\n{fe1e}\n
+4670|Phá chân đế Babel,\nyểm trợ quân tiếp viện\nrút lui.{fe1e}\n
+4671|Tiêu diệt Spawn nhỏ!{fe1e}\n
+4673|Hỗ trợ quân ta diệt địch,\nrồi tiến đến lõi Babel.\n{fe1e}\n
+4674|Diệt địch phía trước và bên trái,\ntiến đến chỗ quân phòng thủ.\n{fe1e}\n
+4675|Overdive vào lính tiếp viện\nđể mở đường tới lõi.\n{fe1e}\n
+4676|Phá bức tường xanh\nđể mở đường tới lõi.{fe1e}\n
+4677|Giữ vững trận địa!{fe1e}\n
+4678|Phá các khối cầu phía trên.{fe1e}\n
+4679|Tiêu diệt Reaper!{fe1e}\n
+4680|Đêm nay là Giáng sinh, tuyết sẽ\nrơi đến tận sáng mai.\n
+4681|Bầu trời mang đến cho New York\nmột Giáng sinh trắng xóa.\n
+4682|Mùa lễ hội khiến phố phường đổi khác:\ndân công sở bỏ vest, khoác lên\nnhững bộ đồ rực rỡ.\n
+4683|Mẹ ơi...\n
+4684|Sao thế con yêu?\nCon muốn về nhà à?\n
+4685|Không ạ.\n
+4686|Đợt không khí lạnh mới nhất\nvừa lướt qua Manhattan,\n
+4687|nên tất cả sẽ được đón Giáng sinh\nêm đềm giữa ánh đèn\nvà những món đồ trang trí.
+4688|[{fd22}Phố 52 xảy ra hỏa hoạn.\nĐang đưa người bị nạn đi.{fd23}]\n
+4689|[{fd22}Đã rõ. Vị trí của anh?{fd23}]\n
+4690|Cái quái{1a5}!?\n
+4691|Đừng nói mất điện chứ!\n
+4692|Không thể nào!\n
+4693|Nó đang đổ xuống!\n
+4694|Chạy mau!\n
+4695|Lạy Chúa!\n
+4696|[{fd22}Đội cứu hộ Ba đang xuất phát.{fd23}]\n
+4697|Cảnh sát đang cố nhận dạng\nnhững sinh vật đang gieo rắc\nkinh hoàng khắp Manhattan.\n
+4698|Dù chưa có bằng chứng cụ thể,\nnhà chức trách lo ngại đây là\nmột vụ khủng bố.\nThị trưởng sẽ họp báo\ntrong vòng một giờ.\n
+4699|Nhìn kìa!\n
+4700|Trông như vô số rễ cây\nđang trồi lên từ mặt đất.\n
+4701|Đây là tình hình ở Manhattan.\n
+4702|Các đội cứu hộ đang chật vật\ntìm kiếm người sống sót,\n
+4703|trong khi đường sá bị xé toạc,\nnhà cửa liên tiếp đổ sập.\n
+4704|Người dân đang sơ tán,\nnhưng cả New York chìm trong\nhỗn loạn vì chưa ai biết\n
+4705|đây là khủng bố hay\nmột thảm họa thiên nhiên.\n
+4706|Nhìn kìa!\n
+4707|Cái gì vậy!?
+4708|Biển kìa!\n
+4710|[{fd22}Viện Địa chấn vừa báo tin.\nHọ xác nhận đây hoàn toàn\nkhông phải động đất.{fd23}]\n
+4711|[{fd22}Rõ. Từ giờ ta sẽ gọi\nthứ đó là “Babel”.{fd23}]\n
+4712|Cái gì vậy? Cái gì thế!?\nThứ quái gì vậy!?\n
+4714|24/12/2013  17:55\nHiện tại\nTrụ sở CTI, Phòng Overdive\n
+4715|Cứu tôi với!\nAi đó cứu tôi!\n
+4716|Aya Brea\nĐặc vụ CTI\n
+4717|Nhìn kỹ đi. Hiểu rõ kẻ địch\nsẽ giúp công việc của cô dễ hơn.\n
+4718|Hyde Bohr\nTrưởng đơn vị Điều tra Overdive, CTI\n
+4719|Tôi nói dễ hơn, không phải dễ.\n
+4720|Thưa sếp, nhiệm vụ của tôi?\n
+4721|Hội quân với Vệ binh Quốc gia\nvà hỗ trợ phá hủy Big Orb.\n
+4722|Rõ, thưa sếp.\n
+4723|Giờ tôi hiểu một ông bố\nsẽ cảm thấy thế nào lúc này.\n
+4724|Chưa binh sĩ nào thấy lõi Babel\nmà còn sống để kể lại.\n
+4725|Thelonious Cray\nĐặc vụ CTI\nCựu lính Delta Force
+4726|Cô biết những điều cơ bản rồi.\nGiờ xem cô làm được đến đâu.\n
+4727|Tôi không biết anh có con gái đấy.\n
+4728|Ai bảo là tôi có?\n
+4729|Rồi, rồi, tôi hiểu.\nQuay lại làm việc thôi.\n
+4730|Viết lại mã thì tôi làm được,\nnhưng chỉ cô mới có thể\nviết lại quá khứ.\n
+4731|Hãy làm vì tất cả chúng ta!\nSao nào, Aya, cô đồng ý chứ?\n
+4732|Tiến sĩ Blank\nNhà khoa học CTI\nTrưởng bộ phận Công nghệ
+4733|Đừng gây thêm áp lực cho cô ấy.\nHiểu chưa?\n
+4734|Khi Overdive, nếu linh hồn chết,\ncô sẽ không về được cơ thể,\n
+4735|nghĩa là, về lý thuyết, cô cũng chết.\n
+4736|Cô phải luôn cảnh giác.\nĐừng lơ là giây nào.\n
+4737|Ta đang cử một lính mới à?\n
+4738|Nghe yên tâm ghê.\n
+4739|Mọi thứ ta biết đang bị đe dọa!\n
+4740|Ngân sách nghiên cứu ngày càng lớn,\nsự an toàn của cả hành tinh{1a5}\ntất cả, không chừa thứ gì.\n
+4741|Tôi làm được.\n
+4742|Chỉ số sinh tồn thế nào?\n
+4743|Ổn cả.\nBắt đầu dựng bản đồ hình ảnh.\n
+4744|Xác nhận tình trạng\nhoạt động của hệ thống.\n
+4745|Màn hình giám sát ổn định.\nKhởi động ngay đi.\n
+4746|Mọi chỉ số đều tốt!\n
+4747|[{fd22}Mày đã làm gì Billy hả!?{fd23}\n{fd22}Ăn đạn đi, thằng khốn!{fd23}]\n
+4748|[{fd22}Tập trung ngắm rồi bắn!{fd23}\n{fd22}Đừng phí đạn nữa!{fd23}]\n
+4749|[{fd22}Chúng đông quá! Khốn thật!{fd23}\n{fd22}Lũ quái vật chết tiệt!{fd23}]\n
+4750|Cái gì vậy? Cái gì thế!?\nThứ quái gì vậy!?\n
+4752|{fd22}Không chỉ mình cô{fd23}\n
+4753|{fd22}mới sợ đâu.{fd23}\n
+4754|[{fd22}Đủ rồi.\nBlank, bắt đầu Ascent.{fd23}]\n
+4755|[{fd22}Rõ!\nDữ liệu vừa thu được tuyệt thật!{fd23}]\n
+4756|[{fd22}Làm tốt lắm, Aya.{fd23}]\n
+4757|Tôi là ai? Tôi không...\n
+4759|Lại... giấc mơ đó.\n
+4760|Tôi đến tìm Aya Brea.\n
+4761|Rõ, thưa sếp. Nhưng hãy cẩn thận.\n
+4763|Rốt cuộc anh là ai?\nTôi chỉ...\n
+4764|Cô lại mơ thấy giấc mơ đó,\nđúng không?\n
+4765|Có nhiệm vụ khác à?\n
+4766|Sếp biến mất rồi.\n
+4767|Cả chi nhánh FBI cũng vậy.\nHọ đều biến mất.\n
+4768|Anh chắc chứ?\n
+4769|Cô không cần bị theo dõi nữa.\nChúng tôi sẽ chuyển cô\ntừ phòng giam sang phòng ở.\n
+4770|Lối này.\n
+4771|Không cần đâu.\n
+4772|Tôi chỉ muốn lo cho cô.\n
+4773|Cô nên dựa vào tôi nhiều hơn.\nCô nghĩ mình có thể\nlàm vậy được không?\n
+4774|Tôi không muốn.\n
+4775|Đừng tự làm khổ mình nữa.\n
+4776|Có lẽ cô chưa nhận ra, nhưng\nđâu cần có quá khứ\nmới có thể có tương lai.\n
+4778|[{fd22}Mục tiêu là phá hủy{fd23}\n{fd22}lõi Babel{1a5}Big Orb.{fd23}]\n
+4779|[{fd22}Sao vậy?{fd23}]\n
+4780|[{fd22}Nó bắt đầu rồi!{fd23}]\n
+4781|[{fd22}Aya!{fd23}]\n
+4782|[{fd22}Babel kìa!{fd23}]\n
+4783|Nhanh lên! Chạy mau!\n
+4784|Mình... còn sống sao?\n
+4785|[{fd22}Aya, chạy đi!{fd23}]\n
+4787|Ai đó?\n
+4788|[{fd22}Có chuyện gì vậy?{fd23}]\n
+4789|Có người sống sót.\n
+4790|Y hệt giấc mơ của mình.\n
+4791|[{fd22}Phát hiện chấn động rất mạnh!{fd23}]\n
+4792|[{fd22}Babel đang biến đổi sao?{fd23}]\n
+4793|Khoan đã.\n
+4795|{fd22}Cô ấy bị thương.{fd23}\n
+4796|Xin lỗi. Tất cả là lỗi của tôi.\n
+4798|Aya, cô tốt bụng thật đấy.\n
+4799|Giữ gìn nhé.\n
+4800|Gabrielle!?\n
+4801|[{fd22}Aya, nghe rõ không?{fd23}\n{fd22}Tiếp cận thật cẩn thận.{fd23}]\n
+4803|Rõ, thưa sếp.\n
+4804|[{fd22}Sự sống vẫn tồn tại sau cái chết.{fd23}]\n
+4805|Làm ơn đừng cử động.\n
+4806|Cô không phải cô ấy.\n
+4807|Tìm ra rồi.\nTên cô bé là Emily Jefferson.\n
+4808|Tôi đến để nói với cô\nvề giấc mơ của cô.\n
+4809|Tôi chắc cô biết mà.\n
+4810|Tội nghiệp cô bé...\n
+4811|Cô phải nhớ lại.\n
+4812|Nhớ nơi mọi chuyện bắt đầu, chị ơi{1a5}\n
+4813|Thời Khắc Số Không.\nCố nhớ đi.\n
+4814|[{fd22}Cô làm gì thế? Bắn cô ta đi!{fd23}]\n
+4815|Cô đã làm gì...?\n
+4816|{fd22}Một cô gái giống hệt mình...{fd23}\n
+4817|{fd22}Thế giới đang thay đổi...\n
+4818|Một giấc mơ sao?\n
+4819|Đêm Giáng sinh?\n
+4820|Vậy là mình đã bị\nđưa ngược về quá khứ?\n
+4821|Aya.\n
+4822|Hãy đến Spanish Harlem,\nba ngày trước.\n
+4823|Cray chết rồi. Tôi muốn cứu anh ấy.\n
+4824|Cray chết rồi sao? Chuyện gì vậy?\n
+4825|Cục sẽ không phê duyệt\nnhiệm vụ như thế đâu.\n
+4826|Con quái vật đó cực kỳ nguy hiểm.\nAi biết nó có thể làm gì?\n
+4827|Hunter “Boss” Owen\nNgười đứng đầu CTI\n
+4828|Trông cô cứ như vừa gặp ma.\n
+4829|Sếp, đừng làm thế!\n
+4830|Thu thập dữ liệu quan trọng lắm hả?\nTôi không có thời gian đâu.\n
+4831|Xin sếp, đây là thời điểm then chốt.\nTa không thể mất Cray lúc này.\n
+4832|Ta sang nơi khác nói chuyện.\nVới lại, cô ấy đâu cần nghe\nnhững gì ta sắp nói.\n
+4833|Bởi vì{1a5}\n
+4834|Cô ta cứ như một trong số chúng.\n
+4836|Để chặn các cuộc tấn công của Babel,\nta phải phá hủy chúng.\n
+4837|Big Orb có vẻ đang suy yếu,\nnhưng ta chưa đủ dữ liệu\nđể chứng minh.\n
+4838|...xâm nhập Babel sau khi\nphân tích xong dữ liệu.\nRồi phá hủy Big Orb.\n
+4839|Chỉ thế thôi. Rõ chưa?\n
+4840|Rõ, thưa sếp.\n
+4841|Mục tiêu là cứu Cray\nvà phá hủy Big Orb.\n
+4842|Tôi tưởng chỉ có một mục tiêu.\nGiá mà tôi hiểu tổ chức này\ngiỏi như hiểu mã máy.\n
+4843|Khi nào lên làm sếp\nhãy phàn nàn.\n
+4844|Cô làm được chứ?\n
+4845|Không vấn đề gì, thưa sếp.\n
+4846|Sếp muốn nơi này tan rã\nđể quay về công việc “thật”.\n
+4847|Ông ấy không thực sự tin\nquá khứ có thể thay đổi.\n
+4848|Vậy chứng minh cho ông ấy xem.\n
+4849|Hay đúng hơn, để Aya chứng minh.\n
+4850|Ai sẽ thay Cray?\n
+4851|Gabrielle.\n
+4852|Gabrielle Monsigny\nĐặc vụ CTI\nCựu xạ thủ SWAT\n
+4853|Khi quay về quá khứ,\ncô cứ dùng tôi. Hãy cứu Cray.\n
+4854|Aya, tôi biết cô thích ngắm tôi,\nnhưng tôi có người yêu rồi nhé.\n
+4856|Điểm tập của hai người:\nGabby 29, Aya 1, đúng không?\n
+4857|Ừ. Cô ấy thắng tôi một lần.\n
+4858|Tôi biết cô làm được, Aya.\n
+4859|Ai cũng sợ đôi mắt\nnhìn thấu tâm can ấy.\n
+4860|Nhưng tôi biết chủ nhân\ncủa đôi mắt ấy là{1a5}\n
+4861|một cô bé lạc lõng\nbị bỏ lại phía sau.\n
+4862|Thế nên tôi đã quyết định{1a5}\n
+4863|Tôi quyết định...\n
+4864|bảo vệ Aya.\n
+4865|Dù phải trả giá thế nào.\n
+4866|Gabrielle, tôi cần cô.\n
+4867|[{fd22}Nhẹ tay thôi nhé!{fd23}]\n
+4868|[{fd22}Tôi không muốn bị thương\nhay để lại sẹo đâu!{fd23}]\n
+4870|[{fd22}Aya, nghe rõ không?{fd23}]\n
+4871|[{fd22}Chúc may mắn.{fd23}]\n
+4872|Chỉ huy, nghe rõ không?\n
+4873|Nghe nói anh đã thuyết phục sếp\ncho chúng ta thử cứu Cray.\n
+4874|[{fd22}Tất nhiên. Cậu ấy là người nhà mà.{fd23}]\n
+4875|Anh đã làm gì{1a5}?\n
+4876|Aya, anh ấy nói gì thế?\nTôi không nghe thấy.\n
+4877|“Gia đình của Cray.”\nHình như anh ấy nói vậy.\n
+4878|Hả? Tôi cứ tưởng\nanh ấy độc thân cả đời.\n
+4879|[{fd22}Gabrielle, tôi nghe được rồi!{fd23}]\n
+4880|[{fd22}Chúng ta liên lạc lại được rồi!{fd23}]\n
+4881|[{fd22}Aya! Nơi đó là đâu?{fd23}]\n
+4882|[{fd22}Đó là lõi sao?{fd23}]\n
+4883|[{fd22}A-Aya! Twisted kìa!{fd23}]\n
+4885|[{fd22}Đòn tấn công giáng xuống!?{fd23}\n{fd22}Không ai chịu nổi đâu!{fd23}]\n
+4886|[{fd22}Ra là vậy...{fd23}\n{fd22}Big Orb chính là Queen!{fd23}]\n
+4888|[{fd22}Chưa đâu{1a5}{fd23}]\n
+4889|[{fd22}Tôi muốn ở lại.{fd23}]\n
+4890|[{fd22}Babel kìa!{fd23}]\n
+4891|[{fd22}Nó đang chìm xuống!{fd23}]\n
+4892|Này, đó chẳng phải{1a5}?
+4893|Babel đang...
+4894|Chúng ta thành công rồi sao?\n
+4895|Cray.\n
+4896|Hả?\n
+4897|À phải. Cô là Aya.\n
+4898|Xin lỗi. Tôi hết sức rồi.\n
+4899|Để tôi kể cô nghe\nmột điều từng được dạy.\n
+4900|Dù rời chiến trường kiểu nào,\ncòn sống vẫn hơn là chết.\n
+4901|Ai cũng có người đang\nchờ mình trở về.\n
+4902|Tôi sẽ đợi cô, Aya.\nNgay tại đây.\n
+4903|Cray bị thương nhưng vẫn sống.\nNhiệm vụ đã kết thúc.\n
+4904|Thưa sếp, xin trả lời.\n
+4905|[{fd22}Owen đây. Tôi có tin xấu.{fd23}]\n
+4906|[{fd22}Mất tín hiệu Monsigny rồi.{fd23}]\n
+4907|Chúng ta mất cô ấy ở đâu?\n
+4908|[{fd22}Tôi sẽ chỉ cho cô.{fd23}]\n
+4909|Gabrielle không có ở đây.\nTọa độ này chính xác chứ?\n
+4910|[{fd22}Chính là chỗ này.{fd23}]\n
+4911|Tôi đã chờ giây phút này từ lâu.\n
+4912|Vĩnh biệt, Aya Brea.\n
+4913|Anh... lừa tôi sao?\n
+4914|Aya{1a5}\n
+4915|Giọng nói đó...\n
+4916|Gabrielle?\n
+4917|Gabrielle, cố lên!\nCô phải nhanh lên!\n
+4918|Không, muộn quá rồi.\n
+4919|Cô biết đấy{1a5}\n
+4920|Cô tốt bụng thật đấy. Biết không?\n
+4921|Và cảm ơn cô.\n
+4922|Cô vẫn còn sống.\n
+4923|Tiếc thật, một người như cô.\n
+4924|Nhưng cô không còn tồn tại nữa.\n
+4925|Tôi chẳng cứu được ai sao?\n
+4926|Đừng bỏ cuộc.\n
+4927|Ai đó?\n
+4928|Anh là ai?\n
+4929|Cô không đơn độc đâu.\n
+4930|{fd22}Giấc mơ{1a5} ký ức của tôi.{fd23}\n
+4932|{fd22}Tìm thấy rồi.{fd23}\n
+4933|{fd22}Ký ức về gia đình tôi{1a5}{fd23}\n
+4934|{fd22}về Eve,{fd23}\n
+4935|{fd22}em gái bé bỏng của tôi.{fd23}\n
+4936|Thả cô ấy ra ngay!\n
+4937|Aya?\n
+4938|Cô không biết tôi là ai sao?\n
+4939|Này, cất thứ đó đi\nđược không?\n
+4940|Anh phải thả cô ấy ra.\n
+4941|Tôi cũng muốn lắm, nhưng không thể.\nƯớc gì tôi làm được.\n
+4942|Tôi thật sự không thể.\n
+4943|Eve, lại đây!\n
+4944|Cô định dùng thứ đó sao?\n
+4945|Đứng yên đó!\nChuyện vừa rồi là sao?\n
+4946|Eve đâu?\nCon bé đi đâu rồi?\n
+4947|Em gái cô, Eve, đã chết.\n
+4948|Linh hồn cô ấy lang thang\ntrong những khe hở thời gian.\n
+4949|Con bé... chết rồi sao?\n
+4950|Ý cô là cô quên rồi sao?\n
+4951|Ascent! Thế giới\nđang bắt đầu thay đổi!\n
+4952|Tôi hứa cô sẽ gặp lại em ấy.\n
+4953|Tôi sẽ gặp cô ở Babel trong sương đỏ.\n
+4954|Anh là ai?\n
+4955|Kyle Madigan.\n
+4956|{fd22}Vậy... tôi lại ở đây rồi.{fd23}\n
+4957|Sếp biến mất rồi.\n
+4958|Cả chi nhánh FBI nữa.\nHọ cũng biến mất.
+4959|Cô không cần bị giám sát nữa.\nChúng tôi sẽ chuyển cô\nkhỏi phòng giam sang phòng riêng.\n
+4960|Lối này.\n
+4961|Không cần đâu.\n
+4962|Nhưng thay vào đó{1a5}\n
+4963|Tôi hứa cô sẽ gặp lại em ấy.\nTôi sẽ đợi cô ở Babel trong sương đỏ.\n
+4964|Tôi muốn anh kiểm tra lý lịch\nvài người.\n
+4965|Người đầu tiên là Kyle Madigan.\n
+4966|Người thứ hai,\n
+4967|Eve Brea.\n
+4968|Brea? Người nhà cô à?\n
+4969|Em gái tôi.\n
+4970|Cuối cùng cô cũng nhớ\nnhà mình ở đâu rồi.\n
+4972|Đùa cái quái gì thế!\n
+4973|Cả đơn vị bị quét sạch\nmà ông vẫn cử cô ấy đi sao!?\n
+4974|Im lặng một lần đi.\nĐây là cơ hội cứu đồng đội anh.\n
+4975|Ai cũng biết số phận\nngười lính khó mà định đoạt.\n
+4976|Họ sẽ sống nếu\ncó quyết tâm sống.\n
+4977|Biết đâu cô ấy\nthay đổi được điều đó.\n
+4978|Rồi xem.\n
+4980|Chính sự cố này đã khiến\ncác Babel xung quanh\nphát triển dữ dội.\n
+4981|Nếu tính toán của tôi đúng,\nthì lõi của nó, Mother{1a5}\n
+4982|hay thứ họ gọi là Queen{1a5}\nđã thật sự thức tỉnh, thưa sếp.\n
+4983|E rằng tình hình không ổn.\n
+4984|Ừ.\n
+4985|“Không ổn” là sao!?\nĐây rõ ràng là nhiệm vụ tự sát!\nSao ông không hiểu chứ?\n
+4986|Thà giết cô ấy luôn cho rồi!\nKhốn kiếp!\n
+4987|Babel này mạnh hơn mọi Babel khác.\nChỉ cần sơ sẩy một lần\nlà tất cả kết thúc.\n
+4988|Tôi biết mình làm được.\n
+4989|Đại úy Russo, tôi đã tới\nđiểm hẹn.\n
+4990|Eve!\n
+4991|[{fd22}Ma sao?{fd23}]\n
+4992|[{fd22}Không thể nào!{fd23}]\n
+4993|T-Tôi không hiểu!\nKhông thể có chuyện này!\n
+4994|Tôi biết mà!\nDữ liệu của cô bé đâu có thiếu.\n
+4995|Aya đang...\n
+4996|nhìn thấy “khả năng”\nEve tồn tại!\n
+4997|Cô ấy thấy được “khả năng” đó?\n
+4998|Eve, đi thôi.\n
+4999|Tôi không biết nữa.\n
+5000|[{fd22}Aya, sau lưng cô!{fd23}]\n
+5001|Cuối cùng cô cũng đến.\n
+5002|Tôi là... Đại úy Russo.\n
+5003|Cray!\n
+5004|Cray là Russo sao?\nChuyện gì đang xảy ra vậy?\n
+5005|Báo động! Phải bắt Cray!\n
+5006|Là Isabella.\n
+5007|Isabella?\n
+5008|Con gái tôi.\n
+5009|Đứa con gái duy nhất của tôi.\n
+5010|Tôi đã làm chuyện đó.\n
+5011|Tôi đã giết tất cả.\n
+5012|Cả Russo nữa.\n
+5013|Tôi sẽ bảo vệ con bé.\n
+5014|Dù cả thế giới\nchống lại tôi.\n
+5015|[{fd22}Chúng ta sắp mất anh ấy!{fd23}]\n
+5016|Cray! Eve!\n
+5017|Nghe đây, lính mới.\n
+5018|Để lộ nỗi sợ\nlà coi như chết.\n
+5019|Cô phải mạnh mẽ lên.\n
+5020|Vẫn còn kịp.\n
+5021|Đi tìm con bé đi.\n
+5022|Dù sao cũng là gia đình mà, nhỉ?\n
+5023|Vậy con bé là quan trọng nhất.\n
+5024|Cô phải tìm ra em ấy, Aya,\nvà đừng bao giờ buông tay.\n
+5025|Em gái tôi?\n
+5026|Đúng vậy.\n
+5027|Isabella...\n
+5028|Tôi biết sẽ có ngày gặp lại con.\n
+5029|Muộn còn hơn không.\n
+5030|Khi Isabella bị chiếm lấy,\nlinh hồn tôi đã không còn nữa.\n
+5031|Cô làm được rồi, Aya.\n
+5032|Cô đã cứu Manhattan.\n
+5033|Isabella.\n
+5034|Giá mà tôi được ăn kem\nvới con thêm một lần nữa.\n
+5035|Cray!\n
+5036|Tôi... Sao tôi lại ở đây?\n
+5037|{fd22}Ký ức từ giấc mơ ấy...{fd23}\n
+5038|{fd22}Kyle!{fd23}\n
+5039|[{fd22}Mất mát rất lớn, nhưng nhiệm vụ{fd23}\n{fd22}đã thành công. Giỏi lắm, Aya.{fd23}]\n
+5040|[{fd22}Bắt đầu Ascent.{fd23}]\n
+5041|Cô cũng bị lạc à?\n
+5042|Kyle!\n
+5043|Aya? Giờ cô nhớ ra rồi sao?\n
+5044|Cứu cô ấy! Cứu Eve!\n
+5045|Cứ để tôi!\nTôi sẽ cứu công chúa nhỏ của ta!\n
+5046|Ngủ ngon nhé, Aya.\n
+5048|Một trận chiến ác liệt đang diễn ra,\nsau khi Lầu Năm Góc ra lệnh\n
+5049|dốc hết không quân và lục quân\nđể giành lại New York.\n
+5050|Mục tiêu là Babel\nở Hạ Manhattan.\n
+5051|Nếu thất bại, đòn hạt nhân\nsẽ là hy vọng cuối cùng.\n
+5052|Thời hạn: hai giờ.\nNew York{1a5}giờ khắc quyết định đã đến.\n
+5054|Babel khổng lồ xuất hiện\nở tháp North Shallows đã\nphình to với tốc độ chóng mặt\n
+5055|và vẫn tiếp tục lớn lên.\n
+5056|Bờ Đông đã bị tàn phá,\nnhưng cuộc chiến vẫn tiếp diễn.\n
+5057|Đây là trận chiến chống Twisted\nlớn nhất từng được ghi nhận.\n
+5058|Hay tin vũ khí hạt nhân\nsắp được sử dụng, người dân\nđã bắt đầu sơ tán.\n
+5059|Khi được hỏi về\ntình hình hiện tại,\n
+5060|đại diện Nhà Trắng đáp:\n“Chiến thắng đã ở rất gần.”\n
+5061|Tuy nhiên, nhiều chuyên gia\nvẫn hoài nghi. Robert Miller\nđưa tin.\n
+5062|Tôi lo được phần còn lại.\nMaeda, tìm chỗ nấp đi.\n
+5063|Đừng nói thế.\nTôi tự lo được mà.\n
+5064|Kunihiko Maeda\nNhà khoa học Nhật Bản\n
+5065|Thôi nào, tôi lo cho anh đấy.\n
+5066|Không cần đâu.\nTôi đã gia cố nơi này rồi.\n
+5067|Tôi có thể theo dõi cô cùng\ncác chỉ số s-sinh tồn khi cô Dive,\nkhông bị gián đoạn chút nào.\n
+5068|Chỉ có cô và tôi.\n
+5069|Nhiệm vụ tại tháp North Shallows\nsắp bắt đầu.\n
+5070|Ừ, đây là cơ hội của ta.\nNhất định sẽ đưa Eve trở về.\n
+5071|Một cơ thể xuân thì mang DNA của cô.\nThật đáng kinh ngạc!\n
+5072|Tôi đi đây.\n
+5073|Tôi chẳng bao giờ chán ngắm\nkỹ thuật Overdive tuyệt vời của cô.\n
+5074|Nhưng giờ tôi chẳng thể về quá khứ.\n
+5075|Không có thiết bị thì chịu thôi.\n
+5076|Vậy cô lạc giữa dòng thời gian à?\n
+5077|Sao anh phản bội tôi?\nEve đâu? Anh đã làm gì\ncon bé?\n
+5078|Tốt nhất cô đừng biết.\n
+5079|Sự thật chỉ khiến cô đau lòng.\n
+5080|Lùi lại!\n
+5081|Tôi hiểu cô mà, Aya.\n
+5082|Tôi biết mọi thứ về cô.\n
+5083|Mái tóc cô,\n
+5084|tấm lưng cô,\n
+5085|và cả đôi môi ấy...\n
+5086|Kyle...\n
+5087|Tôi sẽ không mắc lừa nữa.\n
+5088|{fd22}Mình cảm nhận được cô bé{1a5}sự hiện diện ấy.{fd23}\n
+5089|Em đây rồi! Eve!\n
+5090|Tôi không làm{1a5}hay là có?\n
+5091|[{fd22}A-Aya, nghe này! Có gì đó{fd23}\n{fd22}bất thường ở Babel!{fd23}]\n
+5092|Kyle!\n
+5093|Aya, là em sao?\n
+5094|Anh muốn bảo vệ em.\n
+5095|Nhưng... bọn Twisted...\nChúng chiếm lấy cơ thể anh{1a5}\n
+5096|Tôi đã làm gì? Kyle, sao\nlại thế{1a5}tại sao{1a5}\n
+5097|[{fd22}Aya! Tên lửa sắp phóng{fd23}\n{fd22}bất cứ lúc nào! Làm ơn{fd23}\n{fd22}thoát khỏi đó ngay!{fd23}]\n
+5098|Kyle, trả lời tôi đi!\n
+5099|Anh tìm ra rồi.\n
+5100|Vĩnh hằng... ở trong em.\n
+5101|Kyle.\n
+5102|[{fd22}Các Babel! Chúng đang hợp nhất!{fd23}]\n
+5103|Hãy yên giấc,\n
+5104|ngươi, kẻ cuối cùng của giống loài\ncầu nguyện cho sự vĩnh hằng.\n
+5105|Cánh cửa tới Zero...\nđã mở.\n
+5107|Babel là một hệ thống Overdive sao?\n
+5108|Đúng thế. Tôi biết\nrất khó tin.\n
+5109|Khoa học không bao giờ sai.\n
+5110|Tôi còn chẳng tin được mình,\nhuống chi là{1a5}\n
+5111|Nghe tôi này, Aya. Cô ở đây.\nCô có thật. Đau thì cứ khóc.\n
+5112|Tôi nói thật đấy. Trút hết\ncảm xúc sẽ giúp vết thương lành lại.\n
+5113|Tôi biết mà.\nNước mắt cô hẳn ngọt lắm.\n
+5114|Anh nói thế để an ủi tôi à?\n
+5115|Cứ mãi tiếc những gì đã mất\nthì cô sẽ chẳng có tương lai.\n
+5116|Dĩ nhiên, sống cũng là chịu đau.\n
+5117|Và cô sẽ còn đau, nhiều lần nữa.\n
+5118|Gần đây ta phát hiện kẻ địch mới\nđang giành Grand Babel\nvới Twisted.\n
+5119|Kẻ địch mới?\nMột loài mới hay sao?\n
+5120|Đúng,\n
+5121|một giống loài thông minh\ncó thể mang hình dạng con người.\n
+5122|Tôi gọi chúng là High Ones.\nMột chủng loài mới, đầy sức mạnh.\n
+5123|Hẳn cô biết hắn.\n
+5124|Sếp...\n
+5125|Tôi đến tìm ông đây, Hyde.\nÔng nợ tôi một lời giải thích.\n
+5126|Tôi là đặc vụ Aya Brea của CTI.\n
+5127|Và nhiệm vụ cuối của tôi bắt đầu.\n
+5128|{fd22}Tôi mắc kẹt trong vòng lặp thời gian.{fd23}\n
+5129|{fd22}Twisted đến từ tương lai{fd23}\n{fd22}và tôi tiêu diệt chúng.{fd23}\n
+5130|{fd22}Rồi cuối cùng tôi gục ngã.{fd23}\n{fd22}Mỗi lần như vậy,{fd23}\n
+5131|{fd22}tôi tỉnh lại trong nhà thờ, giữa ngày tuyết rơi.{fd23}\n{fd22}Vòng lặp lại bắt đầu.{fd23}\n
+5132|{fd22}Nhưng, cô bạn à, điều đó{fd23}\n{fd22}sắp kết thúc rồi.{fd23}\n
+5133|Ai đã ra lệnh cô đến đây,\nđặc vụ Brea?\n
+5134|Không ai cả.\n
+5135|Quả là một tâm hồn dũng cảm.\n
+5136|Tôi chỉ muốn biết một điều.\n
+5137|Tại sao ông lại...\n
+5138|để tôi đối đầu với High Ones?\n
+5139|Có một thứ ta khao khát...\nvà nó ở sau cánh cửa kia.\n
+5140|Chúng ta đang chiến đấu với Twisted.\nMỗi khi một người trong chúng ta chết,\n
+5141|cấu trúc quyền năng không-thời gian\nlại được tái định hình, khiến Babel\nmạnh thêm.\n
+5142|Và ta đã biến điều đó\nthành lợi thế.\n
+5143|Giống loài ta trở thành nền móng\ncủa Grand Babel.\n
+5144|Chúng ta đã thành công khi\nmở được cánh cửa Zero.\n
+5145|Còn bạn bè ông thì sao?\nVà những người quan trọng với tôi? \n
+5146|Tôi cho họ quyền hoài nghi.\nCòn cô đã dám tin tôi, Aya.\n
+5147|Cô sợ sao, Aya?\n
+5148|Hay cô đang tận hưởng chuyện này?\n
+5149|Tôi chịu được.\nMọi người cũng đã chịu được mà!\n
+5150|Vậy thì đến đây.\n
+5151|Tôi sẽ cho cô thấy\nsự thật.\n
+5152|Là tôi đã làm sao?\n
+5153|Tôi đã bắn Eve ư?\n
+5154|Đúng. Để ngăn Eve,\nMother, thức tỉnh.\n
+5155|Eve... Eve là Mother sao?\n
+5156|Chúng tôi, High Ones, đã ở đó\nkhi Eve Brea thức tỉnh, và\n
+5157|chúng tôi may mắn thừa hưởng\nký ức từ cơ thể cô ấy.\n
+5158|Vậy nên tôi mới làm thế...\n
+5159|Tôi biết mình sửa được lỗi lầm.\nNếu tôi Dive{1a5}\n
+5160|Thật vậy sao? Quá khứ chính là\nthứ tạo nên con người cô.\n
+5161|Tôi kể cô nghe bí mật nhỏ nhé.\n
+5162|Không chỉ cô có năng lực\nOverdive. Người khác cũng có.\n
+5163|Đã đến lúc gặp Eve.\n
+5165|Tôi đi trước đây.\nQueen muốn nói chuyện với cô.\n
+5166|Đừng cản đường tôi!\n
+5167|Dù phía trước là sự thật\ntội lỗi và kinh hoàng?\n
+5168|Tôi sẽ cứu con bé!\n
+5169|Chuyện này không liên quan đến ông!\n
+5170|Tôi cũng muốn như cô thôi, Aya.\n
+5171|Tôi muốn vượt qua thời gian\nđể tìm đến Mother.\n
+5172|Tôi chỉ mong có vậy{1a5}\nTôi thề với cô.\n
+5173|Tránh xa con bé ra!\n
+5174|Kết thúc ngay tại đây.\nAi sẽ chứng kiến Time Zero?\n
+5175|Là một trong chúng ta ư?\n
+5176|Hay là,\n
+5177|có lẽ...?\n
+5178|Eve{1a5}tại sao?\n
+5179|Không thể ngăn dòng thời gian.\n
+5180|Aya Brea!\n
+5181|Cô sẽ bị buộc phải phạm\nmột tội lỗi khác, trái ý mình...\n
+5182|Sếp...\n
+5183|Rốt cuộc ông muốn gì?\n
+5184|Ông luôn ở bên tôi\nvới những lời tử tế.\n
+5185|Tất cả đều là dối trá sao?\n
+5186|Hay là{1a5}?\n
+5187|Đây là Time Zero.\n
+5188|Nơi sự vĩnh hằng bắt đầu.\n
+5190|{fd22}Chúc mừng, Aya.{fd23}\n
+5191|Aya!\n
+5193|Không.\n
+5194|Tôi là ai? Tôi không{1a5}\n
+5195|{fd22}Vậy quá khứ lại tái diễn.{fd23}\n
+5196|{fd22}Hỡi Mother Eve vĩ đại,{fd23}\n{fd22}hãy trở về thân xác ban đầu!{fd23}\n
+5197|Tôi đã ẩn trong cơ thể cô.\nTôi muốn vượt qua bức tường thời gian.\n
+5199|Đúng, cô là Eve Brea.\n
+5200|Time Zero là lúc cô Dive vào\ncơ thể Aya, cũng là lúc ký ức\ncủa cô bị tước đi.\n
+5201|Aya nằm trên mặt đất...\nT-Tôi chỉ muốn cứu chị ấy.\n
+5202|Có ai đó tiến về phía chúng tôi.\n
+5203|Tôi tuyệt vọng lắm.\n
+5204|Chính khoảnh khắc đó,\nOverdive đã ra đời{1a5}\n
+5205|khi linh hồn hai người va vào nhau.\n
+5206|Đổi lại, linh hồn Aya Brea{1a5}\nđã bị hủy diệt.\n
+5207|Ông nói dối!\n
+5208|Aya không bắn cô.\nChính cô đã hủy diệt linh hồn Aya.\n
+5209|Đó là chuyện xảy ra ở Time Zero.\n
+5210|Mảnh vỡ linh hồn Aya\nvăng khắp không-thời gian,\nrồi tái sinh\n
+5211|thành thứ ta gọi là Twisted.\n
+5212|Còn cơ thể cô suy tàn,\nsinh ra những dạng sống\nmang ký ức của cô{1a5}\n
+5213|chính là High Ones.\n
+5214|Eve và Aya{1a5}hai người\nđã tạo nên hai giống loài mới.\n
+5215|Đó chính là Time Zero.\n
+5216|Vậy tất cả đều do em sao?\n
+5217|Vòng lặp cứ tái diễn.\nNhưng chẳng cần đau buồn.\n
+5218|Từ đây, vòng lặp\nsẽ bắt đầu thay đổi.\n
+5219|Cơ thể cô sắp tan rã\nvà rồi chúng lại biến thành\nHigh Ones.\n
+5220|Aya!\n
+5221|Aya!\n
+5222|Cô không sao chứ?\n
+5223|Eve! Aya!\n
+5224|Mọi người đều{1a5}\n
+5225|Linh hồn cô đã về đúng\nnơi nó thuộc về, Eve.\n
+5226|Nghe tôi. Trước khi cơ thể cô tan rã,\nhãy tiếp nhận tôi.\n
+5227|Cô sẽ tránh được diệt vong\nvà được tái sinh.\n
+5228|Đó là lý do duy nhất\ntôi đứng trước cô lúc này.\n
+5229|Tôi đến đây để hiến dâng\nchính mình cho Mother.\n
+5230|Khi ấy cô sẽ tái sinh,\nvà hậu duệ của cô sẽ là\n
+5231|những sinh vật tiến hóa cao,\nđủ sức kết thúc cuộc chiến với Twisted.\n
+5232|Tôi sẽ ở trong cô, chứng kiến\ntương lai mới mở ra trước mắt.\n
+5233|Nhưng những người quan trọng\nvới tôi có còn ở đó không?\n
+5234|Con người ư?\n
+5235|Họ chẳng là gì, chỉ là một phần\ntrong quá trình tiến hóa của ta.\n
+5236|Không!\n
+5237|Tôi sẽ không để cô đi.\nNếu cô không thích,\n
+5238|cứ trở thành một phần của {fd22}tôi{fd23}.\n
+5239|Hãy cùng mơ nhé.\n
+5240|Cùng một giấc mơ.\n
+5241|Để em ấy yên được không?\n
+5242|Aya!?\n
+5243|Sao cơ? Linh hồn Aya đã mất rồi!\n
+5244|Ừ, đúng là đã bị hủy diệt.\n
+5245|Mơ đẹp nhé.\n
+5246|Từ giờ, tương lai là của em.\n
+5247|Chị muốn trao em thứ này.\n
+5248|Vậy chính em là người đã...\n
+5249|Nghe chị này.\n
+5250|Em phải nhắm vào đây.\n
+5251|Ngay bây giờ!\n
+5252|Em không thể! Em không làm được!\n
+5253|Em làm được mà. Nào.\n
+5254|Em chỉ muốn chị ở lại.\n
+5255|Chị ước gì đã được...\ntrao lời thề nguyện với Kyle.\n
+5256|Em luôn... luôn muốn được\nnhư chị. Chị mạnh mẽ,\nlại tốt bụng nữa...\n
+5257|Em không{1a5}Em không thể...\n
+5258|Sức mạnh và lòng tốt của chị{1a5}\n
+5259|đều là món quà em trao cho chị.\n
+5260|Cảm ơn em.\n
+5261|Eve.\n
+5262|Người kết thúc chuyện này là em.\n
+5263|{fd22}Em nghe thấy không, cô bé mít ướt?{fd23}\n
+5264|Kyle!\n
+5265|{fd22}Em còn nhớ nhẫn của ta{fd23}\n{fd22}tượng trưng cho điều gì không?{fd23}\n
+5266|Tất nhiên. Tình yêu của ta vĩnh cửu.\n
+5267|{fd22}Đúng vậy, Aya.{fd23}\n{fd22}Anh muốn em tin vào vĩnh hằng.{fd23}\n
+5268|{fd22}Hãy tin rằng ta sẽ{fd23}\n{fd22}vượt qua cả cái chết và thời gian,{fd23}\n{fd22}rồi sẽ có ngày gặp lại nhau.{fd23}\n
+5269|{fd22}Đến lúc đó, đừng quên{fd23}\n{fd22}lời hứa của chúng mình.{fd23}\n
+5270|Giáng sinh an lành.\n
+5271|{fd22}Hy vọng vào ngày mai đã đưa em tới đây.{fd23}\n
+5272|Aya?\n
+5273|{fd22}Hãy mỉm cười, bước về tương lai.{fd23}\n{fd22}Chị sẽ luôn dõi theo em.{fd23}\n
+5274|{fd22}Vâng, em sẽ cố hết sức.{fd23}\n
+5275|{fd22}Em sẽ kể cho mọi người, Aya.{fd23}\n
+5276|{fd22}Một thế giới không có chị ấy{1a5}{fd23}\n
+5277|{fd22}Đó là thế giới chị ấy mong muốn.{fd23}\n
+5278|Cô Aya Brea có đồng ý lấy\nKyle Madigan làm chồng hợp pháp,\n
+5279|cùng chung sống từ hôm nay,\ndù hạnh phúc hay gian khó,\n
+5280|dù giàu nghèo, ốm đau\nhay khỏe mạnh, đến khi chết chia lìa?\n
+5281|Tôi đồng ý.\n
+5282|Em không cần thành người khác.\n
+5283|Eve.\n
+5284|Chị muốn em sống cuộc đời mình.\n
+5285|Bọn chị sẽ dõi theo em.\n
+5286|Chị và Aya.\n
+5287|Ước gì được thấy chị ấy cười lần nữa.\n
+5288|Kyle{1a5}\n
+5289|Anh sẽ lên đường tìm sự vĩnh hằng.\n
+5290|Eve!\n
+5291|Còn một điều nữa.\nChúc mừng sinh nhật.\n
+5292|Món quà của cả hai người họ...\n
+5293|Chúc mừng sinh nhật.\n
+5294|Sinh nhật thứ tư của em.\n
+5295|Chúng tôi sẽ đưa cô về đúng nơi\nxảy ra sự kiện Sacrifice\nkhoảng một năm trước.{fed9}
+5296|Rõ, thưa sếp.\n
+5297|Nhiệm vụ của cô là phá hủy\nBig Orb bên trong Babel.{fe70}
+5298|Tôi hiểu.\n
+5299|Làm xong, Babel sẽ sớm\ntự sụp đổ.
+5300|Rõ, thưa sếp.\n
+5301|Nếu cô tới Babel ngay khi\nnó xuất hiện, rất có thể\nphá hủy được nó.{fea4}
+5302|Nếu ta thất bại thì sao?\n
+5303|Nói ngắn gọn... tương lai\nsẽ vô cùng tăm tối.
+5304|Sếp không tin có thể\nthay đổi quá khứ.{fe61}
+5305|Xin lỗi vì lại phải cử cô\nđi gấp thế này, Aya. Cẩn thận.
+5306|Tôi sẽ cẩn thận.\n
+5307|Một thế giới mới... Trái Đất 2.0.\n{fe87}
+5309|Tôi thích thế giới hiện tại.\nCó hệ thống Overdive.\nVà có cả cô.{feb4}
+5310|Không có cô thì hệ thống\nchẳng có ích gì.{fe79}
+5311|Được rồi, lính mới. Chẳng ai biết\ncô sẽ gặp thứ gì khi\ntiếp cận Big Orb.{fea9}
+5313|Kệ dữ liệu đi! Cô làm được mà.\nNhớ lại những buổi huấn luyện\ncủa mình đi.{feca}
+5314|Chắc mười lần?\nTôi không nhớ nữa.
+5315|À, chính xác!\n{fe40}
+5316|Rõ, thưa sếp.\n
+5317|Đừng mất cảnh giác! Luôn sẵn sàng!\nBất cứ chuyện gì cũng có thể xảy ra!{fe8e}
+5318|Người lính trưởng thành trên chiến trường.\n
+5319|Màn hình giữa{1a5}Vào menu chính:\nChọn nhiệm vụ và chỉnh cài đặt.
+5320|Màn hình trái{1a5}Mở hồ sơ vụ án:\nXem tài liệu tham khảo.
+5321|Cửa ra{1a5}Menu di chuyển:\nĐến các bộ phận khác của CTI.
+5322|Quầy súng{1a5}Mua vũ khí /\n     Menu tùy chỉnh.\nCửa trái{1a5}Phòng mô phỏng vũ khí.
+5323|Đổi trang phục tại tủ đang mở.\n
+5324|Thiết bị bên phải{1a5}Menu mục tiêu:\nTạo hình nộm phù hợp cấp độ\nở giữa phòng.
+5325|Lối ra: Đứng trước cửa và nhấn {193}.\n
+5326|Aya, thử mở menu chính\ntừ màn hình giữa trước đi.
+5327|Mở menu chính từ\nmàn hình giữa.
+5328|Tùy chỉnh súng trước, rồi vào\nphòng tập để thử hiệu quả.
+5329|Thiết bị Overdive của Hyde...\nÍt ra ở đây tôi có thể\nthở nhẹ nhõm hơn.
+5330|Sao tôi sợ biết quá khứ đến thế?\nVì chẳng có nơi nào\nmuốn quay về ư?
+5331|Cỗ máy này đưa mình về quá khứ.\nNhưng ai sẽ đợi mình ở đó?
+5332|Thật sự có thể đổi cả thế giới sao?\n
+5333|Ở đây lạnh quá, nằm sao nổi...\n
+5334|Phải tập trung trước khi vào.\nCả trong lẫn ngoài,\nđều phải ở trạng thái tốt nhất.
+5335|Có lần mình ngủ quên ở đây.\nNếu cứ ngủ tiếp thì sao nhỉ?
+5336|Chẳng bao giờ quen được cảm giác ấy.\n
+5337|Cứ như quan tài của mình vậy.\nCó lẽ cũng hợp.
+5338|Vừa bước vào đây\nmình đã run lên.
+5339|Nếu quá khứ thay đổi,\nchắc mình không trở về đây được.
+5340|Ai cũng sợ sức mạnh của mình...\nHọ đối xử với mình\nnhư chuột thí nghiệm.
+5341|Nếu chỉ cần ra lệnh\nlà hạ được Big Orb,\nai làm cũng được.
+5342|Khốn thật. Mình lại run rồi.\n
+5343|Đừng đặt hy vọng vào mình.\nMình không muốn phản bội hay bị phản bội.
+5344|Đây vừa là phòng làm việc,\nvừa là chiến trường của mình.
+5345|Đây là nơi duy nhất mình thuộc về.\nCứ xem như tổ ấm vậy.
+5346|Vậy CTI là nơi mình quay về...\nNhưng có ai chào\n“Mừng về nhà” đâu.
+5347|Mình thích ánh sáng dịu hơn.\nNhắm mắt tưởng tượng vẫn tốt hơn.
+5348|Nếu mình chết đi... nỗi sợ\ncó biến mất theo không?
+5349|Ít ra giấc mơ sẽ hết khi\nmở mắt. Cơn ác mộng này\nthì kéo dài mãi.
+5350|Mình phải đi, nếu không\nnơi này sẽ gặp nguy hiểm.\nKhông hành động thì chẳng cứu được ai.
+5351|Đây là nơi mình hít thật sâu\ntrước mỗi lần Dive.
+5352|Bình tĩnh. Nhớ bài tập đi.\n
+5353|Run vì sợ{1a5}đó là lúc\nmình thực sự cảm thấy đang sống.
+5354|Thanh tra và người quan sát\nngồi ở những ghế đặc biệt kia.\nHôm nay không có ai.
+5355|Mọi người hướng dẫn mình\nqua bộ đàm. Nếu mình thất bại,\nhọ sẽ ra sao?
+5356|Mình không muốn từ biệt thế này.\n
+5357|Tủ lạnh riêng của Blank.\nNghe đồn anh ấy đã độ nó.
+5358|Của Blank nhưng ai cũng dùng.\nCray còn ghi tên lên các chai.
+5359|Sếp cấm ăn uống ở đây,\nnhưng thỉnh thoảng mình vẫn\nthấy chai của ông ấy trong tủ.
+5360|“Nội quy phòng”.\nToàn những điều nên và không nên.
+5361|“Chỉ người được phép vào”.\nGiờ cản thì muộn rồi.
+5362|“Đưa toàn bộ hóa đơn cho Blank”...\nChắc anh ấy giấu hết\nvào ngân sách nghiên cứu.
+5363|Thoang thoảng mùi xà phòng.\nTự dưng thấy lòng nhẹ nhõm.
+5364|Mình thích tắm vòi sen.\nRửa trôi mồ hôi và những chuyện tồi tệ.
+5365|Ai đó cứ để quên bông tắm.\nKhông biết của ai nhỉ.
+5366|Khăn sạch mới giặt.\nNhững điều nhỏ bé cũng đáng quý.
+5367|Mềm mịn quá đi!\n
+5368|Nghe nói có người mang khăn\nvề nhà nữa.
+5369|Lần nào cũng làm mình giật mình.\n
+5370|Nhìn chẳng giống mình nữa.\n
+5371|Vết sẹo này chẳng chịu biến mất...\n
+5372|Đồ bẩn lại chất thành đống.\nMình không muốn nhìn kỹ đâu.
+5373|Nếu Gabrielle còn sống,\nthế nào cô ấy cũng càm ràm.
+5374|Thông báo khám sức khỏe\nđịnh kỳ. Giờ này mà vẫn\ncòn nghĩ tới chuyện đó sao.
+5375|Họ liên tục đo sức khỏe mình,\nnhưng những con số ấy đâu thể\nbiết mình đang cảm thấy gì.
+5376|Mình mang những gen đặc biệt.\nÍt nhất sẽ trông trẻ hơn\nso với tuổi thật.
+5377|Áp phích vận động viên à?\nKhông biết ai nhỉ.
+5378|Hình như là vận động viên chuyên nghiệp.\nMình chẳng biết người này.
+5379|Cứ như sắp có thứ gì\nnhảy bổ ra...
+5380|Tủ này bị hỏng sao?\n
+5381|Chắc không nên để đồ quan trọng\nở đây nhỉ?
+5382|“Không lực Một gặp nạn”.\nTuần nào cũng có\nmột tin kiểu này.
+5383|Hầu hết các trang báo viết\nvề Twisted. Giờ chúng đã\nthành chuyện thường ngày.
+5384|“Top 10 bài kiểm tra thể lực”.\nTất nhiên chẳng có tên mình.
+5385|Có ai viết bậy ở đây.\n“Bầu người bị ghét nhất CTI”.
+5386|Sếp đứng đầu danh sách.\nChẳng có gì lạ...
+5387|“Mỹ bị hủy diệt trong hai năm?”\nNếu mình thay đổi thế giới,\nngười chết có trở lại không?
+5388|“Sự kiện Leavenworth”.\nMột bài báo cũ.
+5389|Nữ diễn viên nổi tiếng ấy.\nLâu lắm rồi mình chưa\nxem phim.
+5390|Cô ấy từng nổi tiếng lắm.\nMình có diễn viên yêu thích không?\nCó từng hâm mộ ai chăng?
+5391|Có vẻ ai đó để quên thứ này.\n
+5392|Trong lúc huy động khẩn cấp,\nđể quên đồ cũng dễ hiểu.
+5393|Áp phích nhà hát opera New York.\nHình như nơi đó gắn với\nmột ký ức không vui.
+5394|“Triển lãm mỹ thuật: Một vé”.\nChắc chẳng ai dùng sớm đâu.
+5395|“Top 10 bài kiểm tra thể lực”.\nLại nữa? Để làm gì?
+5396|Đâu đâu cũng thấy mấy thứ này.\nCó người thích khoe khoang sao?
+5397|Nhà vệ sinh nam ở hướng này.\nMình định tìm gì trong đó chứ?
+5398|Bẩn hơn nhà vệ sinh nữ nhiều.\nGhê quá, đi thôi.
+5399|Bị bắt gặp ở đây\nchắc bị mắng cho một trận.
+5400|“Vui lòng bỏ vật dụng hút thuốc\nvào đây”.\n...Vào đâu cơ?
+5401|Hết thời ngậm điếu thuốc\nđể tỏ ra ngầu rồi nhỉ.
+5402|Đây là bộ đồ đặc biệt\ndo CTI phát triển.
+5403|Nghe nói mặc vào di chuyển rất dễ.\n
+5404|Hiện mình không có năng lực nào\nđể bộ đồ này phát huy.
+5405|Cuối cùng bộ này cũng là của mình...\n
+5406|Còn phải đánh nhau bao lần nữa?\nVũ khí hiện tại không thể hạ\nmột số loại Twisted.
+5407|Gabrielle và mình từng hay đến đây.\n
+5408|Mình phải luyện tập\nđể mạnh hơn.
+5409|Khu vực cấm hút thuốc.\n
+5410|Tập xong, đứng đây\nlấy lại hơi thật dễ chịu.
+5411|Mình từng ngủ quên ở đây\nsau buổi tập.
+5412|Cứ như nghe thấy Cray nói.\nMình ngất thật sao?
+5413|Cray bảo tập đủ sẽ giúp\nmình tự tin hơn.
+5414|“Giải thi bắn súng”{1a5}năm ngoái.\nKhi đó Gabrielle\nvẫn còn ở đây...
+5415|“Xếp hạng thi bắn súng”.\nThành tích của mình tệ thê thảm.
+5416|“An toàn trên hết”.\nPhải viết “Coi chừng nổ”\nmới đúng.
+5417|“Tạp chí Vũ khí, số tháng Tư:\nVultee BT-13 Valiant”.
+5418|Một cuốn tạp chí cũ.\nAi để lại đây nhỉ?
+5419|Không biết chủ cuốn tạp chí\ncòn sống hay không.
+5420|Dùng khi có cháy hoặc nổ.\n
+5421|Cray từng chỉ mình cách dùng.\n
+5422|Nặng thật đấy{1a5}mình có\nkham nổi không?
+5423|Thùng tái chế chai rỗng\nở đâu nhỉ?
+5424|Họ cần tuyển thêm nhân viên.\nChỗ này bừa bộn quá.
+5425|Uống cho đỡ khát\nsau khi tập.
+5426|Đang Overdive mà hồi hộp\nđến khô miệng thì\nchẳng biết làm sao.
+5427|Mục tiêu nhiệm vụ là tìm\nThelonious Cray{fe4f}
+5428|Rõ, thưa sếp.\n
+5429|Trước đây cô nói rằng\ncô đã đổi quá khứ{fe50}
+5430|Vâng. Là lỗi của tôi.\n
+5431|Ở thế giới trước, vụ này\nkhông xảy ra và Cray\ncũng không chết, đúng chứ?{fe88}
+5432|Vâng, đúng vậy.\n
+5433|Cô ấy chẳng có lý do nói dối.\n{fe49}
+5434|Hmm... CTI không có sếp đúng là thiên đường.\nTha hồ lấy ngân sách nghiên cứu...
+5435|Đó không hẳn là câu trả lời\ntôi mong đợi.
+5436|Tôi biết.\n{fe3a}
+5437|Hả?\n
+5438|Một mình trong thế giới chẳng ai,\nkể cả cô, biết quá khứ của mình{1a5}{fe81}
+5439|Tôi tin lời cô rằng\nquá khứ đã thay đổi.{fe66}
+5440|Tôi muốn Cray trở lại bằng mọi giá.\nTôi tin cô.{fe9c}
+5441|Ba ngày trước đã xảy ra\nchuyện gì?
+5442|Mọi chuyện bắt đầu khi Babel\nở Spanish Harlem bị tấn công.{fe72}
+5443|Quân đội và FBI nghĩ đây\nlà dịp phản công nên\nchúng tôi đồng ý hợp tác.
+5444|Đó là lý do Cray tham gia.\n
+5445|Chúng tôi hoàn toàn chưa chuẩn bị.\nMột giống loài lạ đã xuất hiện.{fe91}
+5446|Chà...\n
+5447|Xin lỗi vì đã kéo cô\nvào nhiệm vụ này.{fe51}
+5448|Có gì đó lạ lắm. Như thể\nta lâu rồi chưa gặp nhau.
+5449|T-Tôi chẳng hiểu\nanh đang nói gì.
+5450|Tôi không biết diễn tả sao...\nThôi vậy.{fe7e}
+5451|Cảm ơn.\n
+5452|Ba ngày trước, tôi đã đến\nSpanish Harlem. Tôi hiểu tình hình\nhơn bất cứ ai.{fea5}
+5453|Ừ.\n
+5454|Tôi muốn cô hoàn thành\nđiều tôi thất bại. Đến lúc trả thù rồi.
+5455|Cô có thể đi tắm,\nnhưng đừng mách sếp.
+5456|Cô vẫn giữ dáng tốt đấy.\n
+5457|Xong chưa?\n
+5458|Trông ổn đấy.\n
+5459|Ôi, dễ thương quá!\n
+5460|Đậm chất tương lai.\n
+5461|Ồ, đồ mới à?\n
+5462|Trông quyến rũ ghê.\n
+5463|Cô tính mặc thế mà đi à?\n
+5464|Sếp bảo tôi để mắt tới cô.\n
+5465|Cô không tránh mặt tôi đấy chứ?\n
+5466|K-Không, tất nhiên là không!\n
+5467|Vậy sao cô bối rối thế?\nMuốn biết điều gì,\ncứ hỏi tôi.
+5468|Cray thường xuyên đến đây.\nKhông có anh ấy{1a5}nơi này\nchẳng còn như trước.
+5469|Nếu nhiệm vụ quá sức,\ntôi sẽ không ép cô tiếp tục.{fe82}
+5470|Anh nói gì thế?\n
+5471|Sào huyệt của cô{1a5}Babel.\n
+5472|Nhà nước cấp cho CTI đủ\nngân sách để thuê hàng nghìn\ncảnh sát liên bang và kỹ sư.{fefa}
+5473|Để tôi yên.\n
+5474|Thiết bị này là hy vọng cuối...\nGiá mà chỉ búng tay\nlà điều ước thành thật.
+5475|Thế giới có thể đổi{1a5}lần nữa.\nMong điều đó là thật.
+5476|Ký ức của mình cũng ở quá khứ sao?\n
+5477|Dù chẳng ai có được\ncuộc đời hoàn hảo...
+5478|Trong này mình thấy bất an,\nkhông chỉ vì tối và chật.
+5479|Dù Dive bao nhiêu lần,\nmình vẫn chẳng quen nổi\ncảm giác Overdive.
+5480|Mình không muốn than vãn,\nnhưng chỗ này đâu phải\nnơi ngủ ngon.
+5481|Ở đây mình không còn là mình.\nCứ như chiếm lấy\ntâm trí người khác.
+5482|Mình muốn chứng minh rằng\nquá khứ có thể đổi{1a5}vì\nchính bản thân mình.
+5483|Sức mạnh đáng sợ có thể\nđổi số phận con người...\nMong nó cũng cứu được họ.
+5484|Mình khiến Cray phải chết.\nLiệu có xóa được cảm giác tội lỗi?
+5485|Nghĩ tới quá khứ\ntự dưng thấy đau. Vậy\nmình cũng từng có quá khứ sao?
+5486|Nhiệm vụ là cứu Cray.\nMình phải cố hết sức.
+5487|Được gặp lại Gabrielle như\nmơ vậy{1a5}nhưng là thật.
+5488|Sếp sống lại cũng\nlà nhờ mình đã thay đổi\nquá khứ.
+5489|Mình có thể tạo ra thế giới\nkhông ai phải chết không?
+5490|Mừng vì Gabrielle còn sống,\nnhưng mình đâu thể cứ ngồi vui.
+5491|Cray không ở đây...\nChỉ mình thấy bất an sao?
+5492|Quá khứ đổi thì mọi người\nở đây cũng sẽ đổi.
+5493|Mình muốn sống để trở lại.\nNgay trước nhiệm vụ cũng vậy.
+5494|Sếp lúc nào cũng nổi giận.\nBiết đâu thay đổi quá khứ\nsẽ khiến ông mỉm cười.
+5495|Gabrielle của ba ngày trước...\nDive vào cô ấy sẽ có cảm giác gì?
+5496|Mình thấy Cray ở quá khứ{1a5}còn sống.\nNhưng thấy đâu có nghĩa là cứu được.
+5497|Trưởng phòng tin mình.\nÍt ra cũng thấy an tâm hơn.
+5498|Lần đầu mình đi giải cứu.\nKhông được phép thất bại.
+5499|Không có thời gian ngồi sợ{1a5}\nMình còn nhiệm vụ phải làm!
+5500|Blank ngồi đây viết mã\nđến tận khuya.
+5501|Liệu mình làm được điều\nGabrielle không thể trong vụ đó?
+5502|Trưởng phòng nghiêm khắc mà tốt.\nÔng giúp mình khi mất sạch ký ức.
+5503|Tủ lạnh dùng chung. Hôm nay\ncó bánh của Gabrielle.
+5504|Thế giới có đổi,\nbánh ngọt vẫn còn.
+5505|Đầy nước có ga của Blank.\nAnh ấy bảo đó là “nhiên liệu hacker”.
+5506|“Nghiêm cấm mang nam châm!”\nNếu không sẽ ảnh hưởng\nthiết bị chính xác.
+5507|“Mất một máy chơi game cầm tay! Tìm Blank.”\nAnh ấy lấy đâu thời gian chơi?
+5508|“Phải biết tiết chế! {1a5}Trưởng phòng Bohr.”\nChắc sếp vừa mắng anh ấy.
+5509|Mình vẫn ngửi thấy mùi dầu gội ai đó.\n
+5510|Chắc thứ này của Gabrielle.\n
+5511|Có người dạy mình chăm chút\nngoại hình cũng là việc của dân chuyên.
+5512|Hơi ẩm ướt.\n
+5513|Có ai vừa ở đây à?\nHay mình nhìn nhầm?
+5514|Đôi khi soi gương,\nmình cứ thấy một người lạ.
+5515|Đây là chỗ để khăn bẩn.\n
+5516|Thế giới có đổi,\nnơi này vẫn thế. Có lẽ\nmình quen cuộc sống này rồi.
+5517|“Khám sức khỏe: Nhân viên\nphải kiểm tra lại”.\nSếp vẫn chưa đi khám.
+5518|Mỗi lần Dive, họ lại kiểm tra\nsinh hiệu và đủ thứ khác.
+5519|Một bức ảnh. Chắc là\nngười đặc biệt với ai đó.
+5520|Vật kỷ niệm một dịp đặc biệt?\nKhông biết mình có cái nào không.
+5521|Cánh tủ này lúc nào cũng hé mở.
+5522|Tủ đã hé thì hoặc muốn\nđóng hẳn, hoặc mở toang.\nMình chọn cách nào nhỉ?
+5523|“Tàu sân bay đang đóng\ndở bị đánh chìm”.\nMình từng nghe tin này chưa?
+5524|Đây không phải bài báo\nmình thấy ở thế giới trước.\nNó thay cho sự kiện nào?
+5525|“Thi thể lực: Gabrielle đứng\nđầu”. Hóa ra cô ấy\nkhông chỉ giỏi bắn súng.
+5526|“Sổ ghi chú liên lạc”.\nĐầy lời than phiền công việc.
+5527|“Mỹ bị hủy diệt trong bốn năm”.\nChẳng phải trước đây là hai sao?
+5528|“New York có hơn ba triệu thương vong”.\nBáo cũ rồi. Thành phố\ngiờ ngưng hoạt động hoàn toàn.
+5529|Áp phích nữ diễn viên.\nHình như cô ấy nổi tiếng ở đây.
+5530|Áp phích phim. Giờ chẳng còn\nmấy phim mới ra mắt.
+5531|Mùi gì kinh khủng thế?\n
+5532|Thứ này nằm đây bao lâu rồi?\n
+5533|Áp phích opera. Mà giờ\ncòn ai biểu diễn đâu.
+5534|“Triển lãm mỹ thuật: Một vé”.\nChắc giờ đã đóng cửa rồi.
+5535|“Top 10 kiểm tra thể lực”.\nNgười đứng đầu tự đi\ndán khắp nơi sao?
+5536|Sao lại có mùi khói ở nơi cấm hút thuốc?\nKhoan{1a5}Gabrielle!?
+5537|Ai lại hút thuốc trong phòng thay đồ?\n
+5538|Đồ tác chiến dành cho nữ đặc vụ.\n
+5539|Nghe nói còn bảo vệ\ncơ thể rất tốt.
+5540|Muốn mặc bộ này\nphải đủ điều kiện.
+5541|Cuối cùng bộ này cũng là của mình...\n
+5542|Nelson bên bộ phận an ninh.\nMột trong số ít người\ncòn ở lại CTI.
+5543|Nơi này từng đông nghịt\nnhân viên và\ncác nhà nghiên cứu.
+5544|Chính Cray đã khiến mình\nbắt đầu tập luyện.
+5545|Mỗi lần cầm vũ khí,\nmình lại thấy như mất đi thứ gì.
+5546|Đây là nơi cấm hút thuốc.\nBiết giữ thói quen tốt\nmới xứng tầm chuyên nghiệp.
+5547|Nghe nói nhiều tay súng tỉa hút thuốc.\nChắc công việc áp lực lắm.
+5548|Trước khi tập, mình thường\nngồi đây hít thật sâu.
+5549|Luyện tập chẳng dễ, nhưng nó\nđã cứu mạng mình hàng chục lần.
+5550|Mình nợ Cray mạng sống.\nPhải cho anh thấy kết quả tập luyện.
+5551|“Giải bắn súng CTI”.\nChắc vòng loại mình\ncũng chẳng qua nổi.
+5552|“Bảng thi bắn súng: Gabrielle dẫn đầu”.\nĐổi quá khứ thật sự\ncũng đổi cả tương lai.
+5553|“Thưởng tiền cho ai thắng Gabrielle”.\nCó lần mình thắng trong diễn tập...\nchỉ là ăn may.
+5554|“Tạp chí Vũ khí, số tháng Bảy:\nThiết giáp hạm Bismarck”.
+5555|“31 cách tìm đúng mẫu đàn ông lý tưởng”.\n
+5556|“Báo cáo: Giao chiến với Twisted”.\n
+5557|Dùng khi có hỏa hoạn.\n
+5558|Chắc trạm cứu hỏa\ncũng thiếu nhân lực rồi.
+5559|Có lẽ không được\nvứt những chai này đâu.
+5560|Quá khứ có đổi,\nnơi này vẫn y như cũ.
+5561|Mình thích đồ ít calo hơn.\n
+5562|Thứ mình cần nhất\nlúc nào cũng hết.
+5563|Từ đây nhìn thấy\ncảnh thành phố.
+5564|Cứ lên đó nhận nhiệm vụ,\nkhẩu súng lại nặng trĩu.
+5565|Mái nhà là nơi duy nhất\nhít được chút không khí trong lành.
+5566|Mình từng gặp Cray ở đây.\nKhông biết anh ấy lên làm gì.
+5567|Từ đây, thành phố\ntrông cũng khác.
+5568|Dù có bỏ trốn,\nmình cũng chẳng biết đi đâu.
+5569|Không biết đường này dẫn đi đâu?\nCTI vẫn có nhiều chỗ\nmình chưa biết.
+5570|Từ đây, thành phố\ntrông cũng khác.
+5571|Babel ở đằng kia.\n
+5572|Đó thật sự là sào huyệt Twisted sao?\n
+5573|Không biết Babel còn\nlớn thêm nữa không.
+5574|Không thể tin đây là New York.\n{fd22}Đã từng là{fd23} New York.
+5575|Sao họ lại dựng\nthứ như vậy chứ?
+5576|Mình chẳng nhớ nổi đường chân trời\nnếu không có Babel.
+5577|May mà Babel chưa lan tới đây.\n
+5578|Vài khu trong thành phố\nvẫn bình yên.
+5579|Đêm Giáng sinh cô quạnh quá.\n
+5580|Hơi ồn ào.\n
+5581|Ồn đến nỗi chẳng thể\ntập trung suy nghĩ.
+5582|Mình nhớ từng khóc ở đây.\n
+5583|Sao khi Dive vào Emily,\nký ức mình lại trở về?
+5584|Một nhà thờ, tiếng súng,\ncô gái giống mình{1a5}trước khi\nmất trí nhớ đã xảy ra chuyện gì?
+5585|Mình đổi thế giới và Cray chết.\nNếu lại thay đổi lần nữa...
+5586|Sếp thật đáng sợ.\nÔng ấy ghét mình đến mức\ncứ như mình là Twisted.
+5587|Vậy quá khứ đổi được thật sao?\nLiệu có liên quan đến cô gái ấy?
+5588|Mình đã không tiêu diệt\nhết lũ Slacker...
+5589|Mình đã không tiêu diệt\nhết lũ Wad...
+5590|Mình đã không bảo vệ được\nthường dân...
+5591|Mình đã không thoát khỏi\nReaper đủ nhanh...
+5592|Mình đã không né được\nReaper mà không bị thương...
+5594|Đội Delta Force hy sinh\ntrong chiến dịch Red Fog\ndo Russo chỉ huy.{fe8c}
+5595|Rõ, thưa sếp.\n
+5596|Ta làm chuyện này\nmà không có Cray sao?
+5597|Anh ấy cần nghỉ ngơi.\nChúng ta sẽ dẫn đường.{fe64}
+5599|Sao thế?\n
+5600|Có phải... anh sợ\nmất Aya?
+5601|Ơ, ừm, xin lỗi!\n{fe50}
+5602|Aya luôn có cảm giác đó\nmỗi khi cô ấy Dive.
+5603|Đúng thật!\nSao tôi không nghĩ ra?
+5605|Về Queen, người ta đã thấy\nmột Twisted mang hình dạng\nbé gái.
+5606|Rõ, thưa sếp.\n
+5607|{fd22}Đợi chị nhé, Eve.{fd23}\n{fe2d}
+5608|{fd22}Ba người chúng ta sao?{fd23}\n
+5609|Sao? Cô nhớ ra gì rồi à?\n
+5610|Không, chẳng có gì.\n
+5611|Tiếc thật.\n{fe39}
+5612|Cảm ơn.\n
+5613|Về người đàn ông cô kể,\nKyle Madigan, không tìm thấy\ntrong dữ liệu CTI.{febe}
+5614|Cray có lý do chính đáng\nđể phản ứng như vậy.{fe61}
+5615|Chẳng phải đó là nhiệm vụ\nđơn vị cũ của Cray bị mất tích sao?
+5616|Ừ, mong tôi không khiến anh ấy buồn.\n
+5617|Sao nhiệm vụ này quan trọng vậy?\n
+5618|Babel ở Grand Central\nchính là vấn đề. Có vẻ nó\nlà tâm điểm của các Babel khác.{fee0}
+5619|Chiến dịch Red Fog còn\nquá nhiều câu hỏi chưa giải đáp.{fe64}
+5620|Không có hồ sơ ghi lại\nhậu quả của vụ đó sao?
+5621|À{1a5} cô nói cũng có lý.\nÝ tôi là, cô đúng đấy...{fea0}
+5622|Tôi không rõ, nhưng ta phải làm.\n
+5623|Ừ. Đây là lõi\ncủa mọi Babel.{fe64}
+5624|Tôi biết mình đã nói\nđiều khiến Cray tổn thương,{fe47}
+5625|Ký ức về Eve đã trở lại,\nnhưng mỗi lần Dive mình mất gì?
+5626|Có gì chờ trong Babel giữa sương đỏ?\nMình Dive để tìm sự thật.
+5627|Nếu về quá khứ,\nmình có gặp được Eve không?
+5628|Sao mình cứ quay lại\nđêm Giáng sinh? Ngày đó\ncó gì đặc biệt?
+5629|Nhắm mắt lại như chìm vào\ngiấc ngủ sâu. Một mình thì\ndễ chịu đấy{1a5}chỉ hơi cô đơn.
+5630|Họ đo đủ thứ chỉ số\ncơ thể. Cả đời mình thành những con số.
+5631|Thiết bị này là dây cứu sinh{1a5}\nmình phải giữ gìn. Những sợi dây\nquý giá đang muốn kết nối với ai đó.
+5632|Nếu đổi quá khứ, mình sẽ\nthức dậy ở nơi khác sao?\nVà khi ấy vẫn một mình?
+5633|Mình đổi cả thế giới,\nnhưng chẳng ai nhận ra.\nChắc Thượng Đế cũng thấy thế.
+5634|Rốt cuộc Kyle Madigan là ai?\n
+5635|Mình sẵn lòng Dive về quá khứ\nnếu tìm lại được bất kỳ ký ức nào.
+5636|Mình cảm thấy Overdive\nngày càng mạnh. Có thể\nquay ngược bao xa?
+5637|Không có Cray thật cô đơn,\nnhưng cũng hiểu vì sao\ncó người muốn quên quá khứ.
+5638|Bạn của Cray là người thế nào?\nLiệu mình cứu được anh ấy không?
+5639|“Chiến dịch Red Fog”...\nKhông ai sống sót. Mình thật sự\nđược quyền đổi lịch sử sao?
+5640|Không tin nổi cả Delta Force\nđã bị tiêu diệt. Phải tận mắt\nxem chuyện gì xảy ra.
+5641|Chắc Cray cũng sẽ trở lại.\nDù sao chẳng ai trốn được\nquá khứ của mình.
+5642|Mọi người đều quan tâm mình.\nThừa nhận là thấy yên lòng hơn.
+5643|Mình sẽ ổn thôi.\nTrưởng phòng và Blank luôn hỗ trợ.
+5644|Một khi đổi được thế giới,\nmình sẽ quay lại đây.
+5645|Mình không muốn là nguyên nhân\nkhiến bất kỳ ai phải chết.
+5646|Mỗi lần Dive lại có người\nmình phải bảo vệ. Liệu có ngày\nđến được “thế giới hoàn hảo”?
+5647|Gabrielle... ước gì gặp lại cô.\nSếp... hãy yên nghỉ.
+5648|Mình chỉ mong nhớ lại gia đình.\nThật đấy{1a5}chỉ vậy thôi.
+5649|Eve đã gặp chuyện gì?\nMình muốn gặp con bé.
+5650|Eve đang đợi mình.\nMình biết chắc thế.
+5651|Hôm nay Cray lạ quá.\n
+5652|Cray tuyệt vọng đến mức\nmất bình tĩnh. Phải chăng anh\nđang giấu sự thật về Red Fog?
+5653|Cray... có biết điều gì không?\n
