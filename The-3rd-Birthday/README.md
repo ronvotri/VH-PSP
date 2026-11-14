@@ -86,3 +86,12 @@ Patch `.psv` gồm `ID|Tiếng Việt`. Khi nhập vào nguồn phải nối b�
 - `strings_translated_checkpoint_17.csv`: 5,599 rows and 2229 translated IDs.
 - `translations_merged_02-17.psv`: 2022 repository translation entries excluding 207 batch 01 entries.
 - New 38/38 token and newline QA pass. Prior 40 layout warnings remain unresolved.
+
+
+## Checkpoint 18 — 14/11/2026
+
+- **320 mục dịch mới** (ID 5331–5653): `patch_18_5331-5653.psv`; đồng thời lưu các tiểu phần 18a/18b/18c để đối chiếu.
+- CSV tổng `strings_translated_checkpoint_18.csv`: đủ **5.599 hàng**, đã có **2.549** mục dịch (**45,5%**).
+- `translations_merged_02-18.psv`: **2.342 ID** từ đợt 02–18, cộng **207** bản dịch đợt 01.
+- QA: **320/320** mục mới bảo toàn thẻ định dạng và số `\\n` sau khi chỉnh 12 câu trong bản nháp.
+- 40 cảnh báo bố cục từ các đợt cũ vẫn cần QA, chưa thử trên máy PSP/PPSSPP.
